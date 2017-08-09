@@ -11,9 +11,11 @@ p <- ggplot(d2, aes(x = as.factor(floor), y = accuracy)) + theme_bw() +
                                   '1940', '1970')) +
   theme_bw() +
   annotate('text', x = '1700', y = 0.99, label = 'Predictive\naccuracy', 
-           hjust = 0, family = 'Baskerville', size = 6.5) +
-  theme(text = element_text(size = 22, family = "Baskerville"), panel.border = element_blank()) +
-  theme(axis.line = element_line(color = 'black'))
+           hjust = 0, family = 'Baskerville', size = 6.8) +
+  theme(text = element_text(size = 24, family = "Baskerville"), panel.border = element_blank()) +
+  theme(axis.line = element_line(color = 'black'),
+        axis.text = element_text(color = 'black'),
+        axis.title.x = element_text(margin = margin(t = 14)))
 tiff("/Users/tunder/Dropbox/book/chapter1/images/C1Fig3boxplot.tiff", height = 6, width = 9, units = 'in', res=400)
 plot(p)
 dev.off()

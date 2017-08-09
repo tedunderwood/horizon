@@ -13,15 +13,16 @@ points = data.frame(year = dates, colorpct = hard, genre = genre)
 p <- ggplot(causes, aes(x = year, y = hardpct, color = genre, shape = genre)) + 
   geom_smooth() + geom_point() +  
   scale_color_manual(name = 'genre\n', values = c('gray60', 'black'), 
-                     guide = guide_legend(keyheight = 3,  label.vjust = 0)) + 
+                     guide = guide_legend(keyheight = 3.5,  label.vjust = 0, override.aes= list(size = 3))) + 
   scale_y_continuous('', labels = percent) + 
   scale_x_continuous("") + theme_bw() +
   annotate('text', x = 1700, y = 0.0755, label = 'Frequency of\nStanford "hard seeds"', 
-           hjust = 0, family = 'Baskerville', size = 6.4) +
-  theme(text = element_text(size = 22, family = "Baskerville"), panel.border = element_blank()) +
-  theme(axis.line = element_line(color = 'black')) +
+           hjust = 0, family = 'Baskerville', size = 6.6) +
+  theme(text = element_text(size = 24, family = "Baskerville"), panel.border = element_blank()) +
+  theme(axis.line = element_line(color = 'black'),
+        axis.text = element_text(color = 'black')) +
   scale_shape_discrete(name = "genre\n",
-                       guide = guide_legend(keyheight = 3,  label.vjust = 0, override.aes = list(linetype = 0, fill = NA)))
+                       guide = guide_legend(keyheight = 3.5,  label.vjust = 0, override.aes = list(linetype = 0, fill = NA)))
 tiff("/Users/tunder/Dropbox/book/chapter1/images/C1Fig2stanford.tiff", height = 6, width = 9, units = 'in', res=400)
 plot(p)
 dev.off()

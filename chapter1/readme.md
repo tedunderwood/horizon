@@ -19,7 +19,11 @@ Created by rplots/C1Fig3boxplot.R. This immediately uses plotdata/biopredictsII.
 
 Figure 1.4
 ----------
-Created by rplots/C1Fig3boxplot.R. This immediately uses plotdata/allsubset2.csv. If you want to recreate that from original data, you'll need to consult code/biomodel.py, and probably change some paths in that code.
+Created by rplots/C1Fig4probabilities.R. This immediately uses plotdata/allsubset2.csv. If you want to recreate that from original data, you'll need to consult code/biomodel.py, and probably change some paths in that code.
+
+Figure 1.5
+-----------
+Created by rplots/C1Fig5pace.R, using data in plotdata. Note that the original source of this data is [in a different repository supporting an *ELH* article.](https://github.com/tedunderwood/moments) 
 
 **A description of the directories:**
 

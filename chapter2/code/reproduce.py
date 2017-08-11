@@ -2,6 +2,27 @@
 
 # reproduce.py
 
+# Code that guided modeling of genres in Chapter 2.
+
+# For this to work, you'll need to unpack the data in
+# data_for_chapter2.tar.gz, and place it in
+# horizon/chapter2/sourcefiles/
+
+# Usage then depends on picking a particular option from
+# the menu of options at the bottom of the script
+# (after >>MAIN EXECUTION<<)
+
+# There are lots of possible options.
+
+# USAGE:
+# python3 reproduce.py allSF
+
+# will give you results for 'allSF'
+
+# Some options (like 'compare') take additional
+# arguments. (In the case of 'compare,' it's two
+# models you want to compare.)
+
 import csv, os, sys, pickle, math
 import pandas as pd
 
@@ -164,20 +185,20 @@ def applymodel():
 
 def comparison(selfmodel, othermodel, modelname):
 
-        totalvolumes = 0
-        right = 0
+    totalvolumes = 0
+    right = 0
 
-        for v in selfmodel.index:
-            realgenre = selfmodel.loc[v, 'realclass']
-            v = str(v)
-            otherprediction = othermodel.loc[v, modelname]
-            if realgenre > .5 and otherprediction > 0.5:
-                right += 1
-            elif realgenre < .5 and otherprediction < 0.5:
-                right += 1
-            totalvolumes +=1
+    for v in selfmodel.index:
+        realgenre = selfmodel.loc[v, 'realclass']
+        v = str(v)
+        otherprediction = othermodel.loc[v, modelname]
+        if realgenre > .5 and otherprediction > 0.5:
+            right += 1
+        elif realgenre < .5 and otherprediction < 0.5:
+            right += 1
+        totalvolumes +=1
 
-        return totalvolumes, right
+    return totalvolumes, right
 
 def getacc(filelist):
     allofem = 0
@@ -194,9 +215,38 @@ def getacc(filelist):
         allright += (tp + tn)
     return allright / allofem
 
+# >> MAIN EXECUTION <<
+
 if __name__ == '__main__':
 
     args = sys.argv
+
+    # This is a very long list of questions you could pose. In reality,
+    # the present state of the chapter only uses a small subsection of them.
+    # But I've left them in, so you get a sense of the exploration that
+    # actually led me to the conclusions in the chapter.
+
+    # The options used to produce figures are
+    #      detectnewgatesensation
+    #      allSF
+    #      SFpaceofchange, and
+    #      detectivepaceofchange
+
+    # But many of the other options are used in passing to get an accuracy
+    # figure that I include parenthetically in the text. In particular, note that
+    # 'compare' can be applied to the results of other options.
+
+    # Right now some of these options still require manually editing paths to point
+    # to the right location on your machine. All of them will require unpacking
+    # data_for_chapter2.tar.gz and placing the contents in /sourcefiles.
+
+    # The two paceofchange options were originally written just to produce model
+    # files, leaving the comparison of models to options called "mutualrecognition":
+    # detectivemutualrecognition and sfmutualrecognition.
+
+    # Later, those operatations were folded into the paceofchange scripts. But because
+    # something may go wrong, and you may need to calculate the comparison separately,
+    # I have also left them in here separately.
 
     if len(args) < 2:
         positive_tags = ['locdetective', 'locdetmyst', 'chimyst', 'det100', 'newgate']
@@ -238,17 +288,17 @@ if __name__ == '__main__':
         # It compares them.
         firstmodel = args[2]
         secondmodel = args[3]
-        firstpath = '/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.pkl'
-        secondpath = '/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.pkl'
-        metadatapath = '/Users/tunder/Dropbox/fiction/meta/concatenatedmeta.csv'
+        firstpath = '../modeloutput/' + firstmodel + '.pkl'
+        secondpath = '../modeloutput/' + secondmodel + '.pkl'
+        metadatapath = '../metadata/concatenatedmeta.csv'
         sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
         extension = '.tsv'
         firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
         # firstonall.set_index('docid', inplace = True)
         secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
         # secondonall.set_index('docid', inplace = True)
-        firstonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.csv', index_col = 'volid')
-        secondonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.csv', index_col = 'volid')
+        firstonself = pd.read_csv('../modeloutput/' + firstmodel + '.csv', index_col = 'volid')
+        secondonself = pd.read_csv('../modeloutput/' + secondmodel + '.csv', index_col = 'volid')
 
         firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
         secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
@@ -573,6 +623,10 @@ if __name__ == '__main__':
                     featurestep = 200
                     genre_gridsearch(secondmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = center, excl_above = (ceiling-1), metadatapath = subsetmetapath)
 
+        # Now, using the models and output that were written
+        # to file, we calculate the difference between a period's
+        # view of itself and an adjacent period's view of it.
+
         sfresults = []
         for iteration in range(5):
             for center in range(1890, 1980, 10):
@@ -653,6 +707,10 @@ if __name__ == '__main__':
                     featurestep = 200
                     genre_gridsearch(secondmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = center, excl_above = (ceiling-1), metadatapath = subsetmetapath)
 
+        # Now, using the models and output that were written
+        # to file, we calculate the difference between a period's
+        # view of itself and an adjacent period's view of it.
+
         detectiveresults = []
         for iteration in range(5):
             for center in range(1890, 1980, 10):
@@ -698,7 +756,7 @@ if __name__ == '__main__':
                 f.write(line)
 
 
-    elif args[1] == 'mutualrecognition':
+    elif args[1] == 'detectivemutualrecognition':
         detectiveresults = []
         for iteration in range(5):
             for center in range(1890, 1980, 10):

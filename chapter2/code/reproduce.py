@@ -542,7 +542,7 @@ if __name__ == '__main__':
 
         allmeta = pd.read_csv('../metadata/concatenatedmeta.csv')
 
-        for iteration in range(3, 5):
+        for iteration in range(5):
 
             thissample = allmeta.sample(frac = 0.85)
             subsetmetapath = '../metadata/SFsample' + str(iteration) + '.csv'
@@ -573,15 +573,29 @@ if __name__ == '__main__':
                     featurestep = 200
                     genre_gridsearch(secondmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = center, excl_above = (ceiling-1), metadatapath = subsetmetapath)
 
+        sfresults = []
+        for iteration in range(5):
+            for center in range(1890, 1980, 10):
+                floor = center - 30
+                firstmodel = "SF" + str(iteration) + '-' + str(floor) + "-" + str(center)
+                ceiling = center + 30
+                secondmodel = "SF" + str(iteration) + '-' +str(center) + "-" + str(ceiling)
+
+                firstcsv = '../modeloutput/' + firstmodel + '.csv'
+                secondcsv = '../modeloutput/' + secondmodel + '.csv'
+                baseaccuracy = getacc([firstcsv, secondcsv])
+
+                firstpath = '../modeloutput/' + firstmodel + '.pkl'
+                secondpath = '../modeloutput/' + secondmodel + '.pkl'
+
+                metadatapath = '../metadata/SFsample' + str(iteration) + '.csv'
                 sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
                 extension = '.tsv'
-
-                firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, subsetmetapath)
-
-                secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, subsetmetapath)
-
+                firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
+                # firstonall.set_index('docid', inplace = True)
+                secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
+                # secondonall.set_index('docid', inplace = True)
                 firstonself = pd.read_csv('../modeloutput/' + firstmodel + '.csv', index_col = 'volid')
-
                 secondonself = pd.read_csv('../modeloutput/' + secondmodel + '.csv', index_col = 'volid')
 
                 firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
@@ -594,7 +608,15 @@ if __name__ == '__main__':
                 totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
                 print(center)
                 print("Total accuracy: ", str(totalaccuracy))
+                print('Difference ' + str(totalaccuracy - baseaccuracy))
+                outline = str(iteration) + '\t' + str(center) + '\t' + str(baseaccuracy) + '\t' + str(totalaccuracy) + '\t' + str(baseaccuracy - totalaccuracy) + '\n'
+                sfresults.append(outline)
 
+
+        with open('../plotdata/paceofchangeinSF.tsv', mode = 'w', encoding = 'utf-8') as f:
+            f.write('iteration\tdate\tbaseacc\ttotalacc\tdifference\n')
+            for line in sfresults:
+                f.write(line)
 
     elif args[1] == 'detectivepaceofchange':
 
@@ -717,7 +739,9 @@ if __name__ == '__main__':
 
     elif args[1] == 'sfmutualrecognition':
         sfresults = []
-        for iteration in range(3):
+        for iteration in range(5):
+            print()
+            print('ITERATION ' + str(iteration))
             for center in range(1890, 1980, 10):
                 floor = center - 30
                 firstmodel = "SF" + str(iteration) + '-' + str(floor) + "-" + str(center)

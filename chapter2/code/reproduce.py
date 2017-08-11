@@ -694,47 +694,54 @@ if __name__ == '__main__':
 
         with open('../plotdata/paceofchangeinDetective.tsv', mode = 'w', encoding = 'utf-8') as f:
             f.write('iteration\tdate\tbaseacc\ttotalacc\tdifference\n')
-            for line in sfresults:
+            for line in detectiveresults:
                 f.write(line)
 
 
     elif args[1] == 'mutualrecognition':
         detectiveresults = []
-        for center in range(1890, 1980, 10):
-            floor = center - 30
-            firstmodel = "Detect" + str(floor) + "-" + str(center)
-            ceiling = center + 30
-            secondmodel = "Detect" + str(center) + "-" + str(ceiling)
+        for iteration in range(5):
+            for center in range(1890, 1980, 10):
+                floor = center - 30
+                firstmodel = "Detect" + str(iteration) + '-' + str(floor) + "-" + str(center)
+                ceiling = center + 30
+                secondmodel = "Detect" + str(iteration) + '-' +str(center) + "-" + str(ceiling)
 
-            firstcsv = '/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.csv'
-            secondcsv = '/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.csv'
-            baseaccuracy = getacc([firstcsv, secondcsv])
+                firstcsv = '../modeloutput/' + firstmodel + '.csv'
+                secondcsv = '../modeloutput/' + secondmodel + '.csv'
+                baseaccuracy = getacc([firstcsv, secondcsv])
 
-            firstpath = '/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.pkl'
-            secondpath = '/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.pkl'
+                firstpath = '../modeloutput/' + firstmodel + '.pkl'
+                secondpath = '../modeloutput/' + secondmodel + '.pkl'
 
-            metadatapath = '/Users/tunder/Dropbox/fiction/meta/concatenatedmeta.csv'
-            sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
-            extension = '.tsv'
-            firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
-            # firstonall.set_index('docid', inplace = True)
-            secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
-            # secondonall.set_index('docid', inplace = True)
-            firstonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.csv', index_col = 'volid')
-            secondonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.csv', index_col = 'volid')
+                metadatapath = '../metadata/Detectivesample' + str(iteration) + '.csv'
+                sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
+                extension = '.tsv'
+                firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
+                # firstonall.set_index('docid', inplace = True)
+                secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
+                # secondonall.set_index('docid', inplace = True)
+                firstonself = pd.read_csv('../modeloutput/' + firstmodel + '.csv', index_col = 'volid')
+                secondonself = pd.read_csv('../modeloutput/' + secondmodel + '.csv', index_col = 'volid')
 
-            firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
-            secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
+                firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
+                secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
 
-            print(firsttotal, firstright)
-            print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
-            print(secondtotal, secondright)
-            print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
-            totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
-            print(center)
-            print("Total accuracy: ", str(totalaccuracy))
-            print('Difference ' + str(totalaccuracy - baseaccuracy))
-            detectiveresults.append(totalaccuracy - baseaccuracy)
+                print(firsttotal, firstright)
+                print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
+                print(secondtotal, secondright)
+                print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
+                totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
+                print(center)
+                print("Total accuracy: ", str(totalaccuracy))
+                print('Difference ' + str(baseaccuracy - totalaccuracy))
+                outline = str(iteration) + '\t' + str(center) + '\t' + str(baseaccuracy) + '\t' + str(totalaccuracy) + '\t' + str(baseaccuracy - totalaccuracy) + '\n'
+                detectiveresults.append(outline)
+
+        with open('../plotdata/paceofchangeinDetective.tsv', mode = 'w', encoding = 'utf-8') as f:
+            f.write('iteration\tdate\tbaseacc\ttotalacc\tdifference\n')
+            for line in detectiveresults:
+                f.write(line)
 
 
     elif args[1] == 'sfmutualrecognition':

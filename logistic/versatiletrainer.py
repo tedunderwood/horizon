@@ -1065,7 +1065,7 @@ def tune_a_model(paths, exclusions, classifyconditions, modelparams):
     allvolumes = []
     with open(outputpath, mode = 'w', encoding = 'utf-8') as f:
         writer = csv.writer(f)
-        header = ['volid', 'dateused', 'pubdate', 'birthdate', 'firstpub', 'gender', 'nation', 'allwords', 'logistic', 'realclass', 'trainflag', 'trainsize', 'author', 'title', 'genretags']
+        header = ['volid', 'dateused', 'pubdate', 'birthdate', 'firstpub', 'gender', 'nation', 'allwords', 'logistic', 'realclass', 'trainflag', 'author', 'title', 'genretags']
         writer.writerow(header)
 
         for volid in orderedIDs:

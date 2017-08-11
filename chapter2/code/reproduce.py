@@ -3,14 +3,18 @@
 # reproduce.py
 
 import csv, os, sys, pickle, math
-
-import versatiletrainer as train
-
 import pandas as pd
 
+# add the path to the logistic folder at a higher
+# level of the repo
+sys.path.append('../../logistic/')
+import versatiletrainer as train
+
 def basic_svm_gridsearch():
-    # If this class is called directly, it creates a single model using the default
-    # settings set below.
+    '''This function is not actually used in the current state of
+    the chapter, but I've left it in so you can see that I also
+    experimented with SVM before deciding that they didn't add
+    enough to justify the trouble.'''
 
     sourcefolder = '/Users/tunder/Dropbox/GenreProject/python/reception/fiction/fromEF'
     extension = '.tsv'
@@ -96,17 +100,21 @@ def basic_svm_gridsearch():
 
     print("Divided with a line fit to the data trend, it's ", str(tiltaccuracy))
 
-def genre_gridsearch(modelname, c_range, ftstart, ftend, ftstep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = 1700, excl_above = 2000):
-    # Function does a gridsearch to identify an optimal number of features and setting of
-    # the regularization constant; then produces that model.
+def genre_gridsearch(modelname, c_range, ftstart, ftend, ftstep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = 1700, excl_above = 2000, metadatapath = '../metadata/concatenatedmeta.csv'):
+
+    '''
+    This is at present the workhorse function of the script. It does a
+    gridsearch to identify an optimal number of features and setting of
+    the regularization constant. Then it produces that model, and writes it
+    to disk.
+    '''
 
     sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
     extension = '.tsv'
-    metadatapath = '/Users/tunder/Dropbox/fiction/meta/concatenatedmeta.csv'
-    vocabpath = '/Users/tunder/Dropbox/fiction/lexicon/' + modelname + '.txt'
+    vocabpath = '../lexicons/' + modelname + '.txt'
     if os.path.exists(vocabpath):
         print('Vocabulary for ' + modelname + ' already exists. Using it.')
-    outputpath = '/Users/tunder/Dropbox/fiction/results/' + modelname + '.csv'
+    outputpath = '../modeloutput/' + modelname + '.csv'
 
     # We can simply exclude volumes from consideration on the basis on any
     # metadata category we want, using the dictionaries defined below.
@@ -125,13 +133,6 @@ def genre_gridsearch(modelname, c_range, ftstart, ftend, ftstep, positive_tags, 
 
     # CLASSIFY CONDITIONS
 
-    # print()
-    # print("You can also specify positive tags to be excluded from training, and/or a pair")
-    # print("of integer dates outside of which vols should be excluded from training.")
-    # print("If you add 'donotmatch' to the list of tags, these volumes will not be")
-    # print("matched with corresponding negative volumes.")
-    # print()
-    # ## testphrase = input("Comma-separated list of such tags: ")
     testphrase = ''
     testconditions = set([x.strip() for x in testphrase.split(',') if len(x) > 0])
 
@@ -150,9 +151,6 @@ def genre_gridsearch(modelname, c_range, ftstart, ftend, ftstep, positive_tags, 
     matrix, rawaccuracy, allvolumes, coefficientuples = train.tune_a_model(paths, exclusions, classifyconditions, modelparams)
 
     print('If we divide the dataset with a horizontal line at 0.5, accuracy is: ', str(rawaccuracy))
-    tiltaccuracy = train.diachronic_tilt(allvolumes, 'linear', [])
-
-    print("Divided with a line fit to the data trend, it's ", str(tiltaccuracy))
 
 def applymodel():
     modelpath = input('Path to model? ')
@@ -535,99 +533,148 @@ if __name__ == '__main__':
         df.to_csv('everythingmatrix.csv')
 
 
-    elif args[1] == 'paceofchange':
-        models = set()
-        for center in range(1970, 1980, 10):
-            floor = center - 30
-            firstmodel = "SF" + str(floor) + "-" + str(center)
-            if firstmodel not in models:
-                models.add(firstmodel)
-                positive_tags = ['locscifi', 'anatscifi', 'femscifi', 'chiscifi']
-                c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
-                featurestart = 3000
-                featureend = 6000
-                featurestep = 200
-                genre_gridsearch(firstmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = floor, excl_above = (center - 1))
-            ceiling = center + 30
-            secondmodel = "SF" + str(center) + "-" + str(ceiling)
-            models.add(secondmodel)
-            positive_tags = ['locscifi', 'anatscifi', 'femscifi', 'chiscifi']
-            c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
-            featurestart = 3000
-            featureend = 6000
-            featurestep = 200
-            genre_gridsearch(secondmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = center, excl_above = (ceiling-1))
+    elif args[1] == 'SFpaceofchange':
+        # This option tests the pace of change three times,
+        # each time using a different 85% of the available
+        # volumes. This is an effort to get a rough estimate
+        # of variation within a sample that is just barely
+        # large enough for this question.
 
-            firstpath = '/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.pkl'
-            secondpath = '/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.pkl'
-            metadatapath = '/Users/tunder/Dropbox/fiction/meta/concatenatedmeta.csv'
-            sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
-            extension = '.tsv'
-            firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
-            # firstonall.set_index('docid', inplace = True)
-            secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
-            # secondonall.set_index('docid', inplace = True)
-            firstonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.csv', index_col = 'volid')
-            secondonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.csv', index_col = 'volid')
+        allmeta = pd.read_csv('../metadata/concatenatedmeta.csv')
 
-            firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
-            secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
+        for iteration in range(3, 5):
 
-            print(firsttotal, firstright)
-            print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
-            print(secondtotal, secondright)
-            print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
-            totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
-            print(center)
-            print("Total accuracy: ", str(totalaccuracy))
+            thissample = allmeta.sample(frac = 0.85)
+            subsetmetapath = '../metadata/SFsample' + str(iteration) + '.csv'
+            thissample.to_csv(subsetmetapath, index = False)
+
+            for center in range(1890, 1980, 10):
+                floor = center - 30
+                firstmodel = "SF" + str(iteration) + '-' + str(floor) + "-" + str(center)
+                firstpath = '../modeloutput/' + firstmodel + '.pkl'
+                if not os.path.exists(firstpath):
+
+                    positive_tags = ['locscifi', 'anatscifi', 'femscifi', 'chiscifi']
+                    c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
+                    featurestart = 3000
+                    featureend = 6000
+                    featurestep = 200
+                    genre_gridsearch(firstmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = floor, excl_above = (center - 1), metadatapath = subsetmetapath)
+
+                ceiling = center + 30
+                secondmodel = "SF" + str(iteration) + '-' + str(center) + "-" + str(ceiling)
+                secondpath = '../modeloutput/' + secondmodel + '.pkl'
+                if not os.path.exists(secondpath):
+
+                    positive_tags = ['locscifi', 'anatscifi', 'femscifi', 'chiscifi']
+                    c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
+                    featurestart = 3000
+                    featureend = 6000
+                    featurestep = 200
+                    genre_gridsearch(secondmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = center, excl_above = (ceiling-1), metadatapath = subsetmetapath)
+
+                sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
+                extension = '.tsv'
+
+                firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, subsetmetapath)
+
+                secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, subsetmetapath)
+
+                firstonself = pd.read_csv('../modeloutput/' + firstmodel + '.csv', index_col = 'volid')
+
+                secondonself = pd.read_csv('../modeloutput/' + secondmodel + '.csv', index_col = 'volid')
+
+                firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
+                secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
+
+                print(firsttotal, firstright)
+                print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
+                print(secondtotal, secondright)
+                print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
+                totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
+                print(center)
+                print("Total accuracy: ", str(totalaccuracy))
+
 
     elif args[1] == 'detectivepaceofchange':
-        models = set()
-        results = []
-        for center in range(1960, 1980, 10):
-            floor = center - 30
-            firstmodel = "Detect" + str(floor) + "-" + str(center)
-            if firstmodel not in models:
-                models.add(firstmodel)
-                positive_tags = ['locdetective', 'locdetmyst', 'chimyst', 'det100']
-                c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
-                featurestart = 3000
-                featureend = 6000
-                featurestep = 200
-                genre_gridsearch(firstmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = floor, excl_above = (center - 1))
-            ceiling = center + 30
-            secondmodel = "Detect" + str(center) + "-" + str(ceiling)
-            if secondmodel not in models:
-                models.add(secondmodel)
-                c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
-                featurestart = 3000
-                featureend = 6000
-                featurestep = 200
-                genre_gridsearch(secondmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = center, excl_above = (ceiling-1))
 
-            firstpath = '/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.pkl'
-            secondpath = '/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.pkl'
-            metadatapath = '/Users/tunder/Dropbox/fiction/meta/concatenatedmeta.csv'
-            sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
-            extension = '.tsv'
-            firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
-            # firstonall.set_index('docid', inplace = True)
-            secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
-            # secondonall.set_index('docid', inplace = True)
-            firstonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.csv', index_col = 'volid')
-            secondonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.csv', index_col = 'volid')
+        allmeta = pd.read_csv('../metadata/concatenatedmeta.csv')
 
-            firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
-            secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
+        positive_tags = ['locdetective', 'locdetmyst', 'chimyst', 'det100']
 
-            print(firsttotal, firstright)
-            print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
-            print(secondtotal, secondright)
-            print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
-            totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
-            print(center)
-            print("Total accuracy: ", str(totalaccuracy))
-            results.append(totalaccuracy)
+        for iteration in range(0, 5):
+
+            thissample = allmeta.sample(frac = 0.85)
+            subsetmetapath = '../metadata/Detectivesample' + str(iteration) + '.csv'
+            thissample.to_csv(subsetmetapath, index = False)
+
+            for center in range(1890, 1980, 10):
+                floor = center - 30
+                firstmodel = "Detect" + str(iteration) + '-' + str(floor) + "-" + str(center)
+                firstpath = '../modeloutput/' + firstmodel + '.pkl'
+                if not os.path.exists(firstpath):
+
+                    c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
+                    featurestart = 3000
+                    featureend = 6000
+                    featurestep = 200
+                    genre_gridsearch(firstmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = floor, excl_above = (center - 1), metadatapath = subsetmetapath)
+
+                ceiling = center + 30
+                secondmodel = "Detect" + str(iteration) + '-' + str(center) + "-" + str(ceiling)
+                secondpath = '../modeloutput/' + secondmodel + '.pkl'
+                if not os.path.exists(secondpath):
+
+                    c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
+                    featurestart = 3000
+                    featureend = 6000
+                    featurestep = 200
+                    genre_gridsearch(secondmodel, c_range, featurestart, featureend, featurestep, positive_tags, negative_tags = ['random', 'grandom', 'chirandom'], excl_below = center, excl_above = (ceiling-1), metadatapath = subsetmetapath)
+
+        detectiveresults = []
+        for iteration in range(5):
+            for center in range(1890, 1980, 10):
+                floor = center - 30
+                firstmodel = "Detect" + str(iteration) + '-' + str(floor) + "-" + str(center)
+                ceiling = center + 30
+                secondmodel = "Detect" + str(iteration) + '-' +str(center) + "-" + str(ceiling)
+
+                firstcsv = '../modeloutput/' + firstmodel + '.csv'
+                secondcsv = '../modeloutput/' + secondmodel + '.csv'
+                baseaccuracy = getacc([firstcsv, secondcsv])
+
+                firstpath = '../modeloutput/' + firstmodel + '.pkl'
+                secondpath = '../modeloutput/' + secondmodel + '.pkl'
+
+                metadatapath = '../metadata/Detectivesample' + str(iteration) + '.csv'
+                sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
+                extension = '.tsv'
+                firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
+                # firstonall.set_index('docid', inplace = True)
+                secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
+                # secondonall.set_index('docid', inplace = True)
+                firstonself = pd.read_csv('../modeloutput/' + firstmodel + '.csv', index_col = 'volid')
+                secondonself = pd.read_csv('../modeloutput/' + secondmodel + '.csv', index_col = 'volid')
+
+                firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
+                secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
+
+                print(firsttotal, firstright)
+                print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
+                print(secondtotal, secondright)
+                print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
+                totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
+                print(center)
+                print("Total accuracy: ", str(totalaccuracy))
+                print('Difference ' + str(baseaccuracy - totalaccuracy))
+                outline = str(iteration) + '\t' + str(center) + '\t' + str(baseaccuracy) + '\t' + str(totalaccuracy) + '\t' + str(baseaccuracy - totalaccuracy) + '\n'
+                detectiveresults.append(outline)
+
+        with open('../plotdata/paceofchangeinDetective.tsv', mode = 'w', encoding = 'utf-8') as f:
+            f.write('iteration\tdate\tbaseacc\ttotalacc\tdifference\n')
+            for line in sfresults:
+                f.write(line)
+
 
     elif args[1] == 'mutualrecognition':
         detectiveresults = []
@@ -667,45 +714,52 @@ if __name__ == '__main__':
             print('Difference ' + str(totalaccuracy - baseaccuracy))
             detectiveresults.append(totalaccuracy - baseaccuracy)
 
+
+    elif args[1] == 'sfmutualrecognition':
         sfresults = []
-        for center in range(1890, 1980, 10):
-            floor = center - 30
-            firstmodel = "SF" + str(floor) + "-" + str(center)
-            ceiling = center + 30
-            secondmodel = "SF" + str(center) + "-" + str(ceiling)
+        for iteration in range(3):
+            for center in range(1890, 1980, 10):
+                floor = center - 30
+                firstmodel = "SF" + str(iteration) + '-' + str(floor) + "-" + str(center)
+                ceiling = center + 30
+                secondmodel = "SF" + str(iteration) + '-' +str(center) + "-" + str(ceiling)
 
-            firstcsv = '/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.csv'
-            secondcsv = '/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.csv'
-            baseaccuracy = getacc([firstcsv, secondcsv])
+                firstcsv = '../modeloutput/' + firstmodel + '.csv'
+                secondcsv = '../modeloutput/' + secondmodel + '.csv'
+                baseaccuracy = getacc([firstcsv, secondcsv])
 
-            firstpath = '/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.pkl'
-            secondpath = '/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.pkl'
+                firstpath = '../modeloutput/' + firstmodel + '.pkl'
+                secondpath = '../modeloutput/' + secondmodel + '.pkl'
 
-            metadatapath = '/Users/tunder/Dropbox/fiction/meta/concatenatedmeta.csv'
-            sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
-            extension = '.tsv'
-            firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
-            # firstonall.set_index('docid', inplace = True)
-            secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
-            # secondonall.set_index('docid', inplace = True)
-            firstonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + firstmodel + '.csv', index_col = 'volid')
-            secondonself = pd.read_csv('/Users/tunder/Dropbox/fiction/results/' + secondmodel + '.csv', index_col = 'volid')
+                metadatapath = '../metadata/SFsample' + str(iteration) + '.csv'
+                sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
+                extension = '.tsv'
+                firstonall = train.apply_pickled_model(firstpath, sourcefolder, extension, metadatapath)
+                # firstonall.set_index('docid', inplace = True)
+                secondonall = train.apply_pickled_model(secondpath, sourcefolder, extension, metadatapath)
+                # secondonall.set_index('docid', inplace = True)
+                firstonself = pd.read_csv('../modeloutput/' + firstmodel + '.csv', index_col = 'volid')
+                secondonself = pd.read_csv('../modeloutput/' + secondmodel + '.csv', index_col = 'volid')
 
-            firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
-            secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
+                firsttotal, firstright = comparison(firstonself, secondonall, secondmodel)
+                secondtotal, secondright = comparison(secondonself, firstonall, firstmodel)
 
-            print(firsttotal, firstright)
-            print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
-            print(secondtotal, secondright)
-            print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
-            totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
-            print(center)
-            print("Total accuracy: ", str(totalaccuracy))
-            print('Difference ' + str(totalaccuracy - baseaccuracy))
-            sfresults.append(totalaccuracy - baseaccuracy)
+                print(firsttotal, firstright)
+                print("Accuracy of " + secondmodel + " on volumes originally included in "+ firstmodel + ": " + str(firstright/firsttotal))
+                print(secondtotal, secondright)
+                print("Accuracy of " + firstmodel + " on volumes originally included in "+ secondmodel + ": " + str(secondright/secondtotal))
+                totalaccuracy = (firstright + secondright) / (firsttotal + secondtotal)
+                print(center)
+                print("Total accuracy: ", str(totalaccuracy))
+                print('Difference ' + str(totalaccuracy - baseaccuracy))
+                outline = str(iteration) + '\t' + str(center) + '\t' + str(baseaccuracy) + '\t' + str(totalaccuracy) + '\t' + str(baseaccuracy - totalaccuracy) + '\n'
+                sfresults.append(outline)
 
-        print(detectiveresults)
-        print(sfresults)
+
+        with open('../plotdata/paceofchangeinSF.tsv', mode = 'w', encoding = 'utf-8') as f:
+            f.write('iteration\tdate\tbaseacc\ttotalacc\tdifference\n')
+            for line in sfresults:
+                f.write(line)
 
     elif args[1] == 'preGernsback50':
         modelname = args[1]

@@ -10,7 +10,7 @@ will give you results for 'allSF.'
 
 Here are some options you might want to invoke.
 
-**detectnewgatesensation** gets you the data behind figure 2.1
+**detectnewgatesensation** gets you the data behind figure 2.1, except that then you need to run **mungingthedetectives** to put it in a better form for visualization.
 
 **allSF** gets you the data behind fig 2.2.
 

@@ -18,7 +18,7 @@ p <- ggplot(allpace, aes(x = date, y = difference, shape = iteration, color = ge
   geom_line(size = 1) +
   theme_bw() + scale_y_continuous('', labels = percent) +
   scale_x_continuous('', breaks = c(1890, 1910, 1930, 1950, 1970)) +
-  ggtitle('Accuracy a model loses in 30 years') +
+  ggtitle('Accuracy lost in sliding a model forward or back 30 years') +
   theme(plot.title = element_text(hjust = -0.12, size = 18, vjust = 1.5)) +
   theme(text = element_text(size = 18, family = "Baskerville"), panel.border = element_blank()) +
   theme(axis.line = element_line(color = 'black'),

@@ -1,6 +1,9 @@
 library(scales)
 library(ggplot2)
-l <- read.csv('~/Dropbox/book/chapter3/results/fullpoetry.results.csv')
+
+this.dir <- dirname(parent.frame(2)$ofile)
+setwd(this.dir)
+l <- read.csv('../modeloutput/fullpoetry.results.csv')
 
 model = lm(data = l, formula = logistic ~ dateused)
 intercept = coef(model)[1]

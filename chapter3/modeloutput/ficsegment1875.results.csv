@@ -1,0 +1,317 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+dul1.ark+=13960=t03x8jh3v,1894,1894,1861,1894,m,uk,29.878041249093336,0.377199313742,0,1,"Adderley, James Granville",Stephen Remarx;,vulgar
+dul1.ark+=13960=t3nw0276b,1879,1879,1822,1879,f,uk,33.96443676783978,0.296867493323,0,1,"Linton, E. Lynn",Under which Lord?,vulgar
+inu.39000003330680,1879,1879,1851,1879,f,uk,31.079797263260517,0.450440779745,1,1,"Fothergill, Jessie",Probation,elite
+inu.39000003330789,1879,1879,1851,1879,f,uk,32.65208020371115,0.757734738446,1,1,"Fothergill, Jessie",Probation,elite
+inu.39000003330797,1879,1879,1851,1879,f,uk,32.07209290223798,0.575559748696,1,1,"Fothergill, Jessie",Probation,elite
+loc.ark+=13960=t0zp4n54x,1888,1888,1849,1888,f,us,34.107282738604496,0.175677421271,0,1,"Andrews, Anabel (Follanbee)",Flower fancies,vulgar
+loc.ark+=13960=t16m3cg8z,1893,1893,1824,1893,m,us,29.702615407761584,0.16413448045,0,1,"Chittenden, L. E",An unknown heroine;,vulgar
+mdp.39015001797946,1895,1895,1859,1895,m,uk,34.36626899669693,0.748050788163,1,1,"Grahame, Kenneth",The golden age,elite
+mdp.39015002719386,1883,1883,1855,1883,f,za,31.281599272467645,0.655287237829,1,1,"Schreiner, Olive",The story of an African farm,elite
+mdp.39015005616654,1876,1876,1855,1876,m,uk,37.122040364560064,0.816354338352,0,1,"Brown, Oliver Madox-",The Dwale bluth,vulgar
+mdp.39015005942605,1891,1891,1857,1891,m,uk,30.74467662882519,0.610739172438,1,1,"Gissing, George",New Grub Street,elite
+mdp.39015006580941,1882,1882,1856,1882,m,uk,35.85429888623798,0.533701039497,1,1,"Anstey, F",Vice versâ;,elite
+mdp.39015006977899,1894,1894,1834,1894,m,uk,37.275003884281944,0.491950424128,1,1,"Du Maurier, George",Trilby,elite
+mdp.39015012354869,1883,1883,1841,1883,m,uk,41.970023304777456,0.429503405168,0,1,"Bowles, Thomas Gibson",Flotsam and jetsam,vulgar
+mdp.39015012373794,1880,1880,1843,1880,f,uk,33.11617919271644,0.521974307659,0,1,"Mayo, Isabella (Fyvie)",Her object in life,vulgar
+mdp.39015016768288,1894,1894,1850,1894,f,us,28.71463825798387,0.744791304877,1,1,"Chopin, Kate",Bayou folk,elite
+mdp.39015023133641,1895,1895,1856,1895,f,uk,33.12495819561661,0.653136705325,1,1,"D'Arcy, Ella",Monochromes,elite
+mdp.39015028625682,1888,1888,1831,1888,m,dutch,37.3948290709123,0.310931624318,0,1,"Perelaer, Michael Theophile Hubert",Baboe Dalima;,vulgar
+mdp.39015030851755,1880,1880,1825,1880,m,uk,35.1651521108497,0.486084741632,1,1,"Blackmore, R. D",Mary Anerley,elite
+mdp.39015030851763,1880,1880,1825,1880,m,uk,33.47517557954303,0.415859734143,1,1,"Blackmore, R. D",Mary Anerley,elite
+mdp.39015030995818,1897,1897,1857,1897,f,us,27.9968954775585,0.573320780211,0,1,"Porter, Charlotte Endymion",Clever tales,vulgar
+mdp.39015031236584,1884,1884,1853,1884,m,us,46.625018573571616,0.295122990936,1,1,"Howe, E. W",The story of a country town,elite
+mdp.39015031311684,1896,1895,1855,1896,m,uk,30.474619472582955,0.856172374914,1,1,"Macleod, Fiona",The mountain lovers,elite
+mdp.39015039396083,1898,1898,1866,1898,f,uk,39.831779161501,0.562541112373,1,1,"Von Arnim, Elizabeth",Elizabeth and her German garden,elite
+mdp.39015046359850,1875,1875,1843,1875,m,us,31.783140269449547,0.664095583048,1,1,"James, Henry",Roderick Hudson,elite
+mdp.39015053262294,1877,1877,1825,1877,m,hungary,32.846082194764065,0.353290667302,0,1,"Jokai, Mór",Pretty Michal,vulgar
+mdp.39015055066743,1896,1896,1863,1896,m,uk,29.514039096551905,0.862555029622,1,1,"Morrison, Arthur",A child of the Jago,elite
+mdp.39015059375942,1881,1881,1842,1881,m,us,30.88604500632672,0.442695929093,0,1,"Bynner, Edwin Lassetter",Damen's ghost,vulgar
+mdp.39015059395049,1883,1883,1854,1883,m,us,30.144074548696008,0.692808848107,1,1,"Crawford, F. Marion",To leeward,elite
+mdp.39015059395056,1883,1883,1854,1883,m,us,30.11068463568826,0.584817644266,1,1,"Crawford, F. Marion",To leeward,elite
+mdp.39015059502669,1895,1895,1852,1895,m,us,30.726476910887758,0.516007175544,0,1,"Read, Opie Percival",My young master;,vulgar
+mdp.39015061863992,1887,1887,1836,1887,f,us,34.46254949886239,0.508637238848,0,1,"Holley, Marietta",Samantha at Saratoga,vulgar
+mdp.39015063541273,1895,1895,1854,1895,f,us,25.993034798696737,0.412685210784,0,1,"Burnham, Clara Louise",The wise woman,vulgar
+mdp.39015063547809,1895,1895,1867,1895,f,us,28.635761849692113,0.590454023466,1,1,"Hobbes, John Oliver","The gods, some mortals and Lord Wickenham",elite
+mdp.39015063551504,1898,1898,1859,1898,m,uk,33.5135481629444,0.658299626783,1,1,"Crockett, S. R",The red axe,elite
+mdp.39015063602521,1893,1893,1827,1893,m,us,33.471811406239595,0.537501735384,0,1,"Wallace, Lew","The prince of India, or, Why Constantinople fell",vulgar
+mdp.39015063747904,1890,1890,0,1890,,,33.74821285751984,0.448725572137,0,1,"Wood, H. F",The night of the 3d ult,vulgar
+mdp.39015063753530,1894,1894,1857,1894,f,us,27.504195965423623,0.582767102118,0,1,"Atherton, Gertrude Franklin Horn",Before the Gringo came,vulgar
+mdp.39015063761202,1876,1876,1841,1876,m,uk,32.037081154441395,0.558976601278,1,1,"Black, William",Madcap Violet,elite
+mdp.39015063761210,1876,1876,1841,1876,m,uk,33.84690586750767,0.596209536504,1,1,"Black, William",Madcap Violet,elite
+mdp.39015063761228,1876,1876,1841,1876,m,uk,32.22642529821832,0.597179393488,1,1,"Black, William",Madcap Violet,elite
+mdp.39015063961315,1879,1879,1849,1879,f,us,28.438894980491366,0.762403824664,1,1,"[Sprague, Mary Aplin]",An earnest trifler,elite
+mdp.39015065549779,1887,1887,1855,1887,m,us,30.082748199182678,0.742205393755,0,1,"Saltus, Edgar",Mr. Incoul's misadventure,vulgar
+mdp.39015065957253,1879,1879,1823,1879,f,uk,33.9067562223699,0.400223245901,0,1,"Yonge, Charlotte M","Magnum bonum, or Mother Carey's brood",vulgar
+mdp.39015073479282,1890,1890,1832,1890,m,uk,39.79641095902575,0.243153301275,0,1,"Henty, G. A",St. George for England,vulgar
+mdp.39015078546390,1898,1898,1864,1898,,,36.22425795897406,0.494761263128,0,1,anonymous5,Grien on Rougemont;,vulgar
+nc01.ark+=13960=t05x2rh1q,1880,1880,1828,1880,f,us,34.71231450412508,0.486768274328,0,1,"Goff, H. N. K",Other fools and their doings,vulgar
+nc01.ark+=13960=t5r78z14d,1887,1887,1848,1887,f,us,35.84760480191747,0.626662502755,1,1,"Baylor, Frances Courtenay",Behind the Blue Ridge,elite
+nc01.ark+=13960=t6b28c502,1880,1880,1838,1880,m,us,33.66570529735351,0.250812548224,1,1,"Tourgée, Albion Winegar",Bricks without straw,elite
+nc01.ark+=13960=t74t73k55,1879,1879,1838,1879,m,us,33.017723302287266,0.212565741995,1,1,"Tourgée, Albion Winegar",Figs and thistles,elite
+njp.32101042563039,1880,1880,1850,1880,m,us,32.151448438169616,0.618725591648,1,1,"Bellamy, Edward",--Dr. Heidenhoff's process,elite
+njp.32101062935901,1882,1882,1835,1882,f,us,34.34584726737804,0.118249055968,0,1,"Evans, Augusta J",Inez: a tale of the Alamo,vulgar
+njp.32101063580268,1886,1886,1859,1886,m,uk,36.435172120743225,0.473693114011,1,1,"Hume, Fergus",The mystery of a hansom cab,elite
+njp.32101063607269,1880,1880,1833,1880,f,uk,30.99181207582348,0.245142483906,0,1,"Marryat, Florence",Fighting the air,vulgar
+njp.32101064918103,1884,1884,1841,1884,f,uk,36.25920365814059,0.456226333781,0,1,"Cooper, Katherine",Gideon's rock,vulgar
+njp.32101065701169,1896,1896,0,1896,,,33.73162294342079,0.232876387486,0,1,"Poole, Mary Belle",Down fate's walk;,vulgar
+njp.32101065845917,1896,1896,1864,1896,m,uk,32.99877099751155,0.865810835413,1,1,"Munro, Neil",The lost Pibroch,elite
+njp.32101065847475,1884,1884,1850,1884,f,us,31.99057041551867,0.735629305734,1,1,"Murfree, Mary Noailles",Where the battle was fought,elite
+njp.32101065848226,1889,1889,1847,1889,m,uk,32.560586156245044,0.716299695338,0,1,"Murray, David Christie",Schwartz,vulgar
+njp.32101066107804,1879,1879,1844,1879,m,uk,31.177987652550833,0.475243002802,1,1,"O'Reilly, John Boyle",Moondyne: a story from the underworld,elite
+njp.32101066458629,1898,1898,1840,1898,m,us,30.81963379095922,0.398881415685,0,1,"Ellis, Edward Sylvester",Cowmen and rustlers,vulgar
+njp.32101066458975,1886,1886,1843,1886,m,uk,27.75030962739387,0.205591682824,0,1,"Gibbon, Charles",Clare of Claresmede,vulgar
+njp.32101066459908,1880,1880,1810,1880,m,us,34.36195232841983,0.307600080332,0,1,"Goulding, F. R",Adventures among the Indians,vulgar
+njp.32101066919174,1889,1889,1854,1889,f,austrian,32.236712740674065,0.403851329121,0,1,"Schubin, Ossip",Erlach court,vulgar
+njp.32101067632198,1885,1885,1839,1885,f,uk,34.40847207067053,0.649566257997,1,1,Ouida,Othmar,elite
+njp.32101067632636,1885,1885,1839,1885,f,uk,33.943671602511245,0.706755312531,1,1,Ouida,Othmar,elite
+njp.32101067632644,1885,1885,1839,1885,f,uk,34.95275318969262,0.688735259878,1,1,Ouida,Othmar,elite
+njp.32101067633253,1884,1884,1844,1884,f,uk,27.697646210306587,0.603840275616,0,1,"Diehl, Alice M",The knave of hearts,vulgar
+njp.32101067634459,1878,1878,1834,1878,m,uk,36.007599201449715,0.362622278036,1,1,"Hamerton, Philip Gilbert",Marmorne,elite
+njp.32101067647303,1885,1885,1857,1885,f,uk,34.56494169874122,0.743128424116,0,1,"Warden, Florence",A prince of darkness,vulgar
+njp.32101068152931,1886,1886,1856,1886,m,uk,41.327104022706806,0.534054474485,1,1,"Haggard, H. Rider",She,elite
+njp.32101068166055,1876,1876,1819,1876,f,uk,37.36442712390491,0.220955175644,0,1,"Charlesworth, Maria Louisa",Oliver of the mill,vulgar
+njp.32101068166162,1886,1886,0,1886,,,29.87404726775905,0.492486534775,0,1,"Chetwynd, Henry Wayland",Sara,vulgar
+njp.32101068168903,1880,1880,1851,1880,f,uk,31.45582448065602,0.49109985063,1,1,"Fothergill, Jessie",The wellfields,elite
+njp.32101068168911,1880,1880,1851,1880,f,uk,32.29492751381945,0.43254108731,1,1,"Fothergill, Jessie",The wellfields,elite
+njp.32101068168929,1880,1880,1851,1880,f,uk,32.30602348260193,0.490384064188,1,1,"Fothergill, Jessie",The wellfields,elite
+njp.32101068169497,1882,1882,1849,1882,f,uk,31.41940913640843,0.802479253288,1,1,"Gerard, E",Beggar my neighbor,elite
+njp.32101068169505,1882,1882,1849,1882,f,uk,32.76918293010757,0.743034296676,1,1,"Gerard, E",Beggar my neighbor,elite
+njp.32101068169513,1882,1882,1849,1882,f,uk,31.831730779453355,0.718180632624,1,1,"Gerard, E",Beggar my neighbor,elite
+njp.32101068175080,1876,1876,1825,1876,m,us,39.958765287159174,0.289622812197,0,1,"Butler, William Allen","Mrs. Limber's raffle, or, A church fair and its victims",vulgar
+njp.32101068176658,1879,1879,1831,1879,f,us,31.189520107424627,0.466578447435,1,1,"Douglas, Amanda Minnie",Hope mills;,elite
+njp.32101068178340,1881,1881,1832,1881,m,uk,39.39606139411615,0.350784772277,0,1,"Henty, G. A",The cornet of horse,vulgar
+njp.32101068178878,1883,1883,1837,1883,m,uk,31.72448226712158,0.309920331762,0,1,"Hatton, Joseph",A modern Ulysses,vulgar
+njp.32101074871284,1892,1892,1859,1892,m,us,29.434506924632867,0.273302629613,0,1,"Linthicum, Richard",A book of Rocky Mountain tales,vulgar
+njp.32101079670517,1880,1880,1843,1880,m,us,30.960033811277473,0.649103736376,1,1,"James, Henry",The portrait of a lady,elite
+nnc1.1002208741,1879,1879,1854,1879,f,us,31.50793364044266,0.568063486651,0,1,"Perry, Alice",More ways than one,vulgar
+nnc1.cu58327010,1879,1879,1823,1879,m,uk,39.1712036250826,0.0738827188644,0,1,"O'Reilly, Bernard",The two brides,vulgar
+nnc1.cu58507493,1880,1880,1828,1880,m,uk,35.09599823233869,0.490572267926,0,1,"Sala, George Augustus",Quite alone;,vulgar
+nyp.33433018442024,1879,1879,1850,1879,m,uk,31.0196655138517,0.597995203769,0,1,"Garvice, Charles",The story of a passion,vulgar
+nyp.33433034410054,1880,1880,1840,1880,f,uk,52.47594041552257,0.348969615482,0,1,"Carey, Rosa Nouchette",Nellie's memories;,vulgar
+nyp.33433074795331,1883,1883,1840,1883,f,us,32.465167585900616,0.504520075455,1,1,"Woolson, Constance Fenimore",For the major,elite
+nyp.33433074835400,1876,1876,1837,1876,f,us,33.5565023987346,0.407305420186,0,1,"Bellamy, Elizabeth W",The little Joanna,vulgar
+nyp.33433074869375,1879,1879,1820,1879,f,uk,34.917891150142765,0.474776431951,1,1,"Ingelow, Jean",Sarah de Berenger,elite
+nyp.33433074870829,1898,1898,1860,1898,m,uk,28.20550602900248,0.194308844742,0,1,"Hocking, Joseph",Mistress Nancy Molesworth;,vulgar
+nyp.33433074880034,1885,1886,1833,1885,f,uk,28.812991135916107,0.200242069484,0,1,"Marryat, Florence",The heir presumptive,vulgar
+nyp.33433074888961,1877,1877,1822,1877,f,uk,40.79807784352887,0.469990754168,0,1,"Linton, E. Lynn",From dreams to waking,vulgar
+nyp.33433074940861,1875,1875,1835,1875,m,us,31.37240310173207,0.627496802735,1,1,"Twain, Mark",The adventures of Tom Sawyer,elite
+nyp.33433074952148,1880,1880,0,1880,,,41.60005701741566,0.132432446068,0,1,"Currier, Emma C",Hubbub,vulgar
+nyp.33433075738033,1889,1889,1837,1889,m,german,40.94821363067469,0.276747440705,0,1,"Ebers, Georg",Serapis;,vulgar
+nyp.33433075752133,1895,1895,1856,1895,f,uk,33.36220171087718,0.302915505465,0,1,"Winter, John Strange",Private Tinker,vulgar
+nyp.33433075763866,1875,1875,0,1875,f,us,37.48849187879689,0.215769187884,0,1,"Walsingham, Charlotte",Annette;,vulgar
+nyp.33433075767198,1896,1896,1854,1896,m,uk,45.58942364402036,0.27653468516,0,1,"Whishaw, Frederick",A boyar of the Terrible;,vulgar
+nyp.33433076021751,1897,1897,1867,1897,m,us,30.95763573946447,0.423223765452,0,1,"Stephens, Robert Neilson",An enemy to the king;,vulgar
+nyp.33433076023245,1881,1881,1823,1881,m,us,38.2893567767722,0.385048672823,0,1,"Newell, Charles Martin",Kalani of Oahu,vulgar
+nyp.33433076043052,1880,1880,1838,1880,m,us,35.52973482395274,0.236819764143,0,1,"Roe, Edward Payson",An original belle,vulgar
+nyp.33433076043433,1898,1898,1861,1898,m,us,29.640016410162517,0.494205597448,0,1,"Ross, Clinton",A trooper of the empress,vulgar
+nyp.33433076049794,1879,1879,1836,1879,f,us,33.38903106710004,0.325720205066,0,1,"Rayne, M. L",Fallen among thieves,vulgar
+nyp.33433076050768,1898,1898,1865,1898,,,29.41436993608897,0.806317790277,1,1,"Payne, Will",The money captain,elite
+nyp.33433076050818,1898,1898,1862,1898,f,us,30.875287386773422,0.759496117105,1,1,"Peattie, Elia Wilkinson","The shape of fear, and other ghostly tales",elite
+nyp.33433076051303,1898,1898,1856,1898,m,us,36.95415410788536,0.298997156099,0,1,"Major, Charles",When knighthood was in flower,vulgar
+nyp.33433076053705,1889,1889,1855,1889,m,us,30.231982410667353,0.763378604172,0,1,"Saltus, Edgar",The truth about Tristrem Varick;,vulgar
+nyp.33433076059462,1898,1898,1841,1898,f,us,25.97164816278369,0.788736764866,1,1,"Pool, Maria Louise",A golden sorrow,elite
+nyp.33433076059488,1882,1882,1833,1882,m,us,25.823548090442845,0.23193966567,0,1,"Pomeroy, Mark M",Brick-dust;,vulgar
+nyp.33433076065980,1899,1899,1865,1899,m,us,39.47296760987896,0.190273616955,1,1,"Ford, Paul Leicester",Janice Meredith,elite
+nyp.33433076066806,1888,1888,1842,1888,f,us,32.895258600509784,0.673198331548,1,1,"Kirk, Ellen Olney",Queen Money,elite
+nyp.33433076067085,1893,1893,1852,1893,f,us,31.593065091733646,0.602675419287,1,1,"King, Grace Elizabeth",Balcony stories,elite
+nyp.33433076072028,1879,1879,1849,1879,f,us,36.34302134403978,0.530179930419,1,1,"Jewett, Sarah Orne",Old friends and new,elite
+nyp.33433076073125,1896,1896,1856,1896,f,us,31.08034895451997,0.405481824372,0,1,"Train, Elizabeth Phipps",A social highwayman,vulgar
+nyp.33433081852638,1879,1877,1843,1879,m,us,29.96186167161297,0.616275394192,1,1,"James, Henry",The American,elite
+nyp.33433082170790,1881,1881,0,1881,m,us,37.37117328968769,0.0679373323568,0,1,"Alexander, M",Going west,vulgar
+nyp.33433082288428,1889,1889,1856,1889,f,us,34.059567632226916,0.443094526966,0,1,"Wiggin, Kate Douglas Smith",The story of Patsy,vulgar
+nyp.33433082303953,1882,1882,0,1882,,,24.864816921213986,0.0918802255427,0,1,"Glascock, Mary W",Dare,vulgar
+nyp.33433082353768,1879,1879,1814,1879,m,uk,35.22388099337725,0.27699736995,1,1,"Kingston, William Henry Giles",From powder monkey to admiral,elite
+nyp.33433082530647,1892,1892,1828,1892,f,us,38.82629639455547,0.0870932174936,0,1,"Finley, Martha",Elsie at Viamede,vulgar
+nyp.33433084129646,1881,1881,1815,1881,f,us,35.11372512446265,0.0755849916173,0,1,"Leslie, Madeline","The two homes; or, Earning and spending",vulgar
+pst.000002132532,1889,1889,1858,1889,f,uk,33.890189575859864,0.83984231799,1,1,"Somerville, E. Œ",An Irish cousin,elite
+pst.000006723453,1889,1889,1823,1889,f,uk,42.558837929983,0.483962573244,0,1,"Yonge, Charlotte M",Beechcroft at Rockstone,vulgar
+pst.000008804044,1887,1887,1850,1887,m,uk,36.7986069653036,0.712461783579,1,1,"Stevenson, Robert Louis",The merry men,elite
+uc1.$b471567,1898,1898,1831,1898,f,us,32.228589092463636,0.340001383301,0,1,"Post, Helen (Wilmans)",A search for freedom,vulgar
+uc1.$b684700,1896,1896,1869,1896,m,uk,33.08304402880309,0.5499528531,1,1,"O'Grady, Standish",Ulrick the Ready,elite
+uc1.32106002062997,1881,1881,1849,1881,f,us,27.349157139784417,0.5475953398,1,1,"Burnett, Frances Hodgson",A fair barbarian,elite
+uc1.b149265,1885,1885,1851,1885,m,us,31.504107358203086,0.699871271129,0,1,"Lathrop, George Parsons",In the distance,vulgar
+uc1.b242928,1898,1898,1873,1898,f,us,27.36591843381785,0.690643175591,1,1,"Glasgow, Ellen Anderson Gholson",Phases of an inferior planet,elite
+uc1.b243629,1898,1898,1874,1898,m,uk,28.7611703211885,0.886481393014,1,1,"Ollivant, Alfred","Bob, son of Battle",elite
+uc1.b248450,1893,1893,1847,1893,f,us,26.530611014828928,0.850024496086,1,1,"Catherwood, Mary Hartwell",The white islander,elite
+uc1.b249261,1889,1889,1847,1889,m,us,32.74685084814114,0.889985164333,1,1,"Hardy, Arthur Sherburne",Passe Rose,elite
+uc1.b249543,1898,1898,1831,1898,f,uk,30.864726629091226,0.357487841937,0,1,"Barr, Amelia Edith Huddleston",The lost silver of Briffault,vulgar
+uc1.b249559,1880,1880,1840,1880,f,uk,35.30432363011536,0.645577934327,1,1,"Broughton, Rhoda",Second thoughts,elite
+uc1.b249560,1880,1880,1840,1880,f,uk,34.96293742917199,0.530188474971,1,1,"Broughton, Rhoda",Second thoughts,elite
+uc1.b249764,1881,1881,1847,1881,m,us,28.0471374221604,0.681916582509,1,1,"Fawcett, Edgar",A gentleman of leisure,elite
+uc1.b251155,1883,1883,1836,1883,m,us,29.159536540581428,0.739007294324,1,1,"Harte, Bret",In the Carquinez woods,elite
+uc1.b301202,1899,1899,1860,1899,f,,27.69005899868862,0.319390105654,0,1,"Lust, Adelina Cohnfeldt",A tent of grace,vulgar
+uc1.b3048116,1880,1880,1821,1880,m,french,35.47870241924154,0.214471019393,0,1,"Du Boisgobey, Fortuné",Sensational novels,vulgar
+uc1.b308297,1895,1895,1852,1895,f,us,30.223695063334315,0.343505770499,0,1,"Freeman, Mary Eleanor Wilkins",Comfort Pease and her gold ring,vulgar
+uc1.b3124668,1886,1886,1846,1886,m,us,35.309957505181806,0.65281765241,0,1,"Hawthorne, Julian",The trial of Gideon,vulgar
+uc1.b318289,1884,1884,1821,1884,m,french,35.20375849255454,0.130840011566,0,1,"Du Boisgobey, Fortuné","Babiole, the pretty milliner",vulgar
+uc1.b3322001,1880,1880,1844,1880,f,uk,31.581113698935823,0.284417707715,0,1,"Buxton, B. H",Nell,vulgar
+uc1.b3322489,1875,1875,1846,1875,m,us,33.00654909652838,0.625760184313,0,1,"Hawthorne, Julian",Garth,vulgar
+uc1.b3325372,1897,1897,1864,1897,m,us,33.16125812688453,0.67877192523,1,1,"Davis, Richard Harding",Soldiers of fortune,elite
+uc1.b3325538,1895,1895,1849,1895,m,uk,34.09200266883694,0.578334829677,1,1,"Mallock, W. H",The heart of life,elite
+uc1.b3325539,1895,1895,1849,1895,m,uk,33.250688632577145,0.568114869545,1,1,"Mallock, W. H",The heart of life,elite
+uc1.b3326036,1898,1898,1838,1898,f,us,34.20083605317185,0.563593828251,1,1,"Slosson, Annie Trumbull",Dumb foxglove,elite
+uc1.b3326437,1893,1893,1847,1893,f,uk,31.97476863666035,0.641297202652,0,1,"Steel, Flora Annie Webster",Miss Stuart's legacy,vulgar
+uc1.b3327277,1886,1886,1824,1886,f,us,33.754655822067555,0.819345264639,0,1,"Whitney, A. D. T",Bonnyborough,vulgar
+uc1.b3327365,1899,1899,1862,1899,m,uk,29.31379366372476,0.835496829429,1,1,"Merriman, Henry Seton",The isle of unrest,elite
+uc1.b3327527,1880,1880,1830,1880,m,uk,39.42809642210104,0.452845053647,0,1,"Payn, James",Married beneath him,vulgar
+uc1.b3578724,1892,1892,1840,1892,m,uk,34.481892493299455,0.613810942833,1,1,"Hardy, Thomas",Tess of the D'Urbervilles,elite
+uc1.b3578725,1892,1892,1840,1892,m,uk,32.3466602896266,0.556634813746,1,1,"Hardy, Thomas",Tess of the D'Urbervilles,elite
+uc1.b3578726,1892,1892,1840,1892,m,uk,32.65905827731314,0.512059766755,1,1,"Hardy, Thomas",Tess of the D'Urbervilles,elite
+uc1.b4101375,1893,1893,1836,1893,m,uk,30.61237315787477,0.249891498021,0,1,"Burnand, F. C",The real adventures of Robinson Crusoe,vulgar
+uc1.b4102757,1893,1893,1857,1893,m,us,28.222500269954857,0.673207871794,1,1,"Fuller, Henry Blake",The cliff-dwellers,elite
+uc1.b4104982,1877,1877,1849,1877,f,us,31.179631649565454,0.554784149762,1,1,"Burnett, Frances Hodgson",That lass o' Lowrie's,elite
+uc1.b4113044,1886,1886,1825,1886,m,uk,36.652325467508675,0.483617348384,0,1,"Brierley, Benjamin",Cast upon the world,vulgar
+uc2.ark+=13960=fk52f7k42g,1892,1892,1826,1892,m,us,41.384620560043864,0.440262367619,0,1,"Watson, William",The adventures of a blockade runner;,vulgar
+uc2.ark+=13960=t02z14r3d,1894,1894,1842,1894,m,us,33.46821738869229,0.118514759528,0,1,"Schindler, Solomon",Young West;,vulgar
+uc2.ark+=13960=t04x54r17,1879,1879,1828,1879,f,us,31.865201809056217,0.128927697798,0,1,"Finley, Martha",Mildred at Roselands;,vulgar
+uc2.ark+=13960=t05x2648j,1880,1880,1836,1880,m,us,27.164827308540946,0.668598879168,1,1,"Aldrich, Thomas Bailey",The stillwater tragedy,elite
+uc2.ark+=13960=t09w0b884,1879,1879,1848,1879,f,us,30.700880383678413,0.376631870902,1,1,"Elliott, Sarah Barnwell",The Felmeres,elite
+uc2.ark+=13960=t0dv1ds4q,1889,1889,1854,1889,f,uk,33.00489462942806,0.547278764333,1,1,"Grand, Sarah",Ideala,elite
+uc2.ark+=13960=t0ht2v58x,1880,1880,1846,1880,f,uk,34.82141066373382,0.218599599731,0,1,"Gowing, Aylmer",My only love;,vulgar
+uc2.ark+=13960=t0ks6p45r,1882,1882,1825,1882,m,uk,33.304617691290794,0.341044175059,1,1,"Ballantyne, R. M","The battery and the boiler, or, Adventures in the laying of submarine electric cables",elite
+uc2.ark+=13960=t0vq30t72,1895,1895,1870,1895,m,uk,25.749883115576942,0.849794443378,1,1,"Crackanthorpe, Hubert","Sentimental studies, and A set of village tales",elite
+uc2.ark+=13960=t10p1901j,1885,1885,1852,1885,f,uk,29.57772029134005,0.71710172462,1,1,"Malet, Lucas",Colonel Enderby's wife,elite
+uc2.ark+=13960=t15m6701g,1875,1875,1853,1875,f,uk,30.55128992188485,0.526471350131,0,1,"Mathers, Helen",Comin' thro' the rye,vulgar
+uc2.ark+=13960=t17m04t77,1879,1879,1844,1879,m,us,26.310842150361392,0.605271667508,1,1,"Cable, George Washington",Old Creole days,elite
+uc2.ark+=13960=t1gh9bk2q,1886,1886,1844,1886,f,us,30.742257042447132,0.551800218674,1,1,"Phelps, Elizabeth Stuart",The Madonna of the tubs,elite
+uc2.ark+=13960=t1mg7mm2m,1875,1875,1847,1875,f,uk,34.46949761425348,0.504795620544,1,1,"Gift, Theo",Pretty Miss Bellew;,elite
+uc2.ark+=13960=t1ng4rz6v,1884,1884,1838,1884,m,bengali,24.847657876858804,0.301883759284,0,1,"Chatterji, Bankim Chandra",The poison tree;,vulgar
+uc2.ark+=13960=t1pg1nv9w,1876,1876,1840,1876,f,uk,32.06274503363595,0.51269586538,1,1,"Broughton, Rhoda",Joan,elite
+uc2.ark+=13960=t1td9qq24,1888,1888,1857,1888,m,us,30.482626411942476,0.593152069864,0,1,"Châteauclair, Wilfrid",The young seigneur;,vulgar
+uc2.ark+=13960=t21c1zs54,1876,1876,1840,1876,f,uk,33.18182370425062,0.609850602425,1,1,"Broughton, Rhoda",Joan,elite
+uc2.ark+=13960=t25b01m57,1880,1880,1836,1880,f,uk,29.027263749637328,0.224486407838,0,1,"Brame, Charlotte M",Repented at leisure,vulgar
+uc2.ark+=13960=t2h70896n,1899,1899,1855,1899,m,uk,21.860677317373316,0.141602071167,0,1,"Weyman, Stanley John",When love calls,vulgar
+uc2.ark+=13960=t2h70dt42,1888,1888,1843,1888,m,uk,29.41556624750526,0.312720228691,0,1,"Gibbon, Charles",Beyond compare,vulgar
+uc2.ark+=13960=t2m61fk5s,1899,1899,1853,1899,m,spanish,27.41469283178818,0.471873814677,0,1,"Palacio Valdés, Armando",The joy of Captain Ribot;,vulgar
+uc2.ark+=13960=t2m61hb1j,1894,1894,1853,1894,m,uk,28.079743519788266,0.740184888482,1,1,"Caine, Hall",The manxman,elite
+uc2.ark+=13960=t2p55gp79,1890,1890,1863,1890,m,uk,23.955746191299205,0.310319053992,0,1,"Bain, F. W",Dmitri,vulgar
+uc2.ark+=13960=t2r49pd51,1883,1883,1847,1883,m,uk,26.749575718162703,0.385153859362,1,1,"Conway, Hugh",Called back,elite
+uc2.ark+=13960=t3320543j,1887,1887,1841,1887,m,uk,35.31548656741952,0.587786210175,1,1,"Black, William",Sabina Zembra,elite
+uc2.ark+=13960=t3416vd9j,1882,1882,1848,1882,m,us,43.408045730543,0.313938925759,0,1,"Otis, James",Mr. Stubbs's brother;,vulgar
+uc2.ark+=13960=t3513x89r,1891,1891,0,1891,,,33.69025227585697,0.448843555001,0,1,"Ward, E",A pair of originals,vulgar
+uc2.ark+=13960=t3bz6461g,1885,1885,1828,1885,m,uk,28.459250156642906,0.498415400124,1,1,"Meredith, George",Diana of the Crossways,elite
+uc2.ark+=13960=t3tt4h41b,1898,1898,1844,1898,f,us,32.17554167434885,0.330047143107,0,1,"Noble, Annette Lucile",The silent man's legacy,vulgar
+uc2.ark+=13960=t41r6ns5n,1893,1893,0,1893,,,27.069620243264378,0.414478728648,0,1,"Brown, William Horace",A southern heritage,vulgar
+uc2.ark+=13960=t43r0sj8z,1885,1885,1826,1885,f,us,27.6363509367837,0.332115314158,0,1,"Guernsey, Lucy Ellen",Oldham,vulgar
+uc2.ark+=13960=t49p38m1k,1885,1885,1852,1885,f,uk,29.228031102981625,0.742727784064,1,1,"Malet, Lucas",Colonel Enderby's wife,elite
+uc2.ark+=13960=t4sj1d326,1880,1880,1830,1880,m,us,27.65395258584064,0.486553220789,1,1,"Cooke, John Esten",The Virginia Bohemians;,elite
+uc2.ark+=13960=t4sj1g55c,1886,1886,1844,1886,m,uk,30.253994271904315,0.574775732899,1,1,"Lang, Andrew",The mark of Cain,elite
+uc2.ark+=13960=t4vh5db24,1880,1880,1807,1880,m,uk,49.88964849186595,0.544087070576,0,1,"Miller, Thomas",Little Blue Hood,vulgar
+uc2.ark+=13960=t5k93292h,1876,1876,1828,1876,f,us,32.66127477780209,0.215038451605,0,1,"Finley, Martha",Mildred Keith,vulgar
+uc2.ark+=13960=t5x63ds6x,1888,1888,1851,1888,f,uk,32.62010884971993,0.851981356365,1,1,"Ward, Mary Augusta",Robert Elsmere,elite
+uc2.ark+=13960=t5x63gm9z,1876,1876,1840,1876,f,uk,33.07322356174844,0.604946442728,1,1,"Broughton, Rhoda",Joan,elite
+uc2.ark+=13960=t6639nr4d,1899,1899,1867,1899,m,uk,31.935669394906895,0.81058258768,1,1,"Dowson, Ernest Christopher",Adrian Rome,elite
+uc2.ark+=13960=t6736nr4k,1880,1880,1846,1880,m,us,29.770332844824246,0.621404967009,0,1,"Hawthorne, Julian",Garth: a novel,vulgar
+uc2.ark+=13960=t6nz85s88,1883,1883,0,1883,,,32.06668769306912,0.678199206372,1,1,anonymous4,My trivial life and misfortune,elite
+uc2.ark+=13960=t6rx9gk2c,1887,1887,1841,1887,m,uk,32.14487655969842,0.429262561145,1,1,"Black, William",Sabina Zembra,elite
+uc2.ark+=13960=t6tx37k6r,1886,1886,1845,1886,f,us,41.232460486789385,0.385559106255,0,1,"Vandegrift, Margaret",Ways and means,vulgar
+uc2.ark+=13960=t6xw4n10m,1895,1895,1840,1895,m,uk,29.819162000087456,0.297149313493,0,1,"Stables, Gordon",Shireen and her friends,vulgar
+uc2.ark+=13960=t7cr5nv4m,1884,1884,1830,1884,f,us,28.617263831601875,0.655909235775,1,1,"Jackson, Helen Hunt",Ramona,elite
+uc2.ark+=13960=t7mp4xh9z,1893,1893,1858,1893,m,uk,32.351929691944164,0.222777058103,0,1,"Ingram, J. Forsyth",The story of a gold concession,vulgar
+uc2.ark+=13960=t7np1x57p,1876,1876,1822,1876,m,us,30.98635782392366,0.292167098909,1,1,"Hale, Edward Everett",Philip Nolan's friends,elite
+uc2.ark+=13960=t7sn01q3p,1887,1887,1831,1887,f,uk,26.185684579664073,0.380021343325,0,1,"Barr, Amelia Edith Huddleston",The squire of Sandal-Side;,vulgar
+uc2.ark+=13960=t7xk87j6z,1877,1877,1843,1877,f,uk,33.675078154548245,0.325907209092,0,1,"Forrester, Mrs",Mignon,vulgar
+uc2.ark+=13960=t84j0cp08,1879,1879,1843,1879,f,uk,30.408618871238815,0.441427293602,0,1,"Montgomery, Florence",Seaforth,vulgar
+uc2.ark+=13960=t85h7cw8f,1895,1895,1866,1895,m,uk,22.12109671249106,0.840181929404,1,1,"Wells, H. G",The wonderful visit,elite
+uc2.ark+=13960=t8pc2vb7z,1897,1896,1871,1897,m,us,19.893487454602788,0.810319498921,1,1,"Crane, Stephen",George's mother,elite
+uc2.ark+=13960=t9j38r92d,1880,1880,0,1880,,,30.95888027692884,0.206018245929,0,1,"Valentine, L",We three boys,vulgar
+uc2.ark+=13960=t9m32tr6b,1890,1890,1857,1890,m,german,26.757316333108566,0.751656549175,0,1,"Sudermann, Hermann",Regina;,vulgar
+uc2.ark+=13960=t9n29z109,1895,1895,1857,1895,m,uk,25.982808318349,0.812045637443,0,1,"Roberts, Morley",The degradation of Geoffrey Alwith,vulgar
+uc2.ark+=13960=t9r20sh4z,1880,1880,1822,1880,f,us,27.307461152293357,0.344476443286,1,1,"Latimer, Elizabeth Wormeley",Salvage,elite
+uc2.ark+=13960=t9t15276t,1876,1876,1824,1876,m,uk,34.70299007151061,0.533136056138,1,1,"MacDonald, George","Thomas Wingfold, curate",elite
+uc2.ark+=13960=t9w08x645,1898,1898,1862,1898,m,us,35.4027093637485,0.643689431496,1,1,"Altsheler, Joseph A",A herald of the West;,elite
+uiuo.ark+=13960=t01z4t30j,1882,1882,1849,1882,f,uk,27.70281450273144,0.422118944933,0,1,"Croker, B. M",Proper pride,vulgar
+uiuo.ark+=13960=t0ht34v35,1877,1877,0,1877,,uk,29.74844427793106,0.293854153977,0,1,"Lloyd, Jessie Sale",The Hazelhurst mystery,vulgar
+uiuo.ark+=13960=t0jt09500,1889,1889,1844,1889,m,uk,35.571737993056345,0.721664667242,1,1,"Russell, William Clark",Marooned,elite
+uiuo.ark+=13960=t0tq6k46g,1880,1880,1845,1880,f,uk,30.826975517779726,0.547000120891,1,1,"Walford, Lucy Bethia",Troublesome daughters,elite
+uiuo.ark+=13960=t0vq38v4c,1889,1889,1843,1889,f,uk,33.07205248479736,0.440703220092,0,1,"Fane, Violet",The story of Helen Davenant,vulgar
+uiuo.ark+=13960=t0vq3kb3w,1879,1879,0,1879,m,,37.72369607130406,0.311271402796,0,1,"Newall, John",Nature's nobility,vulgar
+uiuo.ark+=13960=t12n5tf8r,1877,1877,1845,1877,m,uk,38.928335992562644,0.290239505185,0,1,"Durrant, Valentine",A modern minister,vulgar
+uiuo.ark+=13960=t13n2dw98,1884,1884,1857,1884,f,uk,32.12583425224372,0.58516615828,1,1,"Lyall, Edna",We two,elite
+uiuo.ark+=13960=t16m3hs4q,1876,1876,0,1876,u,,36.642731919459756,0.436314742815,0,1,"Chandler, W. A",Thrice,vulgar
+uiuo.ark+=13960=t17m0j24w,1877,1877,1846,1877,m,uk,38.481454414956374,0.327129338291,1,1,"Allardyce, Alexander",The city of sunshine,elite
+uiuo.ark+=13960=t1bk1r841,1877,1877,1829,1877,m,uk,24.956611144658545,0.418934774682,0,1,"De Fonblanque, Albany",Bad luck,vulgar
+uiuo.ark+=13960=t1fj34d94,1885,1885,1842,1885,m,uk,28.38632572709903,0.534984989156,0,1,"Wingfield, Lewis",Barbara Philpot,vulgar
+uiuo.ark+=13960=t1pg1z41b,1887,1887,1849,1887,m,uk,32.159275985139836,0.590453946216,1,1,"Barry, William Francis",The new Antigone,elite
+uiuo.ark+=13960=t1qf91c76,1880,1880,1854,1880,f,uk,22.722588023927923,0.567751985508,0,1,"Colvill, Helen Hester",A dreamer,vulgar
+uiuo.ark+=13960=t1qf9bh67,1889,1889,1844,1889,m,uk,37.418175623523936,0.681731672651,1,1,"Russell, William Clark",Marooned,elite
+uiuo.ark+=13960=t1sf38n52,1879,1879,1825,1879,f,uk,39.60557029442376,0.474688306718,1,1,"Keary, Annie",A doubting heart,elite
+uiuo.ark+=13960=t1wd4h96x,1879,1879,1835,1879,f,uk,33.978272512918,0.46344065955,0,1,"Tabor, Eliza",The last of her line,vulgar
+uiuo.ark+=13960=t20c59n08,1875,1875,1827,1875,m,uk,37.86278635799476,0.73808073941,0,1,"Dering, Edward Heneage","Sherborne, or, The house at the four ways",vulgar
+uiuo.ark+=13960=t2794f36r,1877,1877,1846,1877,m,uk,35.34743572666689,0.214096952101,1,1,"Allardyce, Alexander",The city of sunshine,elite
+uiuo.ark+=13960=t2988h62s,1887,1887,1849,1887,m,uk,32.65446956310885,0.693443827935,1,1,"Barry, William Francis",The new Antigone,elite
+uiuo.ark+=13960=t2b85wr4n,1880,1880,1847,1880,m,uk,30.70838950241397,0.491086582186,0,1,"Christie-Murray, David",A life's atonement,vulgar
+uiuo.ark+=13960=t2d79qg2t,1880,1880,1836,1880,m,uk,36.65928350742057,0.281970210252,0,1,"Greg, Percy",Errant,vulgar
+uiuo.ark+=13960=t2h70xd4w,1879,1879,1825,1879,f,uk,40.09365173836728,0.571642284105,1,1,"Keary, Annie",A doubting heart,elite
+uiuo.ark+=13960=t2h70xs59,1875,1875,1824,1875,m,uk,29.745960516397304,0.599261747486,1,1,"MacDonald, George",Malcolm,elite
+uiuo.ark+=13960=t2v41110q,1880,1880,1826,1880,m,uk,28.303548553777162,0.408697611628,1,1,"Aïdé, Hamilton",Poet and peer,elite
+uiuo.ark+=13960=t3126gn25,1881,1881,0,1881,f,uk,31.528415331483977,0.143807443745,0,1,"Lean, Florence",My sister the actress,vulgar
+uiuo.ark+=13960=t3223dc0z,1885,1885,1852,1885,f,uk,26.84529737120409,0.73324328788,1,1,"Malet, Lucas",Colonel Enderby's wife,elite
+uiuo.ark+=13960=t3417852c,1880,1880,1826,1880,m,uk,28.148352199188807,0.548057120759,1,1,"Aïdé, Hamilton",Poet and peer,elite
+uiuo.ark+=13960=t39z9dj6h,1877,1877,1846,1877,m,uk,36.83902473659026,0.250431642783,1,1,"Allardyce, Alexander",The city of sunshine,elite
+uiuo.ark+=13960=t3jw8nr85,1893,1893,1848,1893,m,us,30.60561646152516,0.506934083428,1,1,"Allen, Grant",The scallywag,elite
+uiuo.ark+=13960=t3nv9qx3s,1887,1887,1849,1887,m,uk,30.18573658446218,0.550424833085,1,1,"Barry, William Francis",The new Antigone,elite
+uiuo.ark+=13960=t3rv0v43n,1893,1893,1848,1893,m,us,30.147833194416666,0.492951896225,1,1,"Allen, Grant",The scallywag,elite
+uiuo.ark+=13960=t3st7v616,1878,1878,1850,1878,f,uk,33.49659843828785,0.544680394887,0,1,"Armitt, Annie",The garden at Monkholme,vulgar
+uiuo.ark+=13960=t3xs6018h,1882,1882,1848,1882,m,uk,26.203125301941853,0.287865663699,0,1,"Barrett, Frank",A prodigal's progress,vulgar
+uiuo.ark+=13960=t3xs60k95,1893,1893,1848,1893,m,us,32.072157184411374,0.514753444142,1,1,"Allen, Grant",The scallywag,elite
+uiuo.ark+=13960=t43r1cm88,1878,1878,1831,1878,m,uk,29.02726415111312,0.55778392546,0,1,"Lockhart, Laurence W. M",Mine is thine,vulgar
+uiuo.ark+=13960=t44q87z39,1886,1886,1846,1886,m,uk,24.913050347708023,0.62652458763,0,1,"Dowling, Richard",Tempest-driven,vulgar
+uiuo.ark+=13960=t44q8885q,1877,1877,1836,1877,f,uk,29.129150428235175,0.415497373944,0,1,"Edwards, Matilda Betham",Bridget,vulgar
+uiuo.ark+=13960=t47p9mm6s,1889,1889,1844,1889,m,uk,35.30065039696908,0.676026369354,1,1,"Russell, William Clark",Marooned,elite
+uiuo.ark+=13960=t49p3nb8x,1887,1887,1849,1887,,,30.119090445621943,0.269309960525,0,1,"Philips, F. C",The dean and his daughter,vulgar
+uiuo.ark+=13960=t49p3pp7b,1875,1875,1835,1875,f,uk,31.858811515223593,0.531138127899,0,1,"Tabor, Eliza",Eglantine,vulgar
+uiuo.ark+=13960=t4gm8k930,1884,1884,1831,1884,m,uk,30.454751302305894,0.422234798292,0,1,"Fenn, George Manville",Sweet Mace,vulgar
+uiuo.ark+=13960=t4gm8rt0b,1886,1886,1847,1886,m,uk,31.943268271039454,0.50693068685,1,1,"Norris, W. E",A bachelor's blunder,elite
+uiuo.ark+=13960=t4hm5w02c,1879,1879,0,1879,u,,34.2847588340479,0.138180451611,0,1,"Noble, Frances",Violet Mortimer,vulgar
+uiuo.ark+=13960=t4kk9x89j,1895,1895,1830,1895,m,uk,30.105361497686527,0.509770865901,0,1,"Robinson, F. W",The woman in the dark,vulgar
+uiuo.ark+=13960=t4th9616r,1894,1894,1840,1894,f,uk,27.55453540977332,0.445827384404,0,1,"Carey, Rosa Nouchette","The old, old story",vulgar
+uiuo.ark+=13960=t4vh67901,1891,1891,1860,1891,m,uk,26.487066428759693,0.600383250036,1,1,"Barrie, J. M",The little minister,elite
+uiuo.ark+=13960=t4zg74x38,1887,1887,1840,1887,f,uk,29.41660695247442,0.664183503691,0,1,"Linskill, Mary",In exchange for a soul;,vulgar
+uiuo.ark+=13960=t51g1046c,1889,1889,1850,1889,f,uk,29.458928701340227,0.677341099519,1,1,"Carr, Alice Vansittart (Strettell)",Margaret Maliphant,elite
+uiuo.ark+=13960=t53f5dr3r,1878,1878,1818,1878,m,uk,31.724115198376335,0.108974258185,0,1,"Vereker, Charles Smyth",The child of the desert,vulgar
+uiuo.ark+=13960=t58d0f39v,1875,1875,1824,1875,m,uk,33.339936564742196,0.617264466529,1,1,"MacDonald, George",Malcolm,elite
+uiuo.ark+=13960=t5h99rx11,1889,1889,1859,1889,f,uk,29.384947551310987,0.526385382436,0,1,"Smith, Constance",The repentance of Paul Wentworth,vulgar
+uiuo.ark+=13960=t5h99sh0k,1880,1880,1845,1880,f,uk,32.09181627687152,0.532087722994,1,1,"Walford, Lucy Bethia",Troublesome daughters,elite
+uiuo.ark+=13960=t5t72pq4d,1880,1880,1826,1880,m,uk,29.162653044590723,0.509926829266,1,1,"Aïdé, Hamilton",Poet and peer,elite
+uiuo.ark+=13960=t5t733b8r,1891,1891,1860,1891,m,uk,26.742853278076655,0.553242404051,1,1,"Barrie, J. M",The little minister,elite
+uiuo.ark+=13960=t65439787,1886,1886,1845,1886,f,uk,32.773878458016824,0.706190659852,1,1,"Lawless, Emily",Hurrish,elite
+uiuo.ark+=13960=t6h13936j,1886,1886,1836,1886,m,uk,27.688019652483042,0.600961794106,1,1,"Besant, Walter",Children of Gibeon,elite
+uiuo.ark+=13960=t6h13np7s,1885,1885,1833,1885,m,uk,28.471972371357037,0.222179267049,0,1,"Smart, Hawley",Tie and trick,vulgar
+uiuo.ark+=13960=t6m04st95,1891,1891,1860,1891,m,uk,26.33859481155818,0.621999947745,1,1,"Barrie, J. M",The little minister,elite
+uiuo.ark+=13960=t78s57g82,1879,1879,0,1879,u,,29.41357538836144,0.238639738526,0,1,"Knight, Wynter Frore",Our vicar,vulgar
+uiuo.ark+=13960=t79s21g78,1884,1884,1857,1884,f,uk,29.909867861596133,0.493418332828,1,1,"Lyall, Edna",We two,elite
+uiuo.ark+=13960=t79s28b7c,1884,1884,1827,1884,f,uk,35.99756131708413,0.460036132723,0,1,"Tytler, Sarah",Saint Mung's city,vulgar
+uiuo.ark+=13960=t7cr63984,1886,1886,1836,1886,m,uk,27.423401192483833,0.439618937068,1,1,"Besant, Walter",Children of Gibeon,elite
+uiuo.ark+=13960=t7dr3dc21,1881,1881,1833,1881,f,uk,32.48542977691186,0.386127362286,0,1,"Middlemass, Jean",Sackcloth and broadcloth,vulgar
+uiuo.ark+=13960=t7hq4fp6c,1879,1879,1825,1879,f,uk,40.11391750329562,0.442480039125,1,1,"Keary, Annie",A doubting heart,elite
+uiuo.ark+=13960=t7hq4m576,1880,1880,1845,1880,f,uk,30.32732673660062,0.392271609657,1,1,"Walford, Lucy Bethia",Troublesome daughters,elite
+uiuo.ark+=13960=t7kp8942d,1889,1889,1850,1889,f,uk,27.90400910467054,0.732752084357,1,1,"Carr, Alice Vansittart (Strettell)",Margaret Maliphant,elite
+uiuo.ark+=13960=t7tm7kq3x,1879,1879,0,1879,,,29.753578241371176,0.313610952359,0,1,"Edwards, Harry Bennett",A tantalus cup;,vulgar
+uiuo.ark+=13960=t7tm7tp6t,1880,1880,1851,1880,f,au,28.37973732921153,0.461149439716,0,1,"Praed, Campbell",An Australian heroine,vulgar
+uiuo.ark+=13960=t85h8377h,1886,1886,1847,1886,m,uk,31.283576060806954,0.514551509841,1,1,"Norris, W. E",A bachelor's blunder,elite
+uiuo.ark+=13960=t8bg31g17,1886,1886,1843,1886,f,uk,37.044558931466234,0.422047166856,0,1,"Fane, Violet",Thro' love and war,vulgar
+uiuo.ark+=13960=t8gf1c956,1886,1886,1847,1886,m,uk,31.213949420584605,0.561443432732,1,1,"Norris, W. E",A bachelor's blunder,elite
+uiuo.ark+=13960=t8jd54p32,1886,1886,1836,1886,m,uk,27.260846539393757,0.630239315305,1,1,"Besant, Walter",Children of Gibeon,elite
+uiuo.ark+=13960=t8sb41f1t,1880,1880,1838,1880,m,us,32.436228038629174,0.486395048242,1,1,"Adams, Henry",Democracy,elite
+uiuo.ark+=13960=t9183tc29,1875,1875,1824,1875,m,uk,33.38513460920543,0.62291820867,1,1,"MacDonald, George",Malcolm,elite
+uiuo.ark+=13960=t9378171p,1887,1887,1843,1887,f,uk,26.58855634146396,0.682903591407,0,1,"Veley, Margaret",A garden of memories. Mrs. Austin. Lizzie's bargain,vulgar
+uiuo.ark+=13960=t95720v3n,1886,1886,1845,1886,f,uk,30.26514805015367,0.813843975723,1,1,"Lawless, Emily",Hurrish,elite
+uiuo.ark+=13960=t9f47xn9c,1884,1884,1821,1884,f,uk,33.640418148611815,0.498174658425,0,1,"Banks, G. Linnaeus",Sybilla and other stories,vulgar
+uiuo.ark+=13960=t9f47xt5p,1884,1884,1857,1884,f,uk,32.27636631580258,0.623907942491,1,1,"Lyall, Edna",We two,elite
+uiuo.ark+=13960=t9g45077d,1889,1889,1850,1889,f,uk,27.36954240985543,0.702335748194,1,1,"Carr, Alice Vansittart (Strettell)",Margaret Maliphant,elite
+uiuo.ark+=13960=t9h427g45,1882,1882,1848,1882,m,uk,26.091268092975433,0.856678424264,0,1,"Jefferies, Richard",Bevis,vulgar
+uiuo.ark+=13960=t9k36b97d,1884,1884,1831,1884,f,uk,24.643328229499264,0.657891512648,0,1,"Craik, Georgiana M",Godfrey Helstone,vulgar
+uiuo.ark+=13960=t9v12mm90,1887,1887,1825,1887,f,us,28.01825993410691,0.241267979731,0,1,"Alexander, Mrs",Mona's choice,vulgar
+uiuo.ark+=13960=t9z03rv69,1881,1881,1834,1881,m,uk,43.37251522793467,0.520848947976,1,1,"Shorthouse, J. H",John Inglesant;,elite
+uva.x000956960,1883,1882,1837,1883,m,us,34.8801417639853,0.682947192122,1,1,"Howells, William Dean",A woman's reason,elite
+uva.x030788142,1879,1879,1853,1879,f,uk,38.857564570426966,0.495333369076,1,1,"Butt, Beatrice May",Delicia,elite
+wu.89090340324,1880,1880,1844,1880,f,uk,33.68651300219462,0.219031604639,0,1,"Buxton, B. H",From the wings,vulgar
+wu.89097996409,1880,1880,1862,1880,f,us,33.29346478942488,0.232880409673,0,1,"Libbey, Laura Jean","Little Rosebud's lovers, or, A cruel revenge",vulgar
+wu.89098003668,1889,1889,0,1889,f,us,36.46235013331407,0.196538139125,0,1,"Powell, Ella M",Clio,vulgar
+wu.89098022577,1896,1896,1837,1896,f,us,40.326936215595026,0.0673350763367,0,1,"Dumond, Annie Nelles,",Christlike,vulgar
+wu.89098856453,1895,1892,1867,1895,f,uk,38.499577014399485,0.790862942879,1,1,"Dowie, Ménie Muriel",A girl in the Karpathians,elite
+wu.89099776841,1878,1878,1826,1878,f,uk,37.581504130885,0.679805824608,1,1,"Craik, Dinah Maria Mulock",Young Mrs. Jardine,elite
+wu.89104493895,1885,1885,0,1885,,,27.575843468753504,0.334510305164,0,1,"Spencer, Lillian",After all,vulgar
+yale.39002030972336,1899,1899,1861,1899,m,uk,24.58820797781013,0.811045395158,0,1,"Kennedy, Bart",A man adrift,vulgar

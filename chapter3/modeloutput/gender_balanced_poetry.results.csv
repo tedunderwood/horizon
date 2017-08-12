@@ -1,0 +1,285 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+hvd.32044010164861,1814,1828,1783,1814,m,uk,39.520884069557766,0.370521206523,0,1,"Nicholson, William,",[Tales in verse,random
+hvd.32044018706432,1845,1845,1786,1845,f,uk,34.8711507369214,0.687748331312,1,1,"Southey, Caroline Bowles,",The birth-day,reviewed
+hvd.hn8n81,1823,1824,1795,1823,m,us,57.391513102768975,0.65928292545,0,1,"Percival, James Gates,",Poems,random
+hvd.hnpeas,1833,1833,1796,1833,m,uk,47.307327644403784,0.343732534972,0,1,"Markham, Alexander.",The avenged bride;,random
+hvd.hwh1bt,1841,1841,1776,1841,m,uk,44.79142447939943,0.277517092261,0,1,"Fitchett, John,",King Alfred,random
+hvd.hwjueh,1839,1841,1788,1839,m,us,36.497790475104146,0.24876470413,0,1,"Emmons, Richard,",The battle of Bunker Hill,random
+hvd.hwkq93,1840,1840,1808,1840,f,uk,42.45927320030176,0.854422387197,1,1,"Norton, Caroline Sheridan,",The dream,reviewed
+hvd.hwnzqz,1819,1821,1788,1819,m,uk,44.71747884296005,0.614686722037,1,1,"Byron, George Gordon Byron,",The prophecy of Dante,reviewed
+hvd.hwpnme,1828,1828,1788,1828,m,uk,36.777366432787986,0.408146159846,1,1,"Atherstone, Edwin,",The fall of Nineveh;,reviewed
+hvd.hx5ei3,1842,1842,1787,1842,m,us,33.29282288977009,0.00404068013034,0,1,"Foster, Nathan Lanesford,",The last of his family;,random
+hvd.hxgf8x,1820,1820,1775,1820,m,uk,40.13910292161562,0.255615992891,0,1,"Watson, James,",The spirit of the doctor,random
+inu.30000108907506,1847,1847,1794,1847,m,us,33.6567043348142,0.119377854561,0,1,"Tappan, William B.",Sacred and miscellaneous poems,random
+inu.32000000641847,1880,1880,1834,1880,m,uk,38.2411120940927,0.858351758125,1,1,"Thomson, James,",The city of dreadful night,reviewed
+inu.32000007041967,1881,1881,1834,1881,m,uk,67.0504794048341,0.69602429224,1,1,"Morris, William,",The story of Sigurd the Volsung and the fall of Niblungs,reviewed
+loc.ark+=13960=t04x5sr13,1912,1912,1893,1912,m,us,26.648341606634265,0.831811444463,1,1,"Smith, Clark Ashton,",The star-treader,reviewed
+loc.ark+=13960=t05x2xf3v,1886,1886,1838,1886,f,us,25.109617907449987,0.00929488901968,0,1,"Greene, Aella,",The poetical works of Aella Greene,random
+loc.ark+=13960=t0dv25v7j,1917,1917,1860,1917,f,us,30.326883990846163,0.499406898727,0,1,"Reed, Helen Leah,","Memorial Day, and other verse (original and translated)",random
+loc.ark+=13960=t0gt62k04,1902,1902,1839,1902,f,us,24.747525491630537,0.045217667959,0,1,"Wilder, Cordelia Beardsley.",Kitchen visits with the muses,random
+loc.ark+=13960=t0tq6s38g,1913,1913,1877,1913,m,us,23.556151390417988,0.52389368259,0,1,"Malloch, Douglas.",The woods,random
+loc.ark+=13960=t0wq0dz13,1872,1872,0,1872,m,us,25.843446225063467,0.4541924003,0,1,"Armstrong, J. A.",Harvest,random
+loc.ark+=13960=t13n30w9p,1917,1917,1888,1917,f,us,23.774284277037427,0.284626648193,0,1,"Andrews, Edith Fargo.",Vagrant visions,random
+loc.ark+=13960=t18k7vr3q,1887,1887,1847,1887,m,us,23.361504477928634,0.511842498772,1,1,"Roche, James Jeffrey,",Songs and satires,reviewed
+loc.ark+=13960=t1cj8vs53,1902,1902,1840,1902,f,us,24.461022298857475,0.452021864316,0,1,"Welsh, Mary Elizabeth,",Kapiolani;,random
+loc.ark+=13960=t1cj90444,1896,1896,1817,1896,f,us,23.940171443519436,0.0584730440686,0,1,"Ramsey, V. G.",A censer;,random
+loc.ark+=13960=t1kh1508t,1864,1865,1790,1864,m,us,25.334579253937044,0.501190116751,0,1,"Halleck, Fitz-Greene,",Young America,random
+loc.ark+=13960=t1zc8cv86,1902,1902,1857,1902,f,us,28.010161770600927,0.173469768129,0,1,"Van Cleve, Alice Davis. [from old catalog]",The Queen's rosary,random
+loc.ark+=13960=t1zc8q99n,1882,1882,1835,1882,f,us,24.11388330848423,0.87848369371,1,1,"Spofford, Harriet Elizabeth Prescott,",Poems,reviewed
+loc.ark+=13960=t2891sf2m,1886,1886,1835,1886,f,us,21.768422310446912,0.755560819196,1,1,"Thaxter, Celia,","The cruise of the Mystery, and other poems",reviewed
+loc.ark+=13960=t3417h040,1853,1853,1789,1853,f,us,26.95975270501173,0.366652526255,0,1,"Gould, Hannah F[lagg],","The mother's dream, and other poems",random
+loc.ark+=13960=t3805w074,1880,1880,0,1880,f,,22.752479783444294,0.660321511318,1,1,"Backus, Elizabeth Welch.",Three friends' fancies,reviewed
+loc.ark+=13960=t3cz3pj65,1873,1873,1820,1873,m,us,26.220474964870043,0.561137069359,0,1,"Case, Leonard,",Treasure trove;,random
+loc.ark+=13960=t3nv9z201,1917,1917,1855,1917,f,us,26.87653205280696,0.00737431190349,0,1,"Kirk, Annie (Brindley),",Inspirational poems,random
+loc.ark+=13960=t3nw08094,1871,1871,1839,1871,f,us,23.06928806986046,0.335854541815,0,1,"Spalding, Lucy Billings,","The ruined statues, and other poems",random
+loc.ark+=13960=t3rv11c37,1889,1889,1849,1889,f,uk,19.651420859495715,0.107940950383,0,1,"Culler, Lucy Yeend.",Violet,random
+loc.ark+=13960=t3st8fg8k,1912,1912,1878,1912,f,us,24.752695869015465,0.784509246468,1,1,"Burr, Amelia Josephine,",The roadside fire,reviewed
+loc.ark+=13960=t3vt2bg76,1882,1882,1814,1882,f,uk,19.102318261130403,0.0698698526795,0,1,"[Valentine, Laura Jewry,",The tempest,random
+loc.ark+=13960=t3xs6b07q,1894,1894,1851,1894,f,us,23.431914951180016,0.0186088612347,0,1,"Choate, Clara Elizabeth. [from old catalog]",Songs of truth,random
+loc.ark+=13960=t40s0mt4z,1914,1914,1860,1914,f,us,22.328941034773457,0.848295996964,1,1,"Monroe, Harriet,",You and I,reviewed
+loc.ark+=13960=t41r7d74g,1881,1882,1848,1881,m,uk,27.411683148047125,0.975324106469,1,1,"Rossetti, Dante Gabriel,",Ballads and sonnets,reviewed
+loc.ark+=13960=t42r4b17k,1914,1914,1871,1914,f,us,22.837051690375187,0.107252267016,0,1,"Hinckley, Mercy Adeline,",Life-colors,random
+loc.ark+=13960=t46q2j373,1878,1880,1842,1878,f,us,22.886763632353915,0.340384694033,0,1,"Jones, Julia Clinton.",Valhalla,random
+loc.ark+=13960=t47p9ff2j,1901,1901,1836,1901,m,us,30.005063877889242,0.538261446381,0,1,"Blood, Henry Ames,",Selected poems of Henry Ames Blood,random
+loc.ark+=13960=t4bp0rb8b,1912,1912,1869,1912,f,us,23.40725705725892,0.760609033271,0,1,"Goodwin, Grace Duffield.",Horizon songs,random
+loc.ark+=13960=t4nk3w12z,1886,1886,1855,1886,m,us,31.870979986471646,0.544720083221,1,1,"Adams, Oscar Fay,",Post-laureate idyls,reviewed
+loc.ark+=13960=t57d3p237,1893,1893,1828,1893,f,us,22.62069250918276,0.136798929999,0,1,"Roberts, Betsey Ann Smith.",Original poems,random
+loc.ark+=13960=t5cc1sf60,1840,1840,0,1840,m,us,26.53736820980807,0.0561264560416,0,1,"Page, Theophilus. [from old catalog]",Heavenly musing;,random
+loc.ark+=13960=t5k93n92j,1884,1884,1831,1884,m,us,23.541189970594274,0.595256219942,0,1,"Baxter, James Phinney,",Idyls of the year,random
+loc.ark+=13960=t5n881k59,1878,1878,1847,1878,m,us,31.62498630594391,0.898681203722,1,1,"Fawcett, Edgar,",Fantasy and passion,reviewed
+loc.ark+=13960=t5q81tq24,1854,1854,0,1854,f,us,22.33538582154191,0.0566417646817,0,1,"Blake, Emma M.",Reliquae,random
+loc.ark+=13960=t5r78vg3h,1881,1881,1850,1881,f,us,19.963568198164197,0.709759317669,1,1,"Innsly, Owen,",Love poems and sonnets,reviewed
+loc.ark+=13960=t5t72zr45,1879,1879,1863,1879,f,us,28.59530859146079,0.871821551457,0,1,"Eastman, Elaine Goodale,",In Berkshire with the wild flowers,random
+loc.ark+=13960=t5w671s6k,1861,1861,1835,1861,f,us,23.36414118958095,0.600998837691,0,1,"Jones, Amanda Theodocia,","Ulah, and other poems",random
+loc.ark+=13960=t63495d13,1892,1893,1845,1892,m,us,29.83663889704402,0.203518639929,0,1,"Carleton, Will,",City festivals,random
+loc.ark+=13960=t6349841r,1864,1864,1821,1864,m,us,28.724120174777063,0.950426222547,1,1,"Tuckerman, Frederick Goddard,",Poems,reviewed
+loc.ark+=13960=t6737bz3f,1872,1872,1817,1872,f,us,27.221462270223032,0.0862705216296,0,1,"Ramsey, V. G.",A legend of the White Hills,random
+loc.ark+=13960=t6834m35p,1913,1913,1839,1913,m,us,30.89654172253205,0.382230351727,0,1,"Raymond, George Lansing,",The mountains about Williamstown,random
+loc.ark+=13960=t6n01p000,1886,1886,1856,1886,m,us,24.45520467319945,0.256345914884,0,1,"Hale, William,",Shore life in song,random
+loc.ark+=13960=t6pz5q631,1845,1845,0,1845,f,us,38.66094010605207,0.509294747559,0,1,"De Windt, Caroline Amelia Smith.",Melzinga,random
+loc.ark+=13960=t77s88w2s,1902,1902,1857,1902,f,us,33.09111188566915,0.709880432592,1,1,"Wetherald, A. Ethelwyn.",Tangled in stars;,reviewed
+loc.ark+=13960=t78s5hf3h,1833,1833,1775,1833,f,uk,33.630440072568156,0.101029520855,0,1,"Bulmer, Agnes (Collinson),",Messiah's kingdom,random
+loc.ark+=13960=t7dr3dz91,1901,1901,1881,1901,f,us,19.708712799411707,0.0437940182573,0,1,"Pickett, Anita Trueman,",Philo-sophia;,random
+loc.ark+=13960=t7jq1gj08,1862,1862,1835,1862,m,us,22.915017215344236,0.342195254414,0,1,"Hewes, George Whitfield.",Ballads of the war,random
+loc.ark+=13960=t7kp8gj8r,1893,1893,1856,1893,f,us,10.203826686476903,0.997876316662,1,1,"Granniss, Anna J.","Skipped stitches, verses",reviewed
+loc.ark+=13960=t7sn0q200,1860,1860,1812,1860,m,us,25.866921910575346,0.238383288065,0,1,"Chapman, George Walton,",A tribute to Kane,random
+loc.ark+=13960=t7vm4v20f,1887,1887,1824,1887,m,us,27.922818250099894,0.0805667749636,0,1,"Williams, Dwight,","The beautiful city in song, and other poems",random
+loc.ark+=13960=t7wm1rg17,1907,1907,0,1907,f,us,27.18589511255842,0.836038324629,0,1,"Johnson, Felicia Ross. [from old catalog]",Seamstress and poet,random
+loc.ark+=13960=t81k00b4k,1887,1887,0,1887,f,,26.481015560266325,0.00926866305098,0,1,"Teske, T. Alcliffe.",Heart echoes,random
+loc.ark+=13960=t85h85q7m,1901,1901,1870,1901,f,us,20.87384604145206,0.0719879702297,0,1,"Heyer, Mary B.",Under the southern sun [poems],random
+loc.ark+=13960=t8cf9tk39,1880,1880,1846,1880,m,us,20.433204790872548,0.0488783982524,0,1,"Kyner, James Henry,","Odes, hymns and songs of the G. A. R",random
+loc.ark+=13960=t8df7d08p,1893,1893,1856,1893,m,us,24.726252686140473,0.624757302168,1,1,"Hayne, William Hamilton,",Sylvan lyrics and other verses,reviewed
+loc.ark+=13960=t8ff4bv0c,1878,1878,1801,1878,m,us,27.452057696048193,0.0226134754949,0,1,"Means, Alexander,",A cluster of poems,random
+loc.ark+=13960=t95720v25,1872,1872,1835,1872,f,us,25.715873355094953,0.846315277505,1,1,"Thaxter, Celia,",Poems,reviewed
+loc.ark+=13960=t9d519g22,1883,1883,1818,1883,m,us,27.335153110829964,0.0215667366267,0,1,"Underwood, John,",El muza,random
+loc.ark+=13960=t9f48bc94,1882,1882,0,1882,f,,25.238384577787397,0.00478896057263,0,1,"Seibert, John.",The morning star,random
+loc.ark+=13960=t9g458b15,1915,1915,1855,1915,f,us,25.224132243258033,0.309383555375,0,1,"Ferris, Mary Lanman Douw ""Mrs. Morris P. Ferris,"",",A legend of New Year eve,random
+mdp.39015013092401,1885,1885,1809,1885,m,uk,37.87260724317607,0.95932031999,1,1,"Tennyson, Alfred Tennyson,",Tiresias,reviewed
+mdp.39015013157980,1871,1878,1836,1871,f,us,30.456033017691947,0.975348991556,1,1,"[Piatt, Sarah M. B.",A woman's poems,reviewed
+mdp.39015022679362,1828,1828,1793,1828,f,uk,34.529508608628156,0.804798424918,1,1,"Hemans,",Records of woman,reviewed
+mdp.39015023542395,1840,1840,1762,1840,f,uk,39.763087137584606,0.447784053479,1,1,"Baillie, Joanna,",Fugitive verses,reviewed
+mdp.39015030659935,1902,1902,1844,1902,m,uk,30.810009680382027,0.247576926304,1,1,"Bridges, Robert,",Bramble Brae,reviewed
+mdp.39015030707155,1901,1901,1828,1901,m,uk,35.11503891258913,0.805996936246,1,1,"Meredith, George,",A reading of life,reviewed
+mdp.39015030719945,1912,1917,1884,1912,f,us,38.18399323592156,0.904171261366,1,1,"Widdemer, Margaret.","Factories, poems",reviewed
+mdp.39015031228516,1907,1907,1871,1907,m,uk,37.24609021428871,0.72948613449,1,1,"Davies, W. H.",New poems,reviewed
+mdp.39015055468584,1880,1880,1846,1880,f,uk,25.776882283331766,0.384976869293,0,1,"Greenaway, Kate,",Under the window;,random
+mdp.39015059390164,1857,1880,1809,1857,m,uk,35.0805742898126,0.483631065557,1,1,"Blackie, John Stuart,",Lays and Legends of Ancient Greece,reviewed
+mdp.39015063753589,1880,1880,1832,1880,m,uk,38.914855989936946,0.719489263956,1,1,"Arnold, Edwin,",Poems,reviewed
+mdp.39015063915642,1916,1916,1880,1916,m,uk,38.55517424759874,0.620192476536,0,1,"Bashford, H. H.",Songs out of school,random
+mdp.39015063920428,1887,1887,1828,1887,f,us,35.315197701224065,0.00547955176661,0,1,"Kail, Mary E.,",Crown our heroes,random
+mdp.39015063926003,1910,1910,1871,1910,f,us,34.00268506891954,0.301312787707,0,1,"Ranum, Louise Cann,",Dreams,random
+mdp.39015063931565,1845,1845,1813,1845,m,us,35.541249449526944,0.45159058101,1,1,"Hirst, Henry Beck,",The coming of the mammoth,reviewed
+mdp.39015063931839,1912,1912,1873,1912,m,us,31.785566246117277,0.835151333828,1,1,"How, Louis,",The youth replies,reviewed
+mdp.39015063937810,1871,1894,1851,1871,m,uk,27.84549062256584,0.678192691351,0,1,"Mackay, Eric,",Love letters of a violinist,random
+mdp.39015063947066,1887,1887,1855,1887,m,us,32.8852945407184,0.00379676428336,0,1,"O'Hagan, Thomas,",A gate of flowers,random
+mdp.39015065250162,1905,1905,1875,1905,f,us,16.896765032629816,0.704739453209,1,1,"Branch, Anna Hempstead,","The shoes that danced, and other poems",reviewed
+mdp.39015066062160,1896,1902,1859,1896,m,uk,30.949607483211384,0.753838667622,1,1,"Housman, A. E.",A Shropshire lad,reviewed
+mdp.39015070462083,1828,1828,1788,1828,m,uk,54.02773535465114,0.296817342049,0,1,"Bird, James,",Dunwich;,random
+mdp.39015071556941,1877,1877,0,1877,f,us,29.741832530616648,0.00376195120107,0,1,"King, Delia Chase",The tidal wave,random
+mdp.49015002077973,1855,1882,1819,1855,m,us,50.93571269246012,0.653387312258,1,1,"Whitman, Walt,",Leaves of grass,reviewed
+njp.32101025285659,1862,1862,1819,1862,m,uk,37.340192340938806,0.71658569189,1,1,"Clough, Arthur Hugh,",Poems,reviewed
+njp.32101051388039,1862,1862,1831,1862,f,uk,29.17230664256317,0.344335752676,0,1,"Fotherby, Marie J. E.",Poems,random
+njp.32101051389870,1887,1887,0,1887,m,,30.33493571424378,0.0765886567454,0,1,"Harrison, Harry.",Poems,random
+njp.32101063702987,1881,1881,1820,1881,m,us,28.27214054495717,0.0181190875103,0,1,"Randolph, Anson D. F.",Easter chimes,random
+njp.32101063883340,1829,1829,1808,1829,f,uk,36.69485383683052,0.773891136939,1,1,"Norton, Caroline Sheridan,",The sorrows of Rosalie,reviewed
+njp.32101064713173,1880,1880,1843,1880,m,us,38.04648758882884,0.376495443556,0,1,"Selden, Samuel,",Poems,random
+njp.32101065604579,1820,1820,0,1820,f,uk,33.70239949681523,0.844493457335,0,1,"Woodcock, Henry,",Laura,random
+njp.32101066456896,1856,1856,1801,1856,f,uk,39.257763168569,0.806510567993,1,1,"Clive, Caroline,",Poems,reviewed
+njp.32101066457894,1871,1871,1834,1871,f,us,33.49942413099583,0.0476768075623,0,1,"Cooke, Belle W.",Tears and victory,random
+njp.32101066458066,1845,1847,1805,1845,m,uk,38.453666886475645,0.204421054898,0,1,"Cooper, Thomas,",The purgatory of suicides,random
+njp.32101067487577,1892,1892,1865,1892,m,uk,26.929920664857605,0.842321280081,1,1,"Yeats, W. B.",Wanderings of Oisin,reviewed
+njp.32101067628659,1893,1893,1860,1893,m,uk,25.6870854596738,0.908798737953,1,1,"Barlas, John Evelyn,",Selections from Songs of a bayadere and Songs of a troubadour,reviewed
+njp.32101067629178,1886,1886,1850,1886,m,us,27.33611605538275,0.709721094754,1,1,"Bates, Arlo,",Berries of the brier,reviewed
+njp.32101067646750,1864,1864,1835,1864,f,us,26.1528332982324,0.512002912501,1,1,"Hooper, Lucy Hamilton,",Poems;,reviewed
+njp.32101067680247,1918,1918,1867,1918,f,uk,31.83365363768555,0.758539655253,0,1,"Carmichael, Amy,",Made in the pans,random
+njp.32101067706885,1845,1845,1825,1845,f,uk,33.112535504955105,0.11772696436,0,1,"Bingham, Frances Lydia.","Hubert; or, The orphans of St. Madelaine",random
+njp.32101068138765,1844,1845,1806,1844,f,uk,34.904190497420444,0.862305283865,1,1,"Browning, Elizabeth Barrett,",A drama of exile,reviewed
+njp.32101068168077,1880,1880,1826,1880,f,uk,32.9984012936224,0.822523777434,0,1,"Craik, Dinah Maria Mulock,",Thirty years,random
+njp.32101068175072,1871,1871,1825,1871,m,us,60.88893290080909,0.711813378783,1,1,"Butler, William Allen,",Poems,reviewed
+njp.32101068972841,1863,1863,0,1863,f,uk,29.830739494849418,0.466038567933,0,1,"Law, Isabella.",Winter weavings,random
+njp.32101073982710,1853,1853,1806,1853,f,uk,29.287040631516525,0.852814078822,1,1,"Browning, Elizabeth Barrett,",Poems,reviewed
+nnc1.cu54856230,1912,1912,1836,1912,m,us,38.36823465882411,0.254984586285,0,1,"Gladden, Washington,","Ultima veritas, and other verses",random
+nyp.33433044042400,1899,1902,1837,1899,f,us,41.28472864248202,0.246693133943,0,1,"Machar, Agnes Maule,",Lays of the 'True North',random
+nyp.33433066571302,1887,1887,1853,1887,f,us,34.92399227692019,0.0200994195993,0,1,"Read, Jane Maria,",Between the centuries and other poems,random
+nyp.33433066626502,1881,1881,1841,1881,f,us,25.913698727602643,0.25196549568,0,1,"Oberholtzer, Sara Louisa,",Come for Arbutus,random
+nyp.33433066626783,1890,1890,1835,1890,f,us,23.617210960718,0.888705133675,1,1,"Moulton, Louise Chandler,",In the garden of dreams,reviewed
+nyp.33433066636329,1914,1914,1868,1914,f,us,20.93949044242394,0.863357983166,1,1,"Lee, Agnes,",The sharing,reviewed
+nyp.33433066637236,1886,1886,1823,1886,m,us,33.74583419249444,0.0989205615628,0,1,"Harris, Thomas Lake,",The joy-bringer,random
+nyp.33433066638408,1880,1882,1807,1880,m,us,28.96080921287224,0.958189408341,1,1,"Longfellow, Henry Wadsworth,",Ultima Thule,reviewed
+nyp.33433066640792,1870,1872,1830,1870,f,us,31.437295520137713,0.805482359058,1,1,"Jackson, Helen Hunt,",Verses,reviewed
+nyp.33433066643903,1879,1879,1838,1879,f,us,30.021052710334853,0.579925338533,1,1,"Bates, Charlotte Fiske,","Risk, and other poems",reviewed
+nyp.33433066644851,1916,1916,1878,1916,m,us,21.94974747466441,0.986202192575,1,1,"Sandburg, Carl,",Chicago poems,reviewed
+nyp.33433066649108,1887,1887,1831,1887,f,us,33.61309580357526,0.794041982528,1,1,"Perry, Nora,",New songs and ballads,reviewed
+nyp.33433066651138,1914,1914,1879,1914,m,us,26.110682440946647,0.745501184511,1,1,"Lindsay, Vachel,",The Congo and other poems,reviewed
+nyp.33433074800131,1911,1911,1883,1911,f,us,39.780627342357484,0.507504796926,1,1,"Wilkinson, Marguerite Ogden Bigelow,",In vivid gardens; songs of the woman spirit,reviewed
+nyp.33433074826789,1911,1911,1855,1911,m,us,35.521340539732584,0.300424862422,0,1,"Warman, Cy,",Songs of Cy Warman,random
+nyp.33433074835962,1910,1910,1851,1910,f,us,38.3009176323714,0.853354606207,1,1,"Van Rensselaer, Schuyler,",Poems,reviewed
+nyp.33433074844253,1905,1905,1876,1905,f,uk,27.98103524325613,0.854903217997,1,1,"Clifford, Ethel.",Love's journey,reviewed
+nyp.33433074846860,1849,1850,1812,1849,m,uk,29.130524420020812,0.868549894222,1,1,"Browning, Robert,",Poems,reviewed
+nyp.33433074849005,1859,1859,1831,1859,m,uk,25.51773050225822,0.299628547428,0,1,"Farrar, F. W.",Lyrics of life,random
+nyp.33433074849278,1903,1903,1853,1903,m,us,37.57323926042411,0.0505059307184,0,1,"Faulkner, S. E. Sherwood.",Sea murmurs and woodland songs,random
+nyp.33433074858238,1851,1851,1806,1851,f,uk,31.74117265014415,0.876035995551,1,1,"Browning, Elizabeth Barrett,","Prometheus bound, and other poems;",reviewed
+nyp.33433074899968,1852,1852,1793,1852,f,uk,41.99776068436073,0.331336769486,0,1,"MacLean, Anna Jane.",Eman More,random
+nyp.33433074901194,1897,1897,1861,1897,m,uk,32.123765812267564,0.75518719192,0,1,"Howard, Henry Newman,",Footsteps of Proserpine and other verses and interludes,random
+nyp.33433074906813,1829,1830,1783,1829,m,uk,38.24908758557604,0.253612196901,0,1,"Heber, Reginald,",Poems,random
+nyp.33433074914437,1835,1835,1770,1835,m,uk,44.32729053742492,0.565492020217,1,1,"Wordsworth, William,",Yarrow revisited,reviewed
+nyp.33433074963582,1871,1871,1834,1871,m,us,38.95620283636216,0.488729494315,0,1,"Stanton, Henry T.","The Moneyless Man, and Other Poems",random
+nyp.33433075741672,1905,1905,1841,1905,f,us,31.669000174982102,0.0130149707155,0,1,"Thomas, Cynthia D. Harvey,",Light in the cloud,random
+nyp.33433075742027,1887,1887,1854,1887,f,us,31.554656434611363,0.858706215548,1,1,"Thomas, Edith Matilda,",Lyrics and sonnets,reviewed
+nyp.33433075742266,1883,1883,1844,1883,m,us,30.502747666489558,0.914608502562,1,1,"Thompson, Maurice,",Songs of fair weather,reviewed
+nyp.33433075790992,1901,1901,1863,1901,m,us,34.39403644487447,0.0101252085889,0,1,"Fitzpatrick, Ernest Hugh.",The passing of William McKinley,random
+nyp.33433075807317,1893,1893,1869,1893,m,us,34.505704932328115,0.798709611377,1,1,"McCulloch, Hugh,",The quest of Heracles and other poems,reviewed
+nyp.33433075816078,1904,1904,1872,1904,m,us,31.148273078540548,0.494402394672,0,1,"Ehrmann, Max,",Breaking home ties,random
+nyp.33433075971196,1846,1849,1811,1846,f,us,33.449670100959054,0.478561597177,0,1,"Osgood, Frances Sargent Locke,",Poems,random
+nyp.33433076030042,1840,1840,1819,1840,m,us,42.21018911396064,0.479128140524,1,1,"Cone, Spencer Wallace,",The proud ladye,reviewed
+nyp.33433076031099,1843,1843,1787,1843,f,us,39.648333539184804,0.18396199769,0,1,"Davidson, Margaret Miller,",Selections from the writings of Mrs. Margaret M. Davidson,random
+nyp.33433076031859,1897,1897,1849,1897,m,us,41.91417128014268,0.753415187064,0,1,"Riley, James Whitcomb,",The poems and prose sketches of James Whitcomb Riley,random
+nyp.33433076033103,1825,1834,1794,1825,f,us,37.912326039316795,0.488229670326,0,1,"Brooks, Maria Gowen,",Zóphiël;,random
+nyp.33433076035140,1845,1870,1809,1845,m,us,35.53616378786845,0.225485750978,1,1,"Poe, Edgar Allan,",Poetical Works of Edgar Allen Poe,reviewed
+nyp.33433076035355,1842,1843,1809,1842,f,us,36.13797253765101,0.259621021334,0,1,"Scott, Julia H. Kinney,",Poems,random
+nyp.33433076039506,1912,1912,1858,1912,f,us,37.59890246591498,0.706819305002,0,1,"Adams, Adeline,",Sylvia,random
+nyp.33433081895090,1897,1897,1844,1897,f,us,27.2658582653798,0.0118367678066,0,1,"Fordham, Mary Weston.",Magnolia leaves,random
+nyp.33433082169420,1881,1881,1824,1881,f,us,35.491457404941585,0.606958526351,1,1,"Larcom, Lucy,",Wild roses of Cape Ann,reviewed
+nyp.33433082171996,1880,1880,1836,1880,m,us,41.74514058008233,0.0300425025873,0,1,"Goddard, Sextus P.","Buds, briars and berries",random
+nyp.33433082209572,1901,1902,1815,1901,m,us,27.75765888958078,0.0229505469784,0,1,"Edgar, Timothy Bloomfield.","Poems, rhymes, and sayings",random
+nyp.33433082209861,1915,1915,1888,1915,m,us,34.648859396895354,0.713291267585,0,1,"Emmons, Earl H.,",Redskin rimes,random
+uc1.$b389270,1864,1864,1835,1864,m,uk,38.56954468231633,0.895646992416,0,1,"Warren, John Byrne Leicester,","Eclogues and monodramas; or, A collection of verses",random
+uc1.$b439794,1914,1914,1886,1914,f,us,25.994964437036028,0.899207688959,1,1,"Kilmer, Joyce,",Trees,reviewed
+uc1.31822038204301,1881,1881,1854,1881,m,uk,35.9463649305832,0.96418813718,1,1,"Wilde, Oscar,",Poems,reviewed
+uc1.32106001950101,1870,1870,1848,1870,m,uk,30.785864804652775,0.951628475084,1,1,"Rossetti, Dante Gabriel,",Poems,reviewed
+uc1.b119720,1875,1875,1829,1875,m,uk,39.957361057596785,0.493170851776,0,1,"Veitch, John,","The Tweed, and Other Poems",random
+uc1.b119842,1888,1888,1836,1888,f,us,33.04373360478118,0.570321519872,0,1,"Mace, Frances Parker (Laughton)",Under pine and plam,random
+uc1.b155433,1886,1886,1832,1886,f,us,39.26028742781417,0.710449176481,1,1,"Allen, Elizabeth Akers,",The silver bridge,reviewed
+uc1.b165755,1881,1881,1863,1881,f,us,34.73240777209407,0.759680026958,0,1,"Eastman, Elaine Goodale,",All round the year,random
+uc1.b165960,1855,1855,1831,1855,m,uk,24.243764270465746,0.966540405356,1,1,"Lytton, Edward Robert Bulwer Lytton,",Clytemnestra ; The earl's return ; The artist ; and other poems,reviewed
+uc1.b166039,1880,1880,1833,1880,m,uk,37.403927768978264,0.720991433901,1,1,"Morris, Lewis,",The ode of life,reviewed
+uc1.b166949,1866,1866,1830,1866,f,uk,39.955111854996574,0.723826716644,1,1,"Rossetti, Christina Georgina,",The prince's progress and other poems,reviewed
+uc1.b167385,1896,1896,1871,1896,f,uk,39.45101660127772,0.939083200365,1,1,"Chesson, Nora,",Under quicken boughs,reviewed
+uc1.b173242,1825,1825,1793,1825,f,uk,34.78536543549973,0.865848530807,1,1,"Hemans,",The forest sanctuary,reviewed
+uc1.b182952,1838,1840,1745,1838,m,uk,38.398228591446085,0.375986565306,1,1,"Morris, Charles,",Lyra urbanica;,reviewed
+uc1.b183776,1882,1882,1799,1882,m,us,37.47419416823377,0.443567210197,0,1,"Alcott, Amos Bronson,",Sonnets and canzonets,random
+uc1.b253348,1878,1878,1844,1878,m,us,37.81952627883633,0.39860822679,0,1,"Cowan, Frank,",Southwestern Pennsylvania in song and story,random
+uc1.b255800,1877,1877,0,1877,f,uk,37.87877861561402,0.307748690409,0,1,"Budge, Jane,",Poems.,random
+uc1.b260737,1870,1870,1840,1870,m,us,36.0449250774169,0.914646114667,1,1,"Weeks, Robert Kelley,",Episodes and lyric pieces,reviewed
+uc1.b274713,1874,1875,1831,1874,f,us,35.19949489736516,0.782838074896,1,1,"Perry, Nora,",After the ball,reviewed
+uc1.b274748,1870,1870,0,1870,f,us,33.703801601275266,0.0111724653769,0,1,"Stephens, Lydia W.",Heart Problems,random
+uc1.b274870,1829,1829,1808,1829,f,us,34.142116972126374,0.107203431446,1,1,"Davidson, Lucretia Maria,","Amir Khan, and other poems",reviewed
+uc1.b274909,1861,1867,1821,1861,f,uk,40.72963473031015,0.12905048405,1,1,"Greenwell, Dora,",Poems,reviewed
+uc1.b2828936,1889,1889,0,1889,f,,30.708839041844154,0.596820142088,0,1,"Robertson, Janet Logie.",New songs of innocence,random
+uc1.b2834136,1892,1892,1846,1892,f,uk,34.948398045846865,0.0666993954086,0,1,"Kinloch, Marjory G. J.",A song-book of the soul,random
+uc1.b325378,1881,1881,1836,1881,m,us,36.793020306108794,0.438501735889,0,1,"Gordon, Hanford Lennox,",Legends of the Northwest,random
+uc1.b3312256,1902,1902,1842,1902,m,uk,52.530280360644916,0.912632985827,0,1,"Payne, John,",The poetical works of John Payne,random
+uc1.b3315153,1875,1875,1811,1875,m,uk,37.13017531576942,0.924644343639,1,1,"Scott, William Bell,",Poems,reviewed
+uc1.b3332871,1914,1914,1862,1914,m,us,28.807471670275483,0.0700562288957,1,1,"Bangs, John Kendrick,",The foothills of Parnassus,reviewed
+uc1.b3335683,1912,1912,1878,1912,m,uk,40.3086745316991,0.937645730356,1,1,"Gibson, Wilfrid Wilson,",Fires,reviewed
+uc1.b3340220,1918,1918,1879,1918,f,uk,23.751898054686222,0.640119586431,1,1,"Nightingale, M.",Verses wise and otherwise,reviewed
+uc1.b3342759,1919,1919,1874,1919,f,us,31.004624212700776,0.0416168423627,0,1,"Wigren, Bessie C.",Summer wind,random
+uc1.b3345658,1912,1912,0,1912,f,uk,29.238604379457733,0.921718730985,1,1,"Sweeny, Mildred M' Neal.","Men of no land, and other poems",reviewed
+uc1.b3576529,1847,1847,1811,1847,m,us,41.753713355874474,0.921747501071,1,1,"Street, Alfred Billings,",The Poems of Alfred B. Street,reviewed
+uc1.b4100432,1907,1907,1864,1907,m,us,28.11204343352489,0.359009120574,0,1,"Eilshemius, Louis M.",All about girls,random
+uc1.b4100799,1915,1915,1883,1915,f,uk,22.648134182311622,0.674661501242,1,1,"Wickham, Anna,",The contemplative quarry,reviewed
+uc1.b4101575,1915,1915,1885,1915,m,us,30.145188732398907,0.903715028146,1,1,"Percy, William Alexander,",Sappho in Levkas,reviewed
+uc1.b4104728,1859,1859,1809,1859,m,uk,35.06998300988585,0.783808379761,1,1,"Tennyson, Alfred Tennyson,",Idyls of the King,reviewed
+uc1.b4382847,1891,1891,1856,1891,f,us,32.425372785589616,0.995428117102,1,1,"Reese, Lizette Woodworth,",A handful of lavender,reviewed
+uc1.b4410403,1888,1888,1819,1888,m,us,38.32880099128268,0.847729849678,1,1,"Lowell, James Russell,",Heartsease and rue,reviewed
+uc1.l0071844237,1820,1820,1793,1820,f,uk,30.482868565122132,0.508631861964,1,1,"Hemans,",The sceptic ;,reviewed
+uc2.ark+=13960=fk23b5wf3t,1860,1860,1826,1860,f,uk,29.22330657532851,0.936516700804,1,1,"Craik, Dinah Maria Mulock,",Poems,reviewed
+uc2.ark+=13960=fk57d2qj4c,1910,1910,1869,1910,m,us,25.684260830212228,0.875157189382,1,1,"Robinson, Edwin Arlington,",The town down the river,reviewed
+uc2.ark+=13960=fk5p84448t,1902,1902,1866,1902,m,us,18.615330018244165,0.743070479513,1,1,"Taylor, Bert Leston,",Line-o'-type lyrics,reviewed
+uc2.ark+=13960=fk9v11w414,1914,1914,1885,1914,m,us,28.08517115019099,0.829369095445,1,1,"Untermeyer, Louis,",Challenge,reviewed
+uc2.ark+=13960=t04x56b63,1903,1903,1865,1903,f,uk,27.96509254230257,0.883694214303,1,1,"Hope, Laurence,",Stars of the desert,reviewed
+uc2.ark+=13960=t04x56q61,1884,1884,1857,1884,f,uk,30.06293759093271,0.960377767064,1,1,"Robinson, A. Mary F.",The new Arcadia and other poems,reviewed
+uc2.ark+=13960=t05x2b429,1821,1821,0,1821,f,uk,21.389676571206877,0.0578683431985,0,1,"Garrington, Eliza.",Spiritual recreations in the chamber of affliction,random
+uc2.ark+=13960=t07w6cd1m,1895,1895,1860,1895,f,uk,16.377488143803173,0.94335309522,1,1,"Watson, Rosamund Marriott,",Vespertilia and other verses,reviewed
+uc2.ark+=13960=t09w0f810,1825,1825,0,1825,f,uk,27.30765974797233,0.200095226307,0,1,"Cursham, Mary Anne.",Martin Luther,random
+uc2.ark+=13960=t16m3685r,1820,1820,1791,1820,m,uk,18.65307655450194,0.862325164091,0,1,"Milman, Henry Hart,",The fall of Jerusalem,random
+uc2.ark+=13960=t1hh6d09g,1892,1892,1853,1892,m,us,31.61342930871441,0.536585343622,1,1,"Johnson, Robert Underwood,","The winter hour, and other poems",reviewed
+uc2.ark+=13960=t1sf2qq5z,1828,1828,1807,1828,m,uk,30.661332229249926,0.547619958384,1,1,"Montgomery, Robert,",The omnipresence of the Deity,reviewed
+uc2.ark+=13960=t1td9p63g,1912,1912,1853,1912,m,us,27.99305317579175,0.341964937798,0,1,"Peterson, Edmund Deacon.","Eros, and other poems",random
+uc2.ark+=13960=t1td9vq8p,1889,1890,1812,1889,m,uk,15.885145671743237,0.894481974261,1,1,"Browning, Robert,",Asolando,reviewed
+uc2.ark+=13960=t1zc7s42g,1887,1887,1857,1887,f,us,26.027817939055197,0.893572465252,1,1,"Deland, Margaret Wade Campbell,",Old garden & other verses,reviewed
+uc2.ark+=13960=t23b62184,1892,1892,1866,1892,m,uk,32.26580429900648,0.805300866634,0,1,"Le Gallienne, Richard,",English poems,random
+uc2.ark+=13960=t2h70bw5m,1851,1851,1813,1851,m,us,31.975874845356504,0.223635096555,0,1,"Tuckerman, Henry T.",Poems,random
+uc2.ark+=13960=t2k64b16p,1866,1866,1817,1866,m,us,26.017782008793578,0.096610989935,1,1,"Janvier, Francis De Haes,",Patriotic poems,reviewed
+uc2.ark+=13960=t2k64cd80,1834,1834,1781,1834,m,uk,32.91861866236178,0.585999805245,1,1,"Elliott, Ebenezer,",[Elliott's poems],reviewed
+uc2.ark+=13960=t2z31pm6p,1841,1841,1791,1841,f,us,32.25932193939089,0.382025616696,1,1,"Sigourney, L. H.","Pocahontas, and other poems",reviewed
+uc2.ark+=13960=t3bz6276h,1880,1880,1827,1880,f,us,29.489921517881683,0.853582040653,1,1,"Greenough, Richard S.,",Mary Magdalene,reviewed
+uc2.ark+=13960=t3dz0f69d,1860,1860,1807,1860,m,us,20.23468551412198,0.701737422925,1,1,"Whittier, John Greenleaf,",Home ballads and poems,reviewed
+uc2.ark+=13960=t3fx7491s,1881,1881,0,1881,m,,27.457693086283264,0.0423910775693,0,1,"Knowles, William,",Poems,random
+uc2.ark+=13960=t3qv3cf46,1912,1912,1862,1912,m,us,29.003561005643036,0.400346299392,0,1,"Kiser, Samuel E.",The land of little care,random
+uc2.ark+=13960=t3ws8kz7m,1898,1898,1859,1898,f,uk,24.590156583377674,0.848731381742,1,1,"Tynan, Katharine,",The wind in the trees;,reviewed
+uc2.ark+=13960=t40r9pj9p,1867,1867,0,1867,f,uk,27.29212736253051,0.00595715006547,0,1,"Sawers, Eliza.",Under a cloud,random
+uc2.ark+=13960=t41r6ng25,1912,1912,1874,1912,m,us,22.78288323625684,0.796799355558,0,1,"Underwood, John Curtis,",Americans,random
+uc2.ark+=13960=t42r3t80r,1873,1873,1830,1873,m,uk,24.93267289490926,0.373023804824,1,1,"Brown, T. E.",Betsy Lee,reviewed
+uc2.ark+=13960=t4cn71f36,1907,1911,1865,1907,m,uk,31.71343915180202,0.805357839031,1,1,"Ainslie, Douglas,",Mirage,reviewed
+uc2.ark+=13960=t4gm84g69,1895,1895,1840,1895,f,us,23.48470156486944,0.0596460815717,0,1,"Cocke, Zitella,",A Doric reed,random
+uc2.ark+=13960=t4kk95h1q,1914,1914,1886,1914,m,us,24.210377558556377,0.910486373638,1,1,"Benét, William Rose,",The falconer of God,reviewed
+uc2.ark+=13960=t52f7kv9h,1825,1833,1794,1825,f,us,32.160746584107876,0.490591679445,1,1,"Brooks, Maria Gowen,","Zóphiël; or, The bride of seven",reviewed
+uc2.ark+=13960=t55d8t71f,1824,1824,1789,1824,m,uk,18.363769931396135,0.0523363759181,1,1,"Conder, Josiah,",Star in the East;,reviewed
+uc2.ark+=13960=t56d5wq45,1902,1902,1866,1902,f,uk,5.018070071893398,1.0,1,1,"MacManus, Anna,",The four winds of Eirinn,reviewed
+uc2.ark+=13960=t57d2rh5g,1902,1902,1859,1902,m,us,26.154738588795173,0.556767031434,1,1,"Millard, Bailey,",Songs of the press and other adventures in verse,reviewed
+uc2.ark+=13960=t5db86m4v,1912,1912,1881,1912,f,us,22.932319527084818,0.942646195159,0,1,"Henderson, Alice Corbin,",The spinning woman of the sky;,random
+uc2.ark+=13960=t5gb1xt7n,1905,1905,1863,1905,m,us,15.11044071725636,0.992375783253,0,1,"Herford, Oliver,",The fairy godmother-in-law,random
+uc2.ark+=13960=t5h98zx14,1912,1912,1874,1912,f,us,30.85406316222823,0.713066515417,1,1,"Lowell, Amy,",A dome of many-colored glass,reviewed
+uc2.ark+=13960=t5h990m69,1901,1901,1875,1901,f,us,23.92228825433352,0.88973910688,1,1,"Branch, Anna Hempstead,",The heart of the road,reviewed
+uc2.ark+=13960=t5p848b89,1914,1914,1828,1914,m,uk,23.67027727835348,0.251238233767,0,1,"Bonus, John,",Thoughts in verse for my friends,random
+uc2.ark+=13960=t5p84dd5d,1845,1845,1808,1845,f,uk,30.73165052520757,0.568076799125,1,1,"Norton, Caroline Sheridan,",The Child of the Islands,reviewed
+uc2.ark+=13960=t5q81605q,1914,1915,1875,1914,f,us,26.658255119769358,0.831864628449,0,1,"Morgan, Angela.",The hour has struck;,random
+uc2.ark+=13960=t5w66g25p,1880,1884,1808,1880,m,uk,26.727680937750748,0.652060472871,0,1,"Turner, Charles Tennyson,","Collected sonnets, old and new",random
+uc2.ark+=13960=t5w66h075,1881,1881,1824,1881,m,uk,33.87498596380978,0.488049132609,1,1,"Palgrave, Francis Turner,",The visions of England,reviewed
+uc2.ark+=13960=t6057k92v,1871,1871,1830,1871,m,uk,26.84162824687246,0.491706766221,0,1,"Kingsley, Henry,",The lost child,random
+uc2.ark+=13960=t6g160f1q,1881,1881,1806,1881,m,uk,26.07473969534704,0.0298863306361,0,1,"Thomson, David,",Musings among the heather,random
+uc2.ark+=13960=t6k070h7g,1918,1918,1881,1918,f,uk,26.46532616056772,0.969242172033,1,1,"Farjeon, Eleanor,",Sonnets and poems,reviewed
+uc2.ark+=13960=t6vx06j62,1873,1873,1849,1873,m,us,29.048438444583596,0.588251904975,0,1,"Saltus, Francis Saltus,",Honey and gall,random
+uc2.ark+=13960=t6vx09698,1882,1882,1820,1882,f,us,27.55953251046228,0.490075582124,0,1,"Bailey, Urania Locke Stoughton,",Star-flowers,random
+uc2.ark+=13960=t71v5dh7m,1896,1896,1860,1896,m,au,27.4642419717637,0.233529238553,0,1,"Main, William.",Bush solitudes and other verses,random
+uc2.ark+=13960=t79s1pt8q,1901,1901,1834,1901,m,us,31.415909956726203,0.66253661705,1,1,"Webb, Charles Henry,",With lead and line along varying shores;,reviewed
+uc2.ark+=13960=t7dr2r59g,1828,1828,1766,1828,f,uk,38.06247711308125,0.543583167037,0,1,"Watts, Susanna,",The insects in council,random
+uc2.ark+=13960=t7hq3sh5d,1911,1911,1840,1911,m,us,29.02933357377564,0.499521884502,0,1,"Barnard, William Francis.","The tongues of toil, and other poems",random
+uc2.ark+=13960=t7pn9f10q,1874,1874,1803,1874,m,uk,23.85487352701921,0.846268963823,1,1,"Lytton, Edward Robert Bulwer Lytton,",Fables in song,reviewed
+uc2.ark+=13960=t7rn35b8n,1889,1889,1841,1889,f,uk,31.138445401672755,0.819850072083,1,1,"Blind, Mathilde,",The ascent of man,reviewed
+uc2.ark+=13960=t7sn0664h,1896,1896,1818,1896,f,uk,27.32512645541506,0.429340504363,1,1,"Alexander, Cecil Frances,",Poems,reviewed
+uc2.ark+=13960=t7vm4642f,1878,1878,1789,1878,f,uk,39.803033947118955,0.821864356408,1,1,"Elliot, Charlotte,",Medusa and other poems,reviewed
+uc2.ark+=13960=t80k27j8j,1917,1917,1888,1917,m,us,28.738191450844376,0.931507847085,1,1,"Eliot, T. S.",Prufrock and other observations,reviewed
+uc2.ark+=13960=t8bg2n21x,1889,1889,1861,1889,f,uk,24.569636632574085,0.904100475423,1,1,"Levy, Amy,",A London plane-tree,reviewed
+uc2.ark+=13960=t8gf0rg1p,1820,1820,0,1820,f,uk,23.717707607662756,0.259661199657,0,1,"Grimstone, Mary Leman.","Zayda, a Spanish tale, in three cantos, and other poems, stanzas, and canzonets",random
+uc2.ark+=13960=t8tb13h9k,1845,1845,1779,1845,f,uk,20.016909060298424,0.0720753127969,0,1,"Leckie, Horner, Mrs",[Mrs. Leckie's poems,random
+uc2.ark+=13960=t8v984f2b,1837,1837,1806,1837,f,uk,25.78618156846537,0.412475925179,1,1,"Stuart-Wortley, Emmeline,",Fragments and fancies,reviewed
+uc2.ark+=13960=t8x927004,1859,1859,0,1859,m,uk,28.249522228630553,0.010941897289,0,1,"Beer, John T.",Miscellaneous poems,random
+uc2.ark+=13960=t9280b81v,1897,1897,0,1897,m,uk,35.57721957347408,0.469372278131,0,1,"Green, Septimus G.",Jennifred,random
+uc2.ark+=13960=t9862dr88,1910,1912,1885,1910,m,uk,25.771078922612578,0.841901092457,0,1,"Campbell, Archibald Y.",Poems,random
+uc2.ark+=13960=t9959jh8d,1847,1847,1800,1847,m,uk,28.100702596502202,0.838064282041,1,1,"Taylor, Henry,","The eve of the conquest, and other poems",reviewed
+uc2.ark+=13960=t9c53mb7v,1900,1901,1869,1900,m,uk,22.948148463455965,0.897635694133,1,1,"Binyon, Laurence,",Odes,reviewed
+uc2.ark+=13960=t9g44q082,1846,1846,1814,1846,m,uk,25.86512788945126,0.533780956629,1,1,"Mackay, Charles,",Voices from the crowd;,reviewed
+uc2.ark+=13960=t9h41kd1k,1900,1900,1825,1900,f,us,30.07184521032706,0.489615286923,1,1,"Dorr, Julia C. R.",Afterglow;,reviewed
+uc2.ark+=13960=t9n29q258,1881,1881,1834,1881,f,us,23.648831771763106,0.733870546915,1,1,"Fields, Annie,",Under the olive,reviewed
+uc2.ark+=13960=t9p26qv5r,1872,1872,1825,1872,f,us,28.017982689965983,0.423538011465,1,1,"Dorr, Julia C. R.",Poems,reviewed
+uc2.ark+=13960=t9p26w55v,1878,1878,1831,1878,f,uk,27.39961669842188,0.658547983624,1,1,"Phillips, Susan K.",On the seaboard,reviewed
+uc2.ark+=13960=t9w08xj0q,1884,1884,1861,1884,f,us,29.086296248992667,0.780353964154,1,1,"Guiney, Louise Imogen,",Songs at the start,reviewed
+uva.x002264382,1908,1908,1846,1908,f,uk,36.786196622917885,0.898223772693,1,1,"Field, Michael.",Wild honey from various thyme,reviewed
+uva.x030758864,1892,1892,1858,1892,m,us,38.292344466503735,0.930487376936,1,1,"Lüders, Charles Henry,",The dead nymph,reviewed
+wu.89089198006,1820,1820,1795,1820,m,uk,40.997252018171224,0.882330515931,1,1,"Keats, John,","Lamia, Isabella, the eve of Saint Agnes, and other poems",reviewed
+wu.89094594595,1891,1892,0,1891,f,fr,28.682292264249433,0.889953214228,0,1,"Văcărescu, Elena,",The bard of the Dimbovitza,random
+wu.89098011836,1878,1878,1859,1878,f,us,35.66723490669118,0.0641452742112,0,1,"Bell, Lura,",Echoes of time and tide,random
+wu.89098012313,1880,1880,1826,1880,f,us,35.839768563312234,0.605604475338,1,1,"Bostwick, Helen Louise Barron,",Four-o'clocks,reviewed
+wu.89098029051,1886,1886,1839,1886,f,us,30.804421839435395,0.0747819069123,0,1,"Henry, S. M. I.",The marble cross,random

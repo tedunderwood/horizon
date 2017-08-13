@@ -17,7 +17,7 @@ Code used to produce intermediate data files, not final code for viz. A lot of t
 
 metadata
 --------
-Lists of volumes.
+Lists of volumes used in modeling, but also a detailed summary of genre categories used in the project, **genrecategorieschapter2.docx.**
 
 modeloutput
 ----------

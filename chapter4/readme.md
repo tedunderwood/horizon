@@ -14,7 +14,7 @@ Instead I indicate the data source used by the script, and scripts that produced
 
 **Figures 4.2, 4.3, 4.4, 4.5, and 4.6** The data for all of these figures is **dataforR/diff_matrix.tsv**. This is created by **plot_scrips/make_diff_matrix.py**, using data from **data_for_chapter4b.tar.gz**, which needs to go in the **data** folder.
 
-**Figure 4.7**  
+**Figure 4.7** Uses **dataforR/differentiation_plot.csv**, which was produced immediately by a script in plot_scripts: **create_differentiation_plot_data.py**. But this, in turn relies on **data/gender_probs_for_diff.py,** which was ultimately created by **train_models/apply_model_to_characters.py**, which *in turn* (sorry) relies on models in the **modelused** directory and character_tables in **data.*
 
 If you want to understand the underlying data,
 ----------------------------------------------

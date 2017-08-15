@@ -16,6 +16,10 @@ Instead I indicate the data source used by the script, and scripts that produced
 
 **Figure 4.7** Uses **dataforR/differentiation_plot.csv**, which was produced immediately by a script in plot_scripts: **create_differentiation_plot_data.py**. But this, in turn relies on **data/gender_probs_for_diff.py,** which was ultimately created by **train_models/apply_model_to_characters.py**, which *in turn* (sorry) relies on models in the **modelused** directory and character_tables in **data.*
 
+**Figure 4.8** is based directly on summary files in **data**.
+
+**Figure 4.9** uses **dataforR/author_ci.txt**, which was originally produced by **plot_scripts/bamman_gender_plots.py.**
+
 If you want to understand the underlying data,
 ----------------------------------------------
 The most complete derived data (that we can legally share) are tabular representations of the words associated with individual characters: character_table_18c19c.tsv and character_table_post1900.tsv. At 4GB total, these are too big for this repository and will be made available elsewhere. (Dataverse and/or institutional repo.) They include words from dialogue as well as words grammatically associated with character names, but the dialogue is not used in most of the subsequent analysis here. (In these tables, words used in dialogue are distinguished by the prefix "said-.")

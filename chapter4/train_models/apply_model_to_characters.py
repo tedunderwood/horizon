@@ -15,14 +15,14 @@
 # modeldir       is a directory home to decade models from 1790 through 2000
 # datafile       the character_table to be processed
 # outpath        is the name of the file to be written; for me,
-#                gender_probs.tsv
+#                gender_probs_for_diff.tsv
 
 # what I actually did:
 
-# 1) python apply_model_to_characters.py ../models/ ../data/character_table_pre1850.tsv gender_probs.tsv
-# 2) python apply_model_to_characters.py modelsused/fifty1850-1899.pkl ../data/character_table_1850to99.tsv gender_probs.tsv
-# 3) python apply_model_to_characters.py modelsused/fifty1900-1949.pkl ../data/character_table_1900to1949.tsv gender_probabs.tsv
-# 4) python apply_model_to_characters.py modelsused/fiftypost1950.pkl ../data/character_table_post1950.tsv gender_probs.tsv
+# 1) python apply_model_to_characters.py ../models/ ../data/character_table_pre1850.tsv ../gender_probs_for_diff.tsv
+# 2) python apply_model_to_characters.py modelsused/fifty1850-1899.pkl ../data/character_table_1850to99.tsv ../gender_probs_for_diff.tsv
+# 3) python apply_model_to_characters.py modelsused/fifty1900-1949.pkl ../data/character_table_1900to1949.tsv ../gender_probs_for_diff.tsv
+# 4) python apply_model_to_characters.py modelsused/fiftypost1950.pkl ../data/character_table_post1950.tsv ../gender_probs_for_diff.tsv
 
 import numpy as np
 import pandas as pd

@@ -18,21 +18,23 @@ Instead I indicate the data source used by the script, and scripts that produced
 
 **Figure 4.8** is based directly on summary files in **data**.
 
-**Figure 4.9** uses **dataforR/author_ci.txt**, which was originally produced by **plot_scripts/bamman_gender_plots.py.**
+**Figure 4.9** uses **dataforR/authorratios.csv** and **dataforR/pubweeklyerrorbars.csv**, both of which are produced by **plot_scripts/pubweekly_gender_plots.py.** This in turn draws on evidence in the **pubweekly, pre23hathi,** and **post22hathi** directories.
+
+**Figure 4.10** is based on **dataforR/nonfiction_stack_graph.csv**, which in turn is produced by **plot_scripts/nonfiction_stack_graph.py,** and uses the file **nonfiction_genders.tsv**, which will needto be unpacked from data_for_chapter4b.tar.gz.
 
 If you want to understand the underlying data,
 ----------------------------------------------
-The most complete derived data (that we can legally share) are tabular representations of the words associated with individual characters: character_table_18c19c.tsv and character_table_post1900.tsv. At 4GB total, these are too big for this repository and will be made available elsewhere. (Dataverse and/or institutional repo.) They include words from dialogue as well as words grammatically associated with character names, but the dialogue is not used in most of the subsequent analysis here. (In these tables, words used in dialogue are distinguished by the prefix "said-.")
+The most complete derived data (that we can legally share) are tabular representations of the words associated with individual characters: character_table_18c19c.tsv and character_table_post1900.tsv. At 4GB total, these are too big for this repository are made available instead as data_for_chapter4c.tar.gz/
 
-Much of the analysis of publishing trends in the first part of the article can be reproduced using **filtered_fiction_metadata.csv** in the **metadata** subdirectory. The scripts to reproduce that analysis are under **/plot_scripts**; the most important is **gender_plots.py**.
+Much of the analysis of publishing trends in the second part of the article can be reproduced using **filtered_fiction_metadata.csv** in the **metadata** subdirectory. The scripts to reproduce that analysis are under **/plot_scripts**.
 
 We also used data from the Chicago Text Lab as a contrastive touchstone in several places, but we have only provided a very high-level (yearly) summary of that data here. Contact Hoyt Long or Richard So for more information.
 
 If you want to reproduce predictive modeling,
 ---------------------------------------------
-Most of the modeling was run on a subset of 84,000 characters balanced to have (where possible) 2000 characters with masculine names and 2000 characters with feminine names for each decade. (Total numbers are slightly lower in the late 18c; note also that 1780-1799 have been aggregated and treated as a single decade.) Characters were selected so that the median description length for a character was as close as possible to 54 words for both genders, in each decade. The data we used is in this repo as **balanced_character_subset.tar.gz.**
+Most of the modeling was run on a subset of 84,000 characters balanced to have (where possible) 2000 characters with masculine names and 2000 characters with feminine names for each decade. (Total numbers are slightly lower in the late 18c; note also that 1780-1799 have been aggregated and treated as a single decade.) Characters were selected so that the median description length for a character was as close as possible to 54 words for both genders, in each decade. The data we used is available in **data_for_chapter4a.tar.gz.**
 
-If you want to reproduce the selection process itself, you would need to run **select_balanced_subset.py** in the **tranform_data** directory. Alternatively, you could work with the **balanced_character_subset.tar.gz** provided here (which is the subset of 84,000 we actually used). Unpack that, and run **reproduce_character_models.py** in the **train_models** subdirectory. See that script for usage instructions.
+If you want to reproduce the selection process itself, you would need to run **select_balanced_subset.py** in the **transform_data** directory. Alternatively, you could work with the **balanced_character_subset.tar.gz** provided here (which is the subset of 84,000 we actually used). Unpack that, and run **reproduce_character_models.py** in the **train_models** subdirectory. See that script for usage instructions.
 
 If you want to explore the gendering of specific words,
 -------------------------------------------------------

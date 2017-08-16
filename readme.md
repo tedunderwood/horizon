@@ -5,7 +5,7 @@ Research related to book manuscript, *The Curved Horizon of Literary History* (U
 
 The manuscript is now under review, and reviewers are also invited to inspect this repository. But note that I'm still working quite actively on the repository, and in particular, still testing that things run when this is cloned on a fresh machine. I would not be at all surprised to hear that there are loose ends here.
 
-The code and data needed to reproduce claims and figures in a given chapter are saved in the chapter folders. I would also
+The code and data needed to reproduce claims and figures in a given chapter are saved in the chapter folders. I would also draw readers' attention to the folder for appendix A, which contains general reflections on the limits of reproducibility in this repo.
 
 chapter1
 --------

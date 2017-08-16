@@ -21,6 +21,13 @@ There are also some things I can't guarantee.
 2. I don't intend to provide "tools," designed to be useful in other research projects. This is just code that I actually used in the process of answering a particular set of questions.
 3. I also, frankly, can't even guarantee that everything is going to run in a simple push-button way. I've tried to make paths relative to the repo, but I may not have always succeeded; you might have to edit some things before they run.
 
+Dependencies
+------------
+
+Mainly, Python 3 and R. Within Python 3, the usual packages (numpy, pandas, scikit-learn); within R, the usual packages (ggplot2, dplyr, scales). 
+
+There are also a lot of rule files I invoke from time to time, many of them [from my DataMunging repo.](https://github.com/tedunderwood/DataMunging/tree/master/rulesets) Have tried to build these into to chapter-level folders, but I may not always have succeeded.
+
 Structure
 ---------
 

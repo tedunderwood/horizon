@@ -43,3 +43,15 @@ I thought about setting this up so it's reproducible in a more airtight way, wit
 
 Similarly, you'll find that the coefficients produced by your models may not exactly line up with the coefficients in mine. If we were interpreting models by looking at the top and bottom ten words in the list of coefficients, this would be a problem. But that's why, in fact, the text of the book urges people *not* to interpret models with thousands of variables purely by looking at ten at the top or bottom--but to use more robust approaches.
 
+If you want to reproduce everything from scratch
+-------------------------------------------------------
+
+The individual chapter repos are based on the assumption that you're happy to reproduce results from wordcount files, which I can legally provide zipped up as .tar.gz.
+
+If, however, you want to take everything all the way back to the source (or just want to see how I handled feature counting), the two code directories provided here will assist you. The source files in chapter 2 were produced by **countwordsintexts/tokenizetexts.py**. The source files in chapters 1 and 3 were produced by **countwordsinfeatures/parsefeaturejsons.py**, which [works with HTRC extracted features.](https://wiki.htrc.illinois.edu/display/COM/Extracted+Features+Dataset)
+
+The reason for the difference is that chapter 2 worked with some texts from the Chicago Text Lab, not in Hathi. At the time I did that research, Hathi hadn't yet made post-1923 texts available as extracted features.
+
+For chapter 4, you'll need to consult [David Bamman's BookNLP itself.](https://github.com/dbamman/book-nlp), and then the chapter4/transform_data folder.
+
+

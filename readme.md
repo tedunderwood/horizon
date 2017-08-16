@@ -1,17 +1,11 @@
 The Curved Horizon of Literary History
 ======================================
 
-Research related to evolving book manuscript, *The Curved Horizon of Literary History.*
+Research related to book manuscript, *The Curved Horizon of Literary History* (Underwood, 2017).
 
-Please note, "evolving." None of this is ready to review yet.
+The manuscript is now under review, and reviewers are also invited to inspect this repository. But note that I'm still working quite actively on the repository, and in particular, still testing that things run when this is cloned on a fresh machine. I would not be at all surprised to hear that there are loose ends here.
 
-With a few exceptions to be described below, code, data, results, and viz scripts are saved in the appropriate chapter folder.
-
-**Things to be added before this goes in Zenodo**
-
-1. A version of the overlappingcategories repo, which is invoked in Chapters 2 and 3.
-
-2. For chapter 3, fiction and poetry counts derived from extracted features. (I don't think it's necessary to reproduce the extracted features themselves; those are publicly available.)
+The code and data needed to reproduce claims and figures in a given chapter are saved in the chapter folders. I would also
 
 chapter1
 --------
@@ -33,14 +27,10 @@ chapter5
 --------
 The risks of distant reading. Not included in the repo, because there's no supporting data.
 
-appendixA: Data
-----------------
-This is more of a descriptive overview of the repo than a separate dataset.
+appendixA: Data and reproducibility
+------------------------------------
+This may be the place to start if you're thinking about attempting to reproduce a particular result. The folder contains a general "guide to reproducing results," and code I used for word counting, as well as a draft of appendix A itself.
 
 appendixB: Methods
 ------------------
 Includes one illustration.
-
-scan
-----
-Code and data for characterizing poetic form, especially rhyme and metrical *scan*sion. Probably won't be used in the book itself, since it turned out not to be useful for predicting prestige.

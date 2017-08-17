@@ -17,11 +17,11 @@ The lifespans of genres.
 
 [chapter3](https://github.com/tedunderwood/horizon/tree/master/chapter3)
 --------
-The pace and direction of literary change.
+The long arc of prestige.
 
 [chapter4](https://github.com/tedunderwood/horizon/tree/master/chapter4)
 --------
-The instability of gender.
+Metamorphoses of gender.
 
 chapter5
 --------

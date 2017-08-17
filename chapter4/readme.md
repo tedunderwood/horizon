@@ -1,7 +1,7 @@
 Chapter Four
 ============
 
-"The instability of gender."
+"Metamorphoses of gender."
 
 figures
 --------

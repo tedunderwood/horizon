@@ -1,7 +1,7 @@
 Chapter Three
 ============================================
 
-"The Pace and Direction of Literary Change."
+"The Long Arc of Prestige."
 
 figures
 -------

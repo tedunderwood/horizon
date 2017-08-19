@@ -33,7 +33,8 @@ def genre_gridsearch(metadatapath, modelname, c_range, ftstart, ftend, ftstep, p
     # Function does a gridsearch to identify an optimal number of features and setting of
     # the regularization constant; then produces that model.
 
-    sourcefolder = '/Users/tunder/Dropbox/GenreProject/python/reception/fiction/fromEF/'
+    # sourcefolder = '/Users/tunder/Dropbox/GenreProject/python/reception/fiction/fromEF/'
+    sourcefolder = '../sourcefiles/'
     extension = '.tsv'
     #metadatapath = '/Users/tunder/Dropbox/GenreProject/python/reception/fiction/prestigeficmeta.csv'
 

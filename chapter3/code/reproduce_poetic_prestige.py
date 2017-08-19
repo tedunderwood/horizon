@@ -18,14 +18,15 @@ import pandas as pd
 # a copy of the overlappingcategories repo also needs to
 # be frozen
 
-sys.path.append('/Users/tunder/Dropbox/python/logistic')
+sys.path.append('../../logistic')
 import versatiletrainer as train
 
 def genre_gridsearch(metadatapath, modelname, c_range, ftstart, ftend, ftstep, positive_tags = ['elite'], negative_tags = ['vulgar'], excl_below = 1700, excl_above = 2000):
     # Function does a gridsearch to identify an optimal number of features and setting of
     # the regularization constant; then produces that model.
 
-    sourcefolder = '/Users/tunder/Dropbox/GenreProject/python/reception/poetryEF/fromEF/'
+    #sourcefolder = '/Users/tunder/Dropbox/GenreProject/python/reception/poetryEF/fromEF/'
+    sourcefolder = '../sourcefiles/'
     extension = '.tsv'
     vocabpath = '/Users/tunder/Dropbox/fiction/lexicon/' + modelname + '.txt'
     if os.path.exists(vocabpath):

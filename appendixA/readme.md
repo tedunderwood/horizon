@@ -61,4 +61,20 @@ The reason for the difference is that chapter 2 worked with some texts from the 
 
 For chapter 4, you'll need to consult [David Bamman's BookNLP itself.](https://github.com/dbamman/book-nlp), and then the chapter4/transform_data folder.
 
+If you want a master list of fiction
+----------------------------------
+
+You could check out **pre1923hathifiction.csv** and/or **incopyrighthathifiction.csv** [in the NovelTM metadata repo,](https://github.com/tedunderwood/noveltmmeta) for a very inclusive list of HathiTrust volumes. I didn't use this whole list for anything, but it will give you a sense of the *outer limits* of the library, things that may be missing, etc.
+
+For a more rigorously filtered and deduplicated list of fiction, try **filtered_fiction_metadata.csv** in [horizon/chapter4/metadata](https://github.com/tedunderwood/horizon/tree/master/chapter4/metadata).
+
+If you want to understand how these lists were produced, try [the report for *Understanding Genre in a Collection of a Million Volumes.*](https://figshare.com/articles/Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251) It says its an interim performance report, but actually it's the final version.
+
+If you want a master list of poetry
+-----------------------------------
+Still working on getting this up in the repo.
+
+
+
+
 

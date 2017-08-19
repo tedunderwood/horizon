@@ -3,7 +3,7 @@ Chapter Two
 
 "The lifespans of genres."
 
-To understand how to reproduce a given figure, use the key below. If you want to reproduce the last stage of analysis and visualization, you can do that using code and data provided here. To reproduce everything from volume-level wordcounts, you'll need to unzip data_for_chapter2.tar.gz and put it in /sourcefiles. To reproduce everything from raw texts, you'll need to contact HathiTrust.
+To understand how to reproduce a given figure, use the key below. If you want to reproduce the last stage of analysis and visualization, you can do that using code and data provided here. To reproduce everything from volume-level wordcounts, you'll need to unzip [data_for_chapter2.tar.gz](https://www.dropbox.com/s/7oxgti8nofoaiub/data_for_chapter2.tar.gz?dl=0) in chapter2/sourcefiles. To reproduce everything from raw texts, you'll need to contact HathiTrust.
 
 Figure 2.1
 ----------

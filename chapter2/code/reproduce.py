@@ -23,6 +23,11 @@
 # arguments. (In the case of 'compare,' it's two
 # models you want to compare.)
 
+# I have changed some paths to be relative to the repo, but have not yet
+# rigorously tested that *all* paths are; until I do, be aware that you
+# might have to edit some absolute paths for this to run on your own
+# machine.
+
 import csv, os, sys, pickle, math
 import pandas as pd
 
@@ -130,7 +135,9 @@ def genre_gridsearch(modelname, c_range, ftstart, ftend, ftstep, positive_tags, 
     to disk.
     '''
 
-    sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
+    #sourcefolder = '/Users/tunder/Dropbox/fiction/newtsvs'
+    sourcefolder = '../sourcefiles'
+
     extension = '.tsv'
     vocabpath = '../lexicons/' + modelname + '.txt'
     if os.path.exists(vocabpath):
@@ -474,10 +481,10 @@ if __name__ == '__main__':
     elif args[1] == 'allSF':
         modelname = args[1]
         positive_tags = ['locscifi', 'anatscifi', 'femscifi', 'chiscifi']
-        c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, 1, 8]
+        c_range = [.0003, .001, .003, .006, .01, .03, .1, .3, .6, 1, 8]
         featurestart = 2000
         featureend = 6000
-        featurestep = 200
+        featurestep = 100
         genre_gridsearch(modelname, c_range, featurestart, featureend, featurestep, positive_tags)
 
     elif args[1] == 'SFutopia':

@@ -3,6 +3,8 @@ Chapter Three
 
 "The Long Arc of Prestige."
 
+In order to run the **reproduce** scripts in chapter3/code, you would first need to unzip [data_for_chapter3.tar.gz](https://www.dropbox.com/s/urlo2292g3ueozl/data_for_chapter3.tar.gz?dl=0) inside the chapter3/sourcefiles folder.
+
 figures
 -------
 
@@ -29,4 +31,4 @@ Many tests mentioned in passing in the chapter can be reproduced using the Jupyt
 
 But that analysis may depend on a previous set of results produced by a machine learning model. So if you're aiming for complete from-scratch recreation of my results, you might need to run one of the "reproduce" scripts in the **code** folder.
 
-**sourcefiles** is currently empty. But to run the **code/reproduce** scripts, you would need to unpack data_for_chapter3.tar.gz and put the files in **sourcefiles.**
+**sourcefiles** is currently empty. But to run the **code/reproduce** scripts, you would need to unpack [data_for_chapter3.tar.gz](https://www.dropbox.com/s/urlo2292g3ueozl/data_for_chapter3.tar.gz?dl=0) and put the files in chapter3/sourcefiles.

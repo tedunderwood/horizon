@@ -1,0 +1,343 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+10377,1932,1932,1896,1932,m,us,11.009967563188155,0.0038226470641,0,1,"Dos Passos, John,",1919,teamred | chirandom
+10380,1932,1932,1897,1932,m,us,12.41969590731996,0.680299442176,1,1,"Faulkner, William",Light in August,teamblack | pbgothic
+10403,1933,1933,1900,1933,m,us,12.849256980630127,0.252706427581,1,1,"Endore, S. Guy,",The werewolf of Paris,teamblack | chihorror | stew | chifantasy
+10911,1948,1948,0,1948,m,us,12.101839737036792,0.407879260851,0,1,"Queen, Ellery,",Ten days' wonder,stew | cozy | chirandom | teamblack | chimyst | det100
+10916,1948,1948,1904,1948,m,us,11.972488796113094,6.73711467439e-05,0,1,"Skinner, B. F.",Walden Two,teamblack | chirandom | chiutopia
+10923,1948,1948,1908,1948,m,us,12.445077913483109,0.998816944046,1,1,"Williamson, Jack,",Darker than you think,teamblack | chihorror | chiscifi | chifantasy
+11061,1938,1938,1907,1938,f,uk,12.659765867297441,0.613408714017,1,1,"Du Maurier, Daphne,",Rebecca,stew | teamred | pbgothic
+11191,1927,1927,1875,1927,m,uk,13.19781652347118,0.0386147037709,0,1,"Buchan, John,",Witch wood,teamblack | chirandom | chifantasy
+11396,1933,1933,1879,1933,f,au,11.973116871905223,0.15922758768,0,1,"Franklin, Miles,",Bring the monkey,teamred | chirandom | chimyst
+11442,1934,1934,1899,1934,m,uk,15.342591968502582,0.00218384878663,0,1,"Linklater, Eric,",Magnus Merriman,teamred | chirandom
+11575,1938,1938,1906,1938,f,nz,15.194256101470458,0.203317719291,0,1,"Hyde, Robin,",The godwits fly,teamred | chirandom
+11803,1946,1946,1899,1946,m,uk,13.25861276668492,0.00130086551325,0,1,"Forester, C. S.",Lord Hornblower,teamblack | chirandom
+20136,1954,1954,1916,1954,m,us,14.637754650255225,0.49691017994,0,1,"Foote, Shelby,",Jordan County,teamred | chirandom
+20152,1954,1954,1926,1954,m,us,11.72877341687999,0.998557906809,1,1,"Matheson, Richard,",I am legend,chiscifi | teamred | pbgothic | chihorror
+20380,1959,1959,0,1959,f,us,11.599268071144577,0.0155647206558,0,1,"Kirkland, Elithe Hamilton",Love is a wild assault,teamblack | chirandom
+20480,1962,1962,1920,1962,m,us,14.257702856041108,0.998670205797,1,1,"Bradbury, Ray,",Something wicked this way,teamblack | chihorror | chiscifi
+20481,1962,1962,1914,1962,m,us,9.986243661212397,0.947969271986,0,1,"Burroughs, William S.",The ticket that exploded,teamblack | chirandom
+20727,1967,1967,1913,1967,f,us,11.658519667058398,0.33695209742,0,1,"Braun, Lilian Jackson,",The cat who ate Danish mo,teamblack | chimyst | chirandom
+20743,1967,1967,1929,1967,m,us,12.431288006618477,0.649370325385,1,1,"Levin, Ira,",Rosemary's baby,teamblack | chihorror | pbgothic | stew
+20750,1967,1967,1895,1967,m,us,12.11010239536413,0.0187793083844,0,1,"McNichols, Charles Longstreth,",Crazy weather,teamred | chirandom
+20772,1968,1968,1936,1968,m,us,12.19286545990863,0.889987404246,1,1,"Chappell, Fred,",Dagon,teamred | chihorror
+20791,1968,1968,1938,1968,f,us,14.471925373261008,0.859553975721,1,1,"Oates, Joyce Carol,",Expensive people,teamred | pbgothic | chihorror
+20794,1968,1968,1927,1968,f,us,12.53329502967638,0.611751575249,0,1,"Peters, Elizabeth,",The jackal's head,teamblack | chirandom
+20866,1970,1970,1926,1970,m,us,12.029526297633108,0.0168836125569,0,1,"Anderson, Poul,",Tau zero,teamblack | chiscifi | chirandom
+20936,1971,1971,1928,1971,m,us,13.252087682523005,0.938615947014,1,1,"Blatty, William Peter",The exorcist,teamblack | pbgothic
+21035,1972,1972,1929,1972,m,us,12.622300541495088,0.109013138251,1,1,"Levin, Ira,",The Stepford wives,teamblack | chihorror | chiscifi
+21043,1972,1972,1943,1972,m,us,15.081186295237364,0.837398952464,0,1,"Millhauser, Steven,",Edwin Mullhouse,teamred | chirandom
+21104,1959,1973,1909,1959,m,us,11.810909465905297,0.966952290676,0,1,"Himes, Chester B.",The crazy kill,teamred | chimyst | chirandom | hardboiled
+21318,1976,1976,0,1976,m,us,11.677603384447037,0.949757794492,1,1,"Farris, John,",The fury,teamblack | chihorror | stew
+21330,1976,1976,1929,1976,m,us,11.492189992168232,0.0110929060916,0,1,"Jenkins, Dan,",Limo,teamred | chirandom
+21335,1976,1976,1908,1976,m,us,12.859834062755079,0.013223124456,0,1,"L'Amour, Louis,",To the Far Blue Mountains,teamblack | chirandom
+21362,1976,1976,1941,1976,f,us,13.263494585431067,0.997470048922,1,1,"Rice, Anne",Interview with the vampir,teamblack | pbgothic
+21417,1977,1977,1947,1977,m,us,12.072380429718482,0.682260925068,0,1,"Donaldson, Stephen R,",The power that preserves,teamblack | chiscifi | chirandom | stew | chifantasy
+21470,1977,1977,1942,1977,m,us,12.057915439646765,0.979345733225,1,1,"Saul, John,",Suffer the children,teamred | chihorror
+21488,1978,1978,1927,1978,m,us,12.605758181376002,0.549814931676,0,1,"Adler, Warren,",The Casanova embrace,teamblack | chirandom
+21494,1978,1978,1939,1978,m,us,12.746302917757589,0.0985268107696,0,1,"Bayer, William,",Tangier,teamblack | chirandom
+21501,1978,1978,1945,1978,m,us,11.212617778447985,0.0125641188301,0,1,"Brown, Wesley,",Tragic magic,teamred | chirandom
+21511,1978,1978,1943,1978,m,us,11.95280781802511,0.71412874661,1,1,"Daniels, Les,",The black castle,stew | teamred | chihorror
+21519,1978,1978,1952,1978,m,us,12.190820399185794,0.917283293965,1,1,"Estleman, Loren D,",Sherlock Holmes vs. Dracu,teamred | chimyst | chihorror
+21542,1978,1978,1947,1978,m,us,12.122436919068665,0.538178242538,1,1,"King, Stephen,",The stand,stew | teamred | chihorror
+21578,1978,1978,1945,1978,m,us,11.339817171185997,0.947204200168,1,1,"Strieber, Whitley",The wolfen,teamred | pbgothic
+21579,1978,1978,1943,1978,m,us,13.310672380013543,0.0696415612218,0,1,"Swift, Edward,",Splendora,teamred | chirandom
+21607,1979,1979,1935,1979,m,us,12.077366764270899,0.583911394652,0,1,"Cline, C. Terry,",Cross current,teamblack | chirandom
+21631,1979,1979,1947,1979,m,us,11.374184672146125,0.193130176772,1,1,"King, Stephen,",The dead zone,teamblack | chihorror | stew | chiscifi
+21686,1980,1980,0,1980,f,us,12.347924784050889,0.213435097407,1,1,"Andrews, V. C.  (Virginia",Petals on the wind,teamred | chihorror
+21734,1980,1980,1927,1980,m,us,11.726561432001535,0.00111219649218,0,1,"Herzog, Arthur,",Aries rising,teamred | chirandom
+21845,1981,1981,1940,1981,m,us,10.532299168700662,0.428302517795,1,1,"Harris, Thomas",Red dragon,chimyst | pbgothic | teamred
+21851,1981,1981,1934,1981,m,us,12.252573813684034,0.0108630312423,0,1,"Jones, Robert F.",Slade's glacier,teamred | chirandom
+21900,1981,1981,1945,1981,m,us,11.182738148234598,0.992633969631,1,1,"Strieber, Whitley",The hunger,teamblack | pbgothic | stew
+21905,1981,1981,1947,1981,m,us,11.661221340568995,0.00725220525965,0,1,"Vardeman, Robert E,",The Klingon gambit,chiscifi | teamred | chirandom | stew
+21920,1982,1982,0,1982,f,us,12.242331406240526,0.756021163484,1,1,"Andrews, V. C.  (Virginia",My sweet Audrina,teamblack | chihorror | stew
+21967,1982,1982,1911,1982,m,us,10.900324897594288,0.393692473624,0,1,"Hubbard, L. Ron,",Battlefield earth,chiscifi | teamred | chirandom
+22193,1984,1984,1948,1984,m,us,12.3005408672817,0.605708204306,1,1,"Gibson, William",Neuromancer,chiscifi | teamred | pbgothic | stew
+22332,1985,1985,1928,1985,m,us,11.691855990562468,0.266991847847,0,1,"Dick, Philip K,",Puttering about in a smal,teamblack | chirandom
+22498,1986,1986,1946,1986,m,us,10.833586853556831,0.229233213269,1,1,"Foster, Alan Dean,",Into the out of,chiscifi | teamred | stew | chihorror
+22676,1987,1987,1932,1987,m,us,12.383456955643798,0.0311435057427,0,1,"Flynn, Robert,",Wanderer Springs,teamred | chirandom
+22708,1987,1987,1947,1987,m,us,11.74130841007744,0.966549776574,1,1,"King, Stephen,",Misery,teamred | pbgothic | chihorror
+22732,1987,1987,1926,1987,f,us,12.981461220671854,0.00236460080423,0,1,"McCaffrey, Anne,",The lady,teamred | chirandom
+22741,1987,1987,1931,1987,f,us,11.534349358622421,0.226586929953,1,1,"Morrison, Toni",Beloved,teamblack | pbgothic
+22803,1987,1987,1953,1987,m,us,11.773907693949468,0.364315698131,0,1,"Williams, Walter Jon,",Voice of the whirlwind,teamblack | chiscifi | chirandom
+22894,1988,1988,1945,1988,m,us,11.68893225056757,0.0709172728961,0,1,"Grissom, Ken,",Drop-off,teamblack | chimyst | chirandom | stew
+22897,1988,1988,1951,1988,f,us,14.006930346941601,0.994859381881,1,1,"Hambly, Barbara",Those who hunt the night,teamblack | pbgothic | stew | chifantasy
+23059,1989,1989,1940,1989,m,us,11.36879597582968,0.509451310779,1,1,"Cook, Robin,",Mutation,chiscifi | teamred | stew | chihorror
+23075,1989,1989,0,1989,f,us,11.472662593607081,0.335430938209,0,1,"Dunlap, Susan,",Pious deception,stew | teamred | chirandom | chimyst
+23092,1989,1989,1937,1989,m,us,13.48892981540367,0.0749023550252,0,1,"Goldsborough, Robert,",The last coincidence,teamblack | chimyst | chirandom
+23126,1989,1989,1950,1989,f,us,12.388332327045573,0.168608816968,1,1,"Lackey, Mercedes,",Burning water,teamblack | chimyst | chihorror | chifantasy
+23200,1989,1989,1952,1989,m,us,11.415225600138138,0.769839936984,1,1,"Somtow, S. P,",Moon dance,teamblack | chihorror | stew
+23231,1989,1989,1954,1989,m,us,11.657118456379171,0.00577789911896,0,1,"Weinstein, Howard,",Power hungry,teamblack | chiscifi | chirandom | stew
+23965,1993,1993,0,1993,,us,12.539671355121886,0.985732998434,1,1,"Rice, Anne,",The tale of the body thief,chihorror
+24118,1994,1994,0,1994,m,us,11.55130679949449,0.960588013451,1,1,"Wilson, Robert Charles,",Mysterium,chihorror
+24133,1995,1995,0,1995,m,us,12.32609415938462,0.966171725452,1,1,"Blaylock, James P.",All the bells on earth,chihorror
+24174,1995,1995,0,1995,f,us,11.935145168627523,0.86853015809,1,1,"Due, Tananarive,",The between,chihorror
+24491,1997,1997,0,1997,f,us,13.868328204618944,0.921406647813,0,1,"Gabaldon, Diana,",Drums of autumn,chirandom | chifantasy
+24518,1997,1997,0,1997,m,us,12.624211712511464,0.557947262268,1,1,"King, Stephen,",The green mile,chihorror
+24564,1997,1997,0,1997,f,us,13.215616018153256,0.984217765583,1,1,"Rice, Anne,",Memnoch the Devil,chihorror
+24651,1998,1998,0,1998,f,us,12.459501721201008,0.0471284239019,0,1,"Danticat, Edwidge,",The farming of bones,chirandom
+25429,1993,1993,0,1993,m,us,9.951087461713675,0.414399561499,0,1,"Watkins, Paul,",The promise of light,chirandom
+25445,1994,1994,0,1994,m,us,11.831751837290783,0.0689494077833,0,1,"Block, Lawrence,",A long line of dead men,chirandom
+25578,1995,1995,0,1995,f,us,14.20408522529174,0.77525413466,0,1,"Hambly, Barbara,",Children of the Jedi,chiscifi | chirandom
+25620,1995,1995,0,1995,f,us,12.346725214468181,0.807711681962,0,1,"Shigekuni, Julie,",A bridge between us,chirandom
+4529,1921,1921,1889,1921,m,us,13.845910968822292,0.116120594927,0,1,"Byrne, Donn,",Messer Marco Polo,teamblack | chirandom | chifantasy
+4690,1922,1922,1857,1922,m,us,14.392842598768683,0.000937655309703,0,1,"Hough, Emerson,",The young Alaskans on the,teamred | chirandom
+4705,1922,1922,1893,1922,m,us,13.488300127259937,0.14927519565,0,1,"Marquand, John P.",The unspeakable gentleman,teamred | chirandom
+4748,1922,1922,1877,1922,m,us,12.433058680333959,0.0110587121095,0,1,"Traprock, Walter E.",My northern exposure,teamblack | chirandom
+BlochPsycho1959,1959,1959,1917,1959,m,us,11.610776693281435,0.920268005197,1,1,"Bloch, Robert,",Psycho,teamblack | pbgothic
+coo.31924013476498,1885,1912,1856,1885,m,uk,16.26455261110388,0.617496241832,1,1,"Haggard, H. Rider",King Solomon's mines,teamred | pbgothic
+coo.31924014157121,1891,1908,1854,1891,m,uk,12.399646093319133,0.902128863946,1,1,"Wilde, Oscar,",The picture of Dorian Gra,teamblack | pbgothic
+Derleth1948,1948,1948,1909,1948,m,us,13.040049022344872,0.997189335489,1,1,"Derleth, August,",Two stories by Derleth,chiscifi | teamred | pbgothic
+DinesenGothicTales1934,1934,1934,1885,1934,f,da,15.567252467498326,0.0847007626792,1,1,"Dinesen, Isak,",Seven Gothic Tales,teamblack | pbgothic | stew
+dul1.ark+=13960=t0tq6sw6t,1807,1807,0,1807,f,uk,20.688285200864364,0.00725125489552,0,1,"Bayfield, E. G.,",A winter in Bath,teamred | random
+dul1.ark+=13960=t3dz14r97,1807,1807,0,1807,f,uk,18.15714041183823,0.162388709742,0,1,"Bayfield, E. G.,",A winter in Bath,teamred | random
+dul1.ark+=13960=t3vt2js1t,1786,1786,0,1786,f,uk,23.98592581214657,0.000952188469706,0,1,"Bennett, Anna Maria,","Anna; or, Memoirs of a Welch Heiress",teamred | random
+dul1.ark+=13960=t6446jc6s,1764,1764,0,1764,,uk,27.228302066095107,0.827359230861,0,1,Anonymous4,The memoirs of Miss D'Arv,teamblack | random
+dul1.ark+=13960=t6834qb4k,1788,1788,1763,1788,m,uk,21.17844128900331,0.384912870139,0,1,"Berkeley, George Monck,",Heloise: or The siege of ,teamred | random
+hvd.hn6nee,1780,1798,1711,1780,f,fr,16.40022574218275,0.0176637653366,0,1,"Leprince de Beaumont,",Letters of Madame Du Montier,teamblack | random
+hvd.hw3q0s,1761,1796,1712,1761,m,fr,16.30519094773489,0.0314194208149,0,1,"Rousseau, Jean-Jacques,",Eloisa: or A series of or,teamred | random
+hvd.hwjtfk,1824,1832,1789,1824,m,us,23.142675713362348,0.0168768125074,0,1,"Cooper, James Fenimore,",The pilot;,teamblack | random
+hvd.hwkdax,1803,1803,1757,1803,f,uk,16.645972103151564,0.979380034242,0,1,"Lee, Harriet,",Canterbury tales,teamred | random
+hvd.hwpn81,1816,1828,1782,1816,m,uk,11.577069544997341,0.999993476603,1,1,"Maturin, Charles Robert,","Bertram, or, The castle o",teamblack | pbgothic
+ien.35556027278860,1912,1912,0,1912,m,,18.19741138223138,0.999299446165,1,1,"Gowans, Adam L.",Famous ghost-stories by E,teamblack | locghost
+inu.30000007695723,1872,1886,1814,1872,m,uk,17.14603463909798,0.993186519075,1,1,"Le Fanu, Joseph Sheridan,",In a glass darkly,teamblack | pbgothic | stew
+inu.30000007708815,1868,1868,1824,1868,m,uk,13.34686476057556,0.266557815164,1,1,"Collins, Wilkie,",The moonstone,teamred | pbgothic | det100
+inu.30000011752437,1910,1910,1862,1910,f,us,13.51761767527707,0.486067547069,1,1,"Wharton, Edith,",Tales of men and ghosts,teamred | pbgothic
+inu.30000042783591,1887,1887,0,1887,,,15.451007217001608,0.995179520655,1,1,Anonymous3,Dreamland and ghostland,teamblack | locghost
+inu.30000060903741,1849,1880,1805,1849,m,uk,18.650593354637085,0.430847583116,1,1,"Ainsworth, William Harris",The Lancashire witches,teamblack | pbgothic
+inu.39000002156706,1903,1903,1862,1903,m,uk,19.560891084832384,0.868347714376,1,1,"Benson, Arthur Christophe",The hill of trouble and o,teamblack | pbgothic
+inu.39000005852087,1914,1914,0,1914,m,,14.922486564166489,0.999999336435,1,1,"Seymour, St. John D.",True Irish ghost stories,locghost | teamred
+JacksonHillHouse1959,1959,1959,1916,1959,f,us,15.131210247330168,0.993060604352,1,1,"Jackson, Shirley,",The Haunting of Hill House,teamblack | pbgothic | stew
+JamesTurnOfScrew1898,1898,1898,1843,1898,m,us,15.959940440846633,0.99699202768,1,1,"James, Henry,",The Turn of the Screw,teamred | pbgothic
+LovecraftCharlesDexter1927,1927,1927,1890,1927,m,us,14.826164928550515,0.99893252457,1,1,"Lovecraft, H. P.",The Case of Charles Dexter Ward,teamblack | pbgothic
+mdp.39015000541717,1885,1885,1839,1885,m,uk,25.45931543854763,0.609699698994,0,1,"Pater, Walter,",Marius the Epicurean,teamred | random
+mdp.39015000551799,1838,1867,1812,1838,m,uk,15.331026213552038,0.623741284574,1,1,"Dickens, Charles,",Oliver Twist,stew | teamred | pbgothic
+mdp.39015002313487,1837,1915,1804,1837,m,us,19.74493555096788,0.993767707851,1,1,"Hawthorne, Nathaniel,",Twice-told tales,teamblack | pbgothic
+mdp.39015002753815,1921,1922,1892,1921,f,uk,15.654822206299412,0.239516571981,0,1,"Sackville-West, V.",The dragon in shallow wat,teamred | random
+mdp.39015003931113,1799,1832,1756,1799,m,uk,16.683933123701934,0.114881732044,1,1,"Godwin, William,",St. Leon: a tale of the s,teamred | pbgothic
+mdp.39015004200997,1818,1891,1797,1818,f,uk,17.41334240889707,0.989464607626,1,1,"Shelley, Mary Wollstonecr",Frankenstein,stew | teamred | stangothic | femscifi
+mdp.39015004274992,1846,1882,1804,1846,m,us,18.317791982369357,0.955693847014,1,1,"Hawthorne, Nathaniel,",Mosses from an old manse,teamred | pbgothic
+mdp.39015004880715,1841,1908,1812,1841,m,uk,18.042708912475522,0.551577170475,1,1,"Dickens, Charles,",The old curiosity shop,teamblack | pbgothic | stew
+mdp.39015005076883,1798,1887,1771,1798,m,us,13.577764536620885,0.999959428046,1,1,"Brown, Charles Brockden,","Wieland; or, The transfor",teamred | pbgothic
+mdp.39015005108595,1921,1921,0,1921,m,,19.917513921355486,0.999315943543,1,1,"Rhys, Ernest,",The haunters & the haunte,locghost | teamred
+mdp.39015006997806,1846,1846,1815,1846,f,uk,16.70559986139308,0.10905037851,0,1,"Sewell, Elizabeth Missing",Gertrude,teamred | random
+mdp.39015012876820,1890,1890,0,1890,,,14.399808405432749,0.991829736541,1,1,AnonymousGhost2,Modern ghosts,teamblack | stew | locghost
+mdp.39015013429249,1919,1923,1879,1919,m,us,16.54214581212141,0.236525090553,1,1,"Cabell, James Branch,",Jurgen,teamred | pbgothic
+mdp.39015021039980,1821,1892,1782,1821,m,uk,24.059547439683143,0.993522260888,1,1,"Maturin, Charles Robert,",Melmoth the wanderer,stew | teamred | pbgothic
+mdp.39015021039998,1820,1892,1782,1820,m,uk,21.89134405461011,0.996706137114,1,1,"Maturin, Charles Robert,",Melmoth the wanderer,teamblack | pbgothic
+mdp.39015021040004,1820,1892,1782,1820,m,uk,19.795571963631147,0.995101831282,1,1,"Maturin, Charles Robert,",Melmoth the wanderer,teamblack | pbgothic | stew
+mdp.39015021250124,1794,1794,0,1794,f,uk,24.87626795895544,0.00659957569814,0,1,"Bennett, Anna Maria,","Ellen, Countess of Castle Howel",teamred | random
+mdp.39015023189999,1800,1801,1756,1800,f,uk,15.772267517803249,0.0168582557224,0,1,"Hamilton, Elizabeth,",Memoirs of modern philosophers,teamred | random
+mdp.39015024230610,1785,1785,1746,1785,f,fr,20.90094284866772,0.00675030045746,0,1,"Genlis, St?phanie F?licit?",Tales of the castle;,teamred | random
+mdp.39015026244999,1878,1878,1824,1878,m,uk,13.127923484124299,0.149693847985,1,1,"Collins, Wilkie,",The haunted hotel,stew | teamred | pbgothic
+mdp.39015030365178,1903,1904,1842,1903,m,fr,17.008341808410073,0.0246918253365,0,1,"Lafargue, Paul,",The sale of an appetite,teamblack | random
+mdp.39015030996832,1834,1878,1805,1834,m,uk,16.33030857891397,0.594917244846,1,1,"Ainsworth, William Harris",Rookwood,newgate | teamred | stangothic
+mdp.39015031235545,1920,1920,1861,1920,m,uk,13.427813489381641,0.00745153892402,0,1,"Hewlett, Maurice,",The light heart,teamred | random
+mdp.39015033367668,1791,1791,1729,1791,f,uk,13.47609439449749,8.57395377486e-05,1,1,"Reeve, Clara,",The school for widows,teamblack | stangothic
+mdp.39015038723360,1860,1906,1824,1860,m,uk,14.740715273485135,0.0699817597634,1,1,"Collins, Wilkie,",The woman in white,sensation | teamred | pbgothic | stew
+mdp.39015039369650,1785,1804,1750,1785,f,uk,18.749526817777188,0.936346252141,1,1,"Lee, Sophia,",The recess;,teamblack | pbgothic | stew
+mdp.39015051156498,1826,1826,1798,1826,m,uk,24.052540584639956,0.0600988646038,0,1,"Banim, John,",Tales,teamred | random
+mdp.39015059372105,1823,1823,1794,1823,m,uk,21.60112619692414,0.121648674622,0,1,"Lockhart, J. G.",Reginald Dalton,teamblack | random
+mdp.39015059642994,1886,1903,1850,1886,m,uk,15.702833202603358,0.99509659739,1,1,"Stevenson, Robert Louis,",Strange case of Dr. Jekyl,stew | teamred | pbgothic | anatscifi
+mdp.39015062658789,1881,1881,1844,1881,f,us,18.033912493786435,0.121282783348,0,1,"Sidney, Margaret,",Five little Peppers and h,teamblack | random
+mdp.39015063556271,1818,1818,1769,1818,f,uk,16.527140503334078,0.0153696669932,0,1,"Opie, Amelia Alderson,",New tales,teamred | random
+mdp.39015063559390,1882,1883,1828,1882,f,uk,16.386780794982613,0.590167097269,1,1,"Oliphant,",A little pilgrim in the u,stew | teamred | pbgothic
+mdp.39015063759552,1816,1820,1772,1816,f,uk,23.85084685158815,0.217728788898,0,1,"Burney, Sarah Harriet,",Tales of fancy,teamred | random
+mdp.39015063931474,1794,1794,1740,1794,f,uk,22.43989254493909,0.0238206775181,0,1,"Gunning,",Memoirs of Mary,teamblack | random
+mdp.39015063941135,1907,1907,1850,1907,f,us,15.956637857705239,0.0201670946806,0,1,"Murfree, Mary Noailles,",The windfall;,teamred | random
+mdp.39015063949229,1894,1894,1862,1894,m,uk,13.062884146810083,0.105834254608,0,1,"Scott, Hugh Stowell,",With edged tools;,teamblack | random
+mdp.39015063950102,1794,1806,1764,1794,f,uk,23.84174688085819,0.999696265225,1,1,"Radcliffe, Ann Ward,",The mysteries of Udolpho,teamred | pbgothic
+mdp.39015063967478,1820,1820,1779,1820,m,uk,22.32419635331547,0.94694699408,0,1,"Galt, John,",The earthquake;,teamblack | random
+mdp.39015063994266,1832,1832,1779,1832,m,uk,21.81496096871204,0.0949227735416,0,1,"Galt, John,",Stanley Buxton;,teamred | random
+mdp.39015066083661,1890,1890,0,1890,,,14.473569224610895,0.992102447582,1,1,AnonymousGhost2,Modern ghosts;,teamblack | locghost
+mdp.39015078572263,1780,1788,1746,1780,m,ge,13.783437393157234,0.0744437687033,0,1,"Campe, Joachim Heinrich,",The new Robinson Crusoe;,teamblack | random
+mdp.39076002621501,1905,1905,1812,1905,m,uk,16.570301159928064,0.984533435636,1,1,"Dickens, Charles,",A Christmas carol in pros,locghost | teamred
+mdp.39076002657265,1913,1913,0,1913,f,,11.590044295153247,0.0397272259233,1,1,"Aldridge, Janet.",The Meadow-Brook girls un,locghost | teamred
+mdp.39076006220961,1847,1907,1816,1847,f,uk,15.938272379231933,0.913910839918,1,1,"Bront?, Charlotte,",Jane Eyre,teamred | pbgothic
+mdp.39076006220979,1847,1907,1816,1847,f,uk,14.124555182659783,0.67245685473,1,1,"Bront?, Charlotte,",Jane Eyre,stew | teamred | pbgothic
+mdp.49015001286492,1853,1905,1816,1853,f,uk,16.980122771550498,0.234338778348,1,1,"Bront?, Charlotte,",Villette,teamblack | pbgothic
+njp.32101007059791,1843,1843,1799,1843,m,uk,23.197289757247827,0.00292945535754,0,1,"James, G. P. R.",Forest days;,teamblack | random
+njp.32101013133523,1813,1813,1763,1813,f,uk,23.763211868815038,0.147218836208,1,1,"Roche, Regina Maria,",The monastery of St. Columb;,teamred | stangothic
+njp.32101013566920,1892,1898,1842,1892,m,us,15.096986625757495,0.897276299189,1,1,"Bierce, Ambrose,",In the midst of life;,teamblack | pbgothic | stew
+njp.32101037977574,1807,1807,1771,1807,f,uk,23.344238362430467,0.985873784368,1,1,"Dacre, Charlotte,",The libertine;,teamblack | pbgothic
+njp.32101038161780,1816,1816,1749,1816,f,uk,17.485034448365084,0.0481387695248,0,1,"Lewis, Alethea,",Rhoda,teamblack | random
+njp.32101051650776,1794,1828,1764,1794,f,uk,20.638084210435586,0.971524555186,1,1,"Radcliffe, Ann Ward,",The mysteries of Udolpho,teamblack | pbgothic | stew
+njp.32101062743727,1796,1828,1764,1796,f,uk,21.066038252066186,0.969285877017,1,1,"Roche, Regina Maria,",The children of the abbey,teamblack | pbgothic
+njp.32101066479765,1791,1791,1742,1791,m,uk,23.400712984806464,0.00513093256378,0,1,"Combe, William,",The devil upon two sticks,teamblack | random
+njp.32101067301786,1922,1922,0,1922,m,,16.064218988021175,0.988409374778,1,1,"Munford, George Frederick",Ghosts and legends of Sou,teamblack | stew | locghost
+njp.32101067487007,1764,1811,1717,1764,m,uk,21.68235515449224,0.953994150048,1,1,"Walpole, Horace,",The castle of Otranto;,stew | teamred | pbgothic
+njp.32101067634046,1833,1833,1793,1833,m,us,19.4421733204008,0.0112849151481,0,1,"Hall, James,",The soldier's bride and o,teamred | random
+njp.32101067641678,1878,1878,1812,1878,m,ge,13.881683189988054,0.0364037754093,0,1,"Auerbach, Berthold,",Landolin,teamred | random
+njp.32101068177094,1801,1803,1774,1801,m,uk,17.221994950253755,0.0618481431018,0,1,"Du Bois, Edward,",Old Nick;,teamred | random
+njp.32101068177102,1801,1803,1774,1801,m,uk,17.490169277364615,0.111392796873,0,1,"Du Bois, Edward,",Old Nick;,teamred | random
+njp.32101068601341,1843,1884,1809,1843,m,us,18.01080709649791,0.993856969338,1,1,"Poe, Edgar Allan,",Tales by Edgar Allan Poe,teamred | pbgothic
+njp.32101074629542,1790,1790,1747,1790,m,fr,17.962519111114048,0.0448876817055,0,1,"Lavall?e, Joseph,",The negro equalled by few,teamblack | random
+njp.32101075374379,1844,1845,1814,1844,m,uk,15.711958983418848,0.344375000302,1,1,"Reynolds, George W. M.",The mysteries of London,stew | teamred | pbgothic
+njp.32101076806486,1898,1898,0,1898,m,,13.734260707699935,0.940575682306,1,1,"Le Braz, Anatole,",Dealings with the dead;,teamblack | locghost
+nnc1.0022035958,1888,1888,0,1888,,,18.871024437266396,0.994691191894,1,1,AnonymousGhost,Weird tid-bits,locghost | teamred | stew
+nnc1.0037104152,1795,1798,1732,1795,m,uk,22.620631169323897,0.142802781833,0,1,"Cumberland, Richard,",Henry,teamred | random
+nnc1.0040976017,1888,1888,0,1888,,,20.161876305562828,0.919513761504,1,1,AnonymousGhost,Weird tid-bits,teamblack | stew | locghost
+nnc1.0040976025,1888,1888,0,1888,,,19.4816699144605,0.987988370438,1,1,AnonymousGhost,Weird tid-bits,teamblack | locghost
+nnc1.0111708131,1888,1888,0,1888,,,19.127611902455236,0.998898486537,1,1,AnonymousGhost,Weird tid-bits,teamblack | stew | locghost
+nnc1.0113307762,1888,1888,0,1888,,,21.777921620782664,0.988856415965,1,1,AnonymousGhost,Weird tid-bits,locghost | teamred
+nnc1.1002330709,1794,1794,1748,1794,m,uk,21.587957627994893,0.914366281282,0,1,"Moser, Joseph,",Turkish tales,teamred | random
+nnc1.1002365251,1841,1841,1800,1841,f,uk,32.68772665356216,0.0703380792259,0,1,"Sinclair, Catherine,",Modern flirtations,teamblack | random
+nnc1.cu01664417,1900,1917,1869,1900,m,us,14.38580552918027,0.0709569926808,0,1,"Tarkington, Booth,",Monsieur Beaucaire,teamblack | random
+nnc1.cu58506756,1791,1795,1764,1791,f,uk,19.032761142978767,0.997331233518,1,1,"Radcliffe, Ann Ward,",The romance of the forest,teamblack | pbgothic | stew
+nyp.33433022846707,1850,1850,1812,1850,m,us,27.643811132423565,0.028711473112,0,1,"Myers, P. Hamilton",The King of the Hurons,teamblack | random
+nyp.33433051569915,1800,1803,1766,1800,m,ru,12.150633207952811,0.146192221368,0,1,"Karamzin, Nikola? Mikha?lovich,",Russian tales,teamred | random
+nyp.33433067303937,1807,1807,1763,1807,f,uk,18.420722748480017,0.142421161719,1,1,"Roche, Regina Maria,","The discarded son; or, Haunt of the banditti",teamred | stangothic
+nyp.33433068179559,1918,1918,0,1918,m,,15.311898749715809,0.997559737872,1,1,"French, Joseph Lewis,","Great ghost stories, sele",teamblack | stew | locghost
+nyp.33433068179716,1906,1906,0,1906,f,,15.640227711320776,0.994993870297,1,1,"Buckingham, Emma May.",Modern ghost stories,locghost | teamred | stew
+nyp.33433074857248,1905,1909,1879,1905,m,uk,13.197069047880069,0.00665643322417,0,1,"Gibbon, Perceval,",Salvator,teamblack | random
+nyp.33433074863691,1832,1832,1799,1832,m,uk,21.980297108639355,0.181807908757,0,1,"James, G. P. R.",Henry Masterton;,teamred | random
+nyp.33433074863782,1848,1859,1824,1848,f,uk,18.922021729609245,0.00887850872907,0,1,"Kavanagh, Julia,",Madeleine,teamblack | random
+nyp.33433074864889,1888,1888,1836,1888,m,uk,15.77742383920451,0.654251967349,0,1,"Goodman, E. J.",Too curious,supernatural | teamred | random
+nyp.33433074866413,1898,1908,1865,1898,m,uk,14.281603356743275,0.0203815985098,0,1,"Kipling, Rudyard,",The day's work,teamred | random
+nyp.33433074866686,1888,1898,1865,1888,m,uk,13.853742381890221,0.0967457209095,1,1,"Kipling, Rudyard,",Plain tales from the hill,teamblack | pbgothic | stew
+nyp.33433074868807,1838,1838,1799,1838,m,uk,22.58533103704418,0.122137578209,0,1,"James, G. P. R.",The robber,teamred | random
+nyp.33433074870282,1907,1907,1861,1907,m,uk,14.569422944386913,0.0275912397351,0,1,"Hewlett, Maurice,",The stooping lady,teamred | random
+nyp.33433074874300,1796,1796,1775,1796,m,uk,13.503055634944479,0.253960506672,1,1,"Lewis, M. G.",The monk,teamblack | pbgothic
+nyp.33433074874748,1796,1796,1775,1796,m,uk,13.336386780264824,0.999071950891,1,1,"Lewis, M. G.",The monk,teamblack | pbgothic | stew
+nyp.33433074878889,1837,1837,1797,1837,m,uk,19.538112804929117,0.00131147069751,0,1,"Lover, Samuel,",Rory O'More,teamblack | random
+nyp.33433074897426,1896,1913,1864,1896,m,uk,15.671741812778,0.461016490696,0,1,"Merrick, Leonard,",This stage of fools,teamred | random
+nyp.33433074911508,1788,1788,1749,1788,f,uk,18.16898029653555,0.0857469843332,1,1,"Smith, Charlotte,",Emmeline,stew | teamred | pbgothic
+nyp.33433074911532,1788,1788,1749,1788,f,uk,15.759722313651958,0.101082502987,1,1,"Smith, Charlotte,",Emmeline,teamblack | pbgothic | stew
+nyp.33433074911771,1799,1799,1758,1799,f,uk,15.844818666716824,0.982810655209,0,1,"Robinson, Mary Darby,",The false friend,teamred | random
+nyp.33433074915970,1809,1809,1745,1809,f,uk,17.170615831709345,5.11666462895e-05,0,1,"More, Hannah,",C?lebs in search of a wife,teamred | random
+nyp.33433074918784,1790,1790,0,1790,m,uk,20.90396841672781,0.299741201325,0,1,"White, James,",The adventures of John of,teamblack | random
+nyp.33433074919402,1840,1858,1805,1840,m,uk,17.866889812401617,0.563603141577,1,1,"Ainsworth, William Harris",The Tower of London,stew | teamred | pbgothic
+nyp.33433074920608,1858,1858,1835,1858,m,uk,14.850790115776777,0.0661076498089,0,1,"Austin, Alfred,",Five years of it,teamred | random
+nyp.33433074926712,1920,1920,1867,1920,m,uk,15.07488882262774,0.228311791856,0,1,"Benson, E. F.","""Queen Lucia""",teamred | random
+nyp.33433074931118,1847,1848,1818,1847,f,uk,17.30546326412354,0.974381164095,1,1,"Bront?, Emily,",Wuthering Heights,stew | teamred | pbgothic
+nyp.33433074937438,1832,1832,1804,1832,m,uk,15.388004676246686,0.557411488617,0,1,"Disraeli, Benjamin,",Contarini Fleming;,teamblack | random
+nyp.33433074937446,1832,1832,1804,1832,m,uk,15.532290354845708,0.637654183211,0,1,"Disraeli, Benjamin,",Contarini Fleming;,teamred | random
+nyp.33433074937610,1827,1830,1803,1827,m,uk,16.111826640921173,0.599559492197,1,1,"Lytton, Edward Bulwer Lyt",Falkland,teamblack | pbgothic | stew
+nyp.33433074945779,1866,1873,1824,1866,m,uk,14.19549738055426,0.205016543557,1,1,"Collins, Wilkie,",Armadale,sensation | teamred | pbgothic | stew
+nyp.33433074951611,1803,1803,1780,1803,f,uk,21.196793852688227,0.930571594095,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic
+nyp.33433074954979,1802,1802,0,1802,f,uk,17.98406459281913,0.0159664041136,0,1,"Cullen, Margaret.",Home,teamred | random
+nyp.33433074955091,1790,1792,1764,1790,f,uk,17.93172207803999,0.999996866789,1,1,"Radcliffe, Ann Ward,",A Sicilian romance,stew | teamred | pbgothic
+nyp.33433074955109,1790,1792,1764,1790,f,uk,17.95962569454754,0.999997041551,1,1,"Radcliffe, Ann Ward,",A Sicilian romance,stew | teamred | pbgothic
+nyp.33433074955331,1777,1777,0,1777,f,uk,19.153016333942332,0.0645848597629,0,1,Henrietta.,Letters from Henrietta to,teamblack | random
+nyp.33433075732655,1921,1921,0,1921,,,16.08957618623242,0.968598854782,1,1,AnonymousGhost3,Humorous ghost stories,locghost | teamred | stew
+nyp.33433075737753,1890,1891,1848,1890,m,ah,14.124968258189693,0.0328647807773,0,1,"Franzos, Karl Emil,",Judith Trachtenberg,teamred | random
+nyp.33433075761720,1888,1888,1838,1888,m,uk,13.165255748012028,0.771897770696,0,1,"Farjeon, B. L.",Miser Farebrother,teamblack | random
+nyp.33433075768253,1826,1826,1785,1826,m,uk,27.578316275487875,0.0765540999416,0,1,"Wilkins, George,",The convert,teamblack | random
+nyp.33433075843544,1892,1892,1833,1892,m,fr,16.58579126396519,0.0285836067679,0,1,"Theuriet, Andr?,",A young man of the period,teamred | random
+nyp.33433075968796,1910,1910,1875,1910,m,us,13.182518810263302,0.00319220895642,0,1,"Roe, Clifford Griffith,",Panders and their white s,teamred | random
+nyp.33433076060874,1865,1865,1801,1865,m,us,17.62134938239269,0.0285682741484,0,1,"Murdoch, David.",The Royalist's daughter a,teamred | random
+nyp.33433079897819,1892,1892,1842,1892,m,us,14.566401321254007,0.779784797778,0,1,"Bierce, Ambrose,",The monk and the hangman',teamblack | random
+nyp.33433081585105,1832,1840,1783,1832,m,us,18.92368048132114,0.614055945784,1,1,"Irving, Washington,",Tales of the Alhambra,teamblack | pbgothic
+nyp.33433082170576,1847,1847,1809,1847,m,us,15.219401107555466,0.00839288214072,0,1,"Arthur, T. S.",Lovers and husbands,teamred | random
+nyp.33433082251855,1919,1919,1857,1919,f,us,12.834311683964826,0.0103773568869,0,1,"Atherton, Gertrude Frankl",Transplanted;,teamred | random
+nyp.33433082485636,1918,1918,1885,1918,m,us,13.806960675408982,0.483345025852,0,1,"Hunt, Edward Eyre,",Tales from a famished lan,teamred | random
+nyp.33433082514187,1848,1848,0,1848,m,,20.484686388630255,0.998837333828,1,1,"St. Clair, Henry.","Tales of terror; or, The ",locghost | teamred | stew
+PeakeTitusGroan1946,1946,1946,1911,1946,m,uk,13.547824801008822,0.903400415578,1,1,"Peake, Mervyn,",Titus Groan,teamblack | pbgothic | stew
+StokerDracula1897,1897,1897,1847,1897,m,uk,13.845728251980859,0.957552325573,1,1,"Stoker, Bram,",Dracula,teamblack | pbgothic | stew
+uc1.$b522186,1806,1806,1746,1806,f,fr,14.200932550131371,8.6672468911e-05,0,1,"Genlis, St?phanie F?licit?,",Madame de Maintenon,teamred | random
+uc1.31158008377706,1818,1922,1775,1818,f,uk,17.773262040174057,0.161294378739,1,1,"Austen, Jane,",Northanger abbey,teamblack | pbgothic
+uc1.31822033251729,1922,1922,1883,1922,m,au,16.07876655198399,0.00078069048648,0,1,"Forrest, Michael D",Father Justin,teamred | random
+uc1.32106001980371,1905,1911,1878,1905,m,uk,14.27906002968259,0.204986925556,1,1,"Dunsany, Edward John More",The gods of Peg?na,teamblack | pbgothic | stew
+uc1.32106002123104,1922,1922,1885,1922,m,us,15.12117870001603,0.0363735404415,0,1,"Lewis, Sinclair,",Babbitt,teamred | random
+uc1.32106010644463,1846,1846,1814,1846,m,uk,18.010470601732386,0.152354067589,1,1,"Reynolds, George W. M.",The mysteries of London,stew | teamred | pbgothic
+uc1.b248234,1803,1803,0,1803,,,19.933113929885646,0.0399541706131,0,1,Anonymous7,"Barbara Markham; or, The profligate requited;",teamblack | random
+uc1.b249543,1898,1898,1831,1898,f,uk,14.63856081556585,0.0219044853951,0,1,"Barr, Amelia Edith Huddle",The lost silver of Briffa,teamblack | random
+uc1.b250120,1803,1803,0,1803,,,18.109450362053344,0.0462995536569,0,1,Anonymous0,Letters of Miss Riversdale,teamblack | random
+uc1.b250127,1864,1864,1814,1864,m,uk,16.466917240138983,0.957168202622,1,1,"Le Fanu, Joseph Sheridan,",Uncle Silas,sensation | teamred | pbgothic | stew
+uc1.b250128,1864,1864,1814,1864,m,uk,17.216304865537403,0.662544917803,1,1,"Le Fanu, Joseph Sheridan,",Uncle Silas,teamblack | sensation | pbgothic | stew
+uc1.b250129,1864,1864,1814,1864,m,uk,16.645928911040624,0.976917892157,1,1,"Le Fanu, Joseph Sheridan,",Uncle Silas,sensation | teamred | pbgothic | stew
+uc1.b254212,1821,1821,0,1821,f,uk,16.63161042887587,0.0447617539226,0,1,"Varty-Smith, Augusta A.",Matthew Tindale,teamred | random
+uc1.b287473,1818,1818,1769,1818,f,uk,17.0322080119189,0.0324901059911,0,1,"Opie, Amelia Alderson,",New tales,teamblack | random
+uc1.b316144,1832,1832,1796,1832,m,ge,18.544036734950204,0.05696598329,0,1,"Spindler, Carl,",The Jew,teamblack | random
+uc1.b3290572,1827,1827,1765,1827,m,uk,21.628090560111342,0.00473552433437,0,1,"Ward, R. Plumer",De Vere,teamblack | random
+uc1.b3324205,1906,1913,1867,1906,m,uk,12.690829541625128,0.15745990498,0,1,"Cullum, Ridgwell,",The night-riders;,teamblack | random
+uc1.b3324210,1853,1853,1812,1853,m,us,15.539031815886194,0.922875933802,0,1,"Irving, John Treat,",The attorney,teamblack | random
+uc1.b3324403,1860,1860,1827,1860,m,uk,16.123868047036122,0.117007940112,0,1,"Lawrence, George A.",Sword and gown,teamred | random
+uc1.b3325448,1890,1906,1856,1890,f,uk,17.28714346194207,0.990831494802,1,1,"Lee, Vernon,",Hauntings,stew | teamred | pbgothic
+uc1.b3326097,1840,1840,1788,1840,m,uk,18.943189630885243,0.310115074468,0,1,"Hook, Theodore Edward,","Cousin Geoffrey, the old ",teamred | random
+uc1.b3575696,1826,1826,1764,1826,f,uk,21.66047840656541,0.991644355404,1,1,"Radcliffe, Ann Ward,",Gaston de Blondeville,teamblack | pbgothic
+uc1.b3575698,1826,1826,1764,1826,f,uk,21.83263592715866,0.99736704578,1,1,"Radcliffe, Ann Ward,",Gaston de Blondeville,stew | teamred | pbgothic
+uc1.b3578339,1911,1911,1854,1911,m,us,14.977421350119839,0.999661195083,1,1,"Crawford, F. Marion",Wandering ghosts,stew | teamred | pbgothic
+uc1.b3578934,1891,1891,1842,1891,m,us,15.200132829911333,0.896394637769,1,1,"Bierce, Ambrose,",Tales of soldiers and civ,teamblack | pbgothic | stew
+uc1.b3578940,1906,1915,1869,1906,m,uk,14.868510516443063,0.999801230151,1,1,"Blackwood, Algernon,",The empty house,teamblack | pbgothic | stew
+uc1.b4101364,1863,1863,1815,1863,m,uk,12.541667953364321,0.000655409281239,0,1,"Trollope, Anthony,",Rachel Ray,teamred | random
+uc1.b4103074,1904,1904,0,1904,m,uk,14.610302086060038,0.978611952199,1,1,"Baring-Gould, S.",A book of ghosts,locghost | teamred | stew
+uc1.b4104774,1895,1896,1855,1895,f,uk,17.395040173247523,0.188628306871,1,1,"Corelli, Marie,",The sorrows of Satan;,teamred | pbgothic
+uc1.b4104961,1888,1899,1865,1888,m,uk,13.311736931833524,0.186782700244,1,1,"Kipling, Rudyard,",The phantom rickshaw,teamred | pbgothic
+uc2.ark+=13960=t0js9hc64,1887,1887,1883,1887,f,us,14.882249344975822,0.0593516785605,0,1,"Clarke, Rebecca Sophia,",Drones' honey,teamblack | random
+uc2.ark+=13960=t0ms3qz4m,1829,1829,1803,1829,m,uk,20.079453588959474,0.031063150168,0,1,"Lytton, Edward Bulwer Lyt",Devereux,teamred | random
+uc2.ark+=13960=t0xp6w75n,1912,1912,1878,1912,m,us,24.7756638981461,1.77893224593e-06,0,1,"Rose, William Ganson,",Putting Marshville on the,teamblack | random
+uc2.ark+=13960=t1dj5cf2j,1886,1920,1853,1886,m,fr,14.896109021426508,0.149229190243,0,1,"Lema?tre, Jules,",Serenus and other stories,teamred | random
+uc2.ark+=13960=t1mg7hw3f,1833,1880,1803,1833,m,uk,19.559240494709435,0.0208678024571,1,1,"Lytton, Edward Bulwer Lyt",Godolphin,teamblack | pbgothic
+uc2.ark+=13960=t1pg1k81k,1919,1919,1862,1919,m,uk,15.518685011562038,0.959823400819,1,1,"James, M. R.",A thin ghost and others,teamred | pbgothic
+uc2.ark+=13960=t1sf2p11n,1867,1867,1814,1867,f,ge,18.618730436809468,0.0551580445361,0,1,"M?hlbach, L.",Marie Antoinette and her ,teamblack | random
+uc2.ark+=13960=t1td9p949,1777,1778,1729,1777,f,uk,18.77402184021468,0.00886923003012,1,1,"Reeve, Clara,",The old English baron,teamblack | pbgothic
+uc2.ark+=13960=t23b5ww6x,1922,1922,0,1922,m,,13.62987830914225,0.999425732519,1,1,"French, Joseph Lewis,",Masterpieces of mystery,teamblack | locdetmyst | locghost
+uc2.ark+=13960=t2h70nx9q,1858,1874,1824,1858,m,uk,17.632806505831986,0.999386443128,1,1,"MacDonald, George,",Phantastes,teamblack | pbgothic | stew
+uc2.ark+=13960=t2r49vz0v,1851,1883,1804,1851,m,us,23.905747909768913,0.763872611221,1,1,"Hawthorne, Nathaniel,",The house of the seven ga,teamblack | pbgothic
+uc2.ark+=13960=t3pv6dr2h,1911,1911,1880,1911,m,us,13.38574900135049,0.365932430898,0,1,"Pearson, Edmund Lester,",The librarian at play,teamblack | random
+uc2.ark+=13960=t48p64044,1894,1894,1832,1894,m,uk,15.543165514807814,0.00685573806258,0,1,"Henty, G. A.",When London burned,teamblack | random
+uc2.ark+=13960=t4bn9zk9h,1887,1888,1847,1887,m,us,13.123678364155232,0.278917540992,0,1,"Fawcett, Edgar,",Olivia Delaplaine,teamred | random
+uc2.ark+=13960=t4wh2p202,1834,1834,0,1834,m,us,19.876307352843746,0.0372457803115,0,1,"White, James,",Some passages in the life of Sir Frizzle Pumpkin,teamblack | random
+uc2.ark+=13960=t5db7zr5v,1879,1879,1839,1879,m,us,14.642201804934656,0.000496087204248,0,1,"Adams, Robert Chamblet,","On board the ""Rocket""",teamblack | random
+uc2.ark+=13960=t5t728t8q,1796,1796,1752,1796,f,uk,19.93327830507624,0.0792611837754,0,1,"Burney, Fanny,","Camilla: or, A picture of",teamblack | random
+uc2.ark+=13960=t5x63bm4w,1913,1913,1872,1913,f,us,15.349552151741605,0.0204133507988,0,1,"Daviess, Maria Thompson.",The tinder-box,teamblack | random
+uc2.ark+=13960=t6154fk9b,1853,1853,1803,1853,m,uk,16.957761244288132,0.0075309314771,0,1,"Lytton, Edward Bulwer Lyt","""My novel,""",teamred | random
+uc2.ark+=13960=t6251m863,1871,1871,1838,1871,m,uk,14.183747045074622,0.172610718237,0,1,"Farjeon, B. L.",Joshua Marvel,teamblack | random
+uc2.ark+=13960=t70v8bj6k,1922,1922,0,1922,m,,15.526054490139002,0.990793134568,1,1,"French, Joseph Lewis,",Masterpieces of mystery,teamblack | locdetmyst | locghost
+uc2.ark+=13960=t7hq42c97,1844,1844,1812,1844,m,uk,15.99472453076888,0.101890399776,0,1,"Dickens, Charles,",Martin Chuzzlewit,teamblack | random
+uc2.ark+=13960=t7np1xq4d,1919,1919,0,1919,m,,16.300164918037048,0.978950082964,1,1,"Pease, Howard,",Border ghost stories,teamblack | stew | locghost
+uc2.ark+=13960=t7tm74c51,1904,1904,1870,1904,m,us,15.858615627766648,0.00108674634069,0,1,"Orcutt, William Dana,",Robert Cavelier,teamred | random
+uc2.ark+=13960=t82j6cs08,1807,1807,1755,1807,f,uk,16.59672394989307,0.128328512809,0,1,"Grant, Anne MacVicar,",Letters from the mountain,teamblack | random
+uc2.ark+=13960=t8df6mw4h,1850,1850,1809,1850,m,us,14.323898292095278,0.479059799746,0,1,"Arthur, T. S.",Tales of domestic life,teamblack | random
+uc2.ark+=13960=t93776z9n,1922,1922,0,1922,m,,15.8459195018097,0.991809399195,1,1,"French, Joseph Lewis,",Masterpieces of mystery,teamblack | locdetmyst | stew | locghost
+uc2.ark+=13960=t9571nb3d,1866,1866,1819,1866,m,uk,16.693879501987073,0.0120161246469,0,1,"Kingsley, Charles,",Hereward,teamblack | random
+uc2.ark+=13960=t9668pw05,1894,1894,1833,1894,m,fr,14.803982793022577,0.081792542946,0,1,"Theuriet, Andr?,",The Abb? Daniel,teamblack | random
+uc2.ark+=13960=t9862rx2r,1858,1874,1824,1858,m,uk,16.796508169526582,0.999324175096,1,1,"MacDonald, George,",Phantastes,teamblack | pbgothic
+uc2.ark+=13960=t9c53g45j,1922,1922,0,1922,m,,13.627396873636151,0.940020183939,1,1,"French, Joseph Lewis,",Masterpieces of mystery,teamblack | locdetmyst | locghost
+uc2.ark+=13960=t9f47kt3k,1847,1847,1818,1847,m,uk,13.723778511803364,0.182925021578,0,1,"Froude, James Anthony,",Shadows of the clouds,teamblack | random
+ucm.5324200594,1821,1838,1771,1821,m,uk,23.469708734378248,0.03376051468,0,1,"Scott, Walter,",Kenilworth,teamred | random
+uiuo.ark+=13960=t00z7jj1c,1823,1823,1788,1823,m,uk,16.203255302287975,0.913411454417,1,1,"Gaspey, Thomas,","Other times; or, the monks of Leadenhall",teamblack | stangothic
+uiuo.ark+=13960=t09w1328x,1813,1813,0,1813,f,uk,23.41108734505332,0.0713017450749,0,1,"Parker, Emma.",Aretas,teamblack | random
+uiuo.ark+=13960=t09w14g77,1818,1818,1775,1818,f,uk,16.000821297440456,0.0220329674668,1,1,"Austen, Jane,",Northanger Abbey,teamblack | lochorror
+uiuo.ark+=13960=t0ns19n7m,1801,1801,1852,1801,m,uk,18.917878682369647,0.999907120812,1,1,"Moore, George,",Grasville Abbey,teamblack | stangothic
+uiuo.ark+=13960=t18k7vt5k,1807,1807,0,1807,m,uk,19.455953898340113,0.991145742614,1,1,"Mortimer, Edward,",The friar Hildargo,teamred | stangothic
+uiuo.ark+=13960=t1gh9v49g,1803,1807,1780,1803,f,uk,24.340671938919836,0.920891106391,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic | stew
+uiuo.ark+=13960=t1ng5958h,1823,1823,0,1823,f,uk,22.24554446392802,0.714733674477,1,1,"Sullivan, Mary Ann.","Owen Castle, or, Which is the heroine?",teamred | stangothic
+uiuo.ark+=13960=t1rf6b61z,1820,1820,1769,1820,f,uk,18.245255776299828,0.302588918964,0,1,"Opie, Amelia Alderson,",Tales of the heart,teamblack | random
+uiuo.ark+=13960=t2988vx2b,1802,1802,0,1802,m,uk,25.2903657401278,0.961711706185,1,1,"Melville, Theodore.","The white knight, or, The monastery of Morne",teamblack | stangothic
+uiuo.ark+=13960=t2b85z60c,1818,1818,1775,1818,f,uk,15.817476385862884,0.000817871368127,1,1,"Austen, Jane,",Northanger Abbey,teamblack | lochorror | stew
+uiuo.ark+=13960=t2j683k08,1850,1850,1814,1850,m,uk,16.61937040258311,0.772259125324,1,1,"Reynolds, George W. M.",The mysteries of the cour,teamblack | pbgothic
+uiuo.ark+=13960=t2s475w45,1851,1851,1801,1851,m,uk,21.519750696416054,0.225897529455,0,1,"MacCabe, William Bernard,",Bertha,teamred | random
+uiuo.ark+=13960=t3jw90j80,1818,1818,1778,1818,f,uk,22.408283940260166,0.927747095423,1,1,"Porter, Anna Maria,",The fast of St. Magdalen,teamblack | stangothic
+uiuo.ark+=13960=t3vt1zh5r,1847,1847,1797,1847,m,uk,18.685155687639703,0.0294818475916,0,1,"Cobbold, Richard,",Zenon,teamred | random
+uiuo.ark+=13960=t3xs6cp6m,1803,1803,1770,1803,f,uk,19.048141151854363,0.0688218844342,1,1,"Young, Mary Julia.","Right and wrong; or, The kinsmen of Naples",stew | teamred | stangothic
+uiuo.ark+=13960=t42r4bj1d,1867,1867,1830,1867,m,uk,15.354586189304523,0.146193956308,0,1,"Kirkus, William,",Only to be married,teamblack | random
+uiuo.ark+=13960=t4km00443,1818,1818,1775,1818,f,uk,19.585053423509194,0.00181275040865,1,1,"Austen, Jane,",Northanger Abbey,stew | teamred | lochorror
+uiuo.ark+=13960=t58d0ds3h,1868,1868,0,1868,m,uk,14.064689314289812,0.013264789891,0,1,"Knight, Legh.",Tonic bitters,teamred | random
+uiuo.ark+=13960=t5z615j7x,1812,1812,0,1812,f,uk,22.84130953643269,0.982840284,1,1,"Stanhope, Louisa Sidney.",The confessional of Valombre,stew | teamred | stangothic
+uiuo.ark+=13960=t6251zn27,1810,1810,1780,1810,f,uk,34.4263709816507,0.259577810791,1,1,"Cuthbertson, Catherine.",Forest of Montalbano,teamblack | stangothic
+uiuo.ark+=13960=t6xw4rw1j,1803,1803,1780,1803,f,uk,24.803958403861312,0.986206669774,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic
+uiuo.ark+=13960=t6zw24n6x,1818,1818,1775,1818,f,uk,17.972088319511133,0.421025973048,1,1,"Austen, Jane,",Northanger Abbey,teamred | lochorror
+uiuo.ark+=13960=t7br98r5d,1810,1810,0,1810,f,uk,23.423453443243556,0.0746884969999,0,1,Anonymous6,"The adulteress ; or, anecdotes of two noble families",teamblack | random
+uiuo.ark+=13960=t7pn9mm7s,1858,1858,1807,1858,f,uk,14.217350076700146,0.473237143081,0,1,"Manning, Anne,",The ladies of Bever Hollo,teamblack | random
+uiuo.ark+=13960=t86h4xr9x,1806,1806,0,1806,f,,19.735005678738215,0.771320244112,1,1,"Frances, Sophia L.","Vivonio, or, The hour of retribution",teamblack | stangothic | stew
+uiuo.ark+=13960=t8nc69j1b,1803,1803,1780,1803,f,uk,24.731544470104794,0.942953174185,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic
+uiuo.ark+=13960=t8pc3d497,1849,1849,1805,1849,m,au,15.21193463367768,0.0723977199759,0,1,"Harris, Alexander,",The emigrant family ;,teamblack | random
+uiuo.ark+=13960=t8w95tz11,1803,1803,1772,1803,m,uk,18.415920482292368,0.916602971608,1,1,"Walker, George,",Don Raphael,teamred | stangothic
+uiuo.ark+=13960=t9474zg09,1883,1883,1829,1883,m,uk,19.400586059400442,0.000164752428987,0,1,"Oliphant, Laurence,",Altiora Peto,teamred | random
+uiuo.ark+=13960=t95723s7x,1812,1812,0,1812,f,uk,19.885446122055765,0.000829752461435,0,1,"Byron, Medora Gordon.",The Englishman,teamblack | random
+uiuo.ark+=13960=t9f481w8n,1809,1809,0,1809,f,uk,22.899411839022402,0.94823188144,1,1,"Frances, Sophia L.","Angelo Guicciardini, or, The bandit of the Alps",teamred | stangothic
+uiuo.ark+=13960=t9h41nx14,1786,1816,1760,1786,m,uk,25.099136416171692,0.989272029003,1,1,"Beckford, William,",Vathek,teamblack | pbgothic | stew
+umn.31951002081141q,1826,1826,0,1826,,uk,20.793386247902397,0.94851879733,1,1,Anonymous2,Legends of terror!,locghost | teamred | stew
+umn.31951002096159c,1838,1838,1779,1838,f,uk,14.766529348905769,0.0266175016563,0,1,"Trollope, Frances Milton,",A romance of Vienna,teamblack | random
+uva.x000180089,1850,1889,1804,1850,m,us,23.296696371399996,0.699669837207,1,1,"Hawthorne, Nathaniel,",The scarlet letter,stew | teamred | pbgothic
+uva.x000237148,1865,1881,1812,1865,m,uk,15.146596776535873,0.0719629737024,1,1,"Dickens, Charles,",Our mutual friend,teamblack | pbgothic
+uva.x000315604,1914,1914,1867,1914,m,uk,12.162494629578372,0.0288509703516,0,1,"Cullum, Ridgwell,",The way of the strong;,teamred | random
+uva.x000459624,1897,1897,1840,1897,m,uk,14.793695858628631,0.748484490086,0,1,"Hardy, Thomas,",The well-beloved;,teamblack | random
+uva.x000498882,1794,1856,1756,1794,m,uk,15.103211203650813,0.062761670766,1,1,"Godwin, William,",The adventures of Caleb W,stew | teamred | pbgothic
+uva.x000674483,1888,1888,1851,1888,f,uk,15.037266330566567,0.158971006768,0,1,"Ward, Humphry,",Robert Elsmere,teamblack | random
+uva.x000676502,1899,1899,1846,1899,m,us,11.557112770105094,0.00111122728192,0,1,"Thornton, Marcellus Eugen","My ""budie"" and I",teamred | random
+uva.x000885514,1893,1903,1842,1893,m,us,15.412102955754882,0.896604816516,1,1,"Bierce, Ambrose,",Can such things be?,teamblack | pbgothic
+uva.x000960744,1820,1873,1783,1820,m,us,19.873979283793695,0.528176510414,1,1,"Irving, Washington,",The sketch-book of Geoffr,teamblack | pbgothic
+uva.x030743237,1880,1880,1838,1880,m,us,15.878532969074973,0.286403444766,0,1,"Scudder, Horace Elisha,",Doings of the Bodley fami,teamblack | random
+wu.89069113231,1898,1898,1862,1898,m,us,15.630051887951238,0.518877007095,1,1,"Bangs, John Kendrick,",Ghosts I have met and som,locghost | teamred | stew

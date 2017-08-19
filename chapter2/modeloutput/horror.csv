@@ -1,0 +1,55 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+10403,1933,1933,1900,1933,m,us,12.849256980630127,0.273971013717,1,1,"Endore, S. Guy,",The werewolf of Paris,teamblack | chihorror | stew | chifantasy
+10922,1948,1948,1897,1948,m,us,11.702914854192429,0.108932737341,0,1,"Wilder, Thornton,",The ides of March,teamred | chirandom
+10923,1948,1948,1908,1948,m,us,12.445077913483109,0.98957265646,1,1,"Williamson, Jack,",Darker than you think,teamblack | chihorror | chiscifi | chifantasy
+11396,1933,1933,1879,1933,f,au,11.973116871905223,0.422892648879,0,1,"Franklin, Miles,",Bring the monkey,teamred | chirandom | chimyst
+20151,1954,1954,1912,1954,m,us,11.179102222905447,0.310223214161,0,1,"Manfred, Frederick Feikem",Lord Grizzly,teamred | chirandom
+20152,1954,1954,1926,1954,m,us,11.72877341687999,0.892620635184,1,1,"Matheson, Richard,",I am legend,chiscifi | teamred | pbgothic | chihorror
+20480,1962,1962,1920,1962,m,us,14.257702856041108,0.655510932581,1,1,"Bradbury, Ray,",Something wicked this way,teamblack | chihorror | chiscifi
+20481,1962,1962,1914,1962,m,us,9.986243661212397,0.223962089133,0,1,"Burroughs, William S.",The ticket that exploded,teamblack | chirandom
+20737,1967,1967,1923,1967,f,us,11.595966354505656,0.778698682849,0,1,"Fox, Paula,",Poor George,teamblack | chirandom
+20743,1967,1967,1929,1967,m,us,12.431288006618477,0.467955405057,1,1,"Levin, Ira,",Rosemary's baby,teamblack | chihorror | pbgothic | stew
+20750,1967,1967,1895,1967,m,us,12.11010239536413,0.316932450462,0,1,"McNichols, Charles Longstreth,",Crazy weather,teamred | chirandom
+20772,1968,1968,1936,1968,m,us,12.19286545990863,0.50424724006,1,1,"Chappell, Fred,",Dagon,teamred | chihorror
+20791,1968,1968,1938,1968,f,us,14.471925373261008,0.580059936013,1,1,"Oates, Joyce Carol,",Expensive people,teamred | pbgothic | chihorror
+20794,1968,1968,1927,1968,f,us,12.53329502967638,0.533812805907,0,1,"Peters, Elizabeth,",The jackal's head,teamblack | chirandom
+21035,1972,1972,1929,1972,m,us,12.622300541495088,0.440945447569,1,1,"Levin, Ira,",The Stepford wives,teamblack | chihorror | chiscifi
+21043,1972,1972,1943,1972,m,us,15.081186295237364,0.676817835933,0,1,"Millhauser, Steven,",Edwin Mullhouse,teamred | chirandom
+21318,1976,1976,0,1976,m,us,11.677603384447037,0.531585089037,1,1,"Farris, John,",The fury,teamblack | chihorror | stew
+21330,1976,1976,1929,1976,m,us,11.492189992168232,0.192418848766,0,1,"Jenkins, Dan,",Limo,teamred | chirandom
+21417,1977,1977,1947,1977,m,us,12.072380429718482,0.871233127257,0,1,"Donaldson, Stephen R,",The power that preserves,teamblack | chiscifi | chirandom | stew | chifantasy
+21470,1977,1977,1942,1977,m,us,12.057915439646765,0.881617537065,1,1,"Saul, John,",Suffer the children,teamred | chihorror
+21494,1978,1978,1939,1978,m,us,12.746302917757589,0.457380044351,0,1,"Bayer, William,",Tangier,teamblack | chirandom
+21501,1978,1978,1945,1978,m,us,11.212617778447985,0.283792502141,0,1,"Brown, Wesley,",Tragic magic,teamred | chirandom
+21511,1978,1978,1943,1978,m,us,11.95280781802511,0.748340525545,1,1,"Daniels, Les,",The black castle,stew | teamred | chihorror
+21519,1978,1978,1952,1978,m,us,12.190820399185794,0.104481186175,1,1,"Estleman, Loren D,",Sherlock Holmes vs. Dracu,teamred | chimyst | chihorror
+21542,1978,1978,1947,1978,m,us,12.122436919068665,0.559032003471,1,1,"King, Stephen,",The stand,stew | teamred | chihorror
+21579,1978,1978,1943,1978,m,us,13.310672380013543,0.392543906358,0,1,"Swift, Edward,",Splendora,teamred | chirandom
+21607,1979,1979,1935,1979,m,us,12.077366764270899,0.649981559092,0,1,"Cline, C. Terry,",Cross current,teamblack | chirandom
+21631,1979,1979,1947,1979,m,us,11.374184672146125,0.442953068537,1,1,"King, Stephen,",The dead zone,teamblack | chihorror | stew | chiscifi
+21686,1980,1980,0,1980,f,us,12.347924784050889,0.369173145379,1,1,"Andrews, V. C.  (Virginia",Petals on the wind,teamred | chihorror
+21739,1980,1980,1932,1980,m,us,11.132892628923111,0.341216940993,0,1,"Jakes, John,",The Americans,teamblack | chirandom
+21920,1982,1982,0,1982,f,us,12.242331406240526,0.515465073211,1,1,"Andrews, V. C.  (Virginia",My sweet Audrina,teamblack | chihorror | stew
+21967,1982,1982,1911,1982,m,us,10.900324897594288,0.458416606025,0,1,"Hubbard, L. Ron,",Battlefield earth,chiscifi | teamred | chirandom
+22498,1986,1986,1946,1986,m,us,10.833586853556831,0.453754902946,1,1,"Foster, Alan Dean,",Into the out of,chiscifi | teamred | stew | chihorror
+22692,1987,1987,1953,1987,m,us,11.846379524020861,0.116754916962,0,1,"Hiaasen, Carl,",Double whammy,teamred | chirandom | chimyst
+22708,1987,1987,1947,1987,m,us,11.74130841007744,0.73399214595,1,1,"King, Stephen,",Misery,teamred | pbgothic | chihorror
+22787,1987,1987,1943,1987,m,us,11.862203834499136,0.298143443371,0,1,"Swift, Edward,",A place with promise,teamred | chirandom
+23059,1989,1989,1940,1989,m,us,11.36879597582968,0.549307851773,1,1,"Cook, Robin,",Mutation,chiscifi | teamred | stew | chihorror
+23075,1989,1989,0,1989,f,us,11.472662593607081,0.463572367782,0,1,"Dunlap, Susan,",Pious deception,stew | teamred | chirandom | chimyst
+23126,1989,1989,1950,1989,f,us,12.388332327045573,0.711739387037,1,1,"Lackey, Mercedes,",Burning water,teamblack | chimyst | chihorror | chifantasy
+23139,1989,1989,1936,1989,m,us,12.035972000179179,0.421269382433,0,1,"McMurtry, Larry,",Some can whistle,teamblack | chirandom
+23200,1989,1989,1952,1989,m,us,11.415225600138138,0.527139125668,1,1,"Somtow, S. P,",Moon dance,teamblack | chihorror | stew
+23231,1989,1989,1954,1989,m,us,11.657118456379171,0.270891739217,0,1,"Weinstein, Howard,",Power hungry,teamblack | chiscifi | chirandom | stew
+23965,1993,1993,0,1993,,us,12.539671355121886,0.837573711231,1,1,"Rice, Anne,",The tale of the body thief,chihorror
+24118,1994,1994,0,1994,m,us,11.55130679949449,0.515610368296,1,1,"Wilson, Robert Charles,",Mysterium,chihorror
+24133,1995,1995,0,1995,m,us,12.32609415938462,0.558830023102,1,1,"Blaylock, James P.",All the bells on earth,chihorror
+24174,1995,1995,0,1995,f,us,11.935145168627523,0.595274390991,1,1,"Due, Tananarive,",The between,chihorror
+24491,1997,1997,0,1997,f,us,13.868328204618944,0.695214414258,0,1,"Gabaldon, Diana,",Drums of autumn,chirandom | chifantasy
+24518,1997,1997,0,1997,m,us,12.624211712511464,0.526106908071,1,1,"King, Stephen,",The green mile,chihorror
+24564,1997,1997,0,1997,f,us,13.215616018153256,0.822780290894,1,1,"Rice, Anne,",Memnoch the Devil,chihorror
+25429,1993,1993,0,1993,m,us,9.951087461713675,0.268534338672,0,1,"Watkins, Paul,",The promise of light,chirandom
+25445,1994,1994,0,1994,m,us,11.831751837290783,0.34615044721,0,1,"Block, Lawrence,",A long line of dead men,chirandom
+25606,1995,1995,0,1995,f,us,22.286719219616305,0.139186105606,0,1,"Reich, Tova,",The Jewish war,chirandom
+25620,1995,1995,0,1995,f,us,12.346725214468181,0.59038581856,0,1,"Shigekuni, Julie,",A bridge between us,chirandom
+25723,1996,1996,0,1996,f,us,12.427583760601951,0.491137830851,0,1,"Straight, Susan,",The gettin place,chirandom

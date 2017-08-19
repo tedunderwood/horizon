@@ -1,0 +1,109 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+10008,1923,1923,1875,1923,m,us,12.753028573764876,0.996939962379,1,1,"Burroughs, Edgar Rice,",Pellucidar,chiscifi | teamred | stew
+10235,1925,1925,1875,1925,m,us,12.704924523264463,0.861744535809,1,1,"Burroughs, Edgar Rice,",The moon men,chiscifi | stew | teamblack
+11018,1923,1923,1866,1923,m,uk,11.301575751494534,0.950426887893,1,1,"Wells, H. G.",Men like gods,chiscifi | teamred | stew
+11022,1925,1925,1873,1925,m,uk,12.139289032824253,0.0483435100927,0,1,"Ford, Ford Madox,",No more parades,teamred | chirandom
+11274,1901,1929,1865,1901,m,uk,26.63508405584425,0.968545316521,1,1,"Shiel, M. P.",The purple cloud,chiscifi | chifantasy | teamblack
+4528,1921,1921,1875,1921,m,us,13.24755508762602,0.0264034907339,1,1,"Burroughs, Edgar Rice,",The mucker,chiscifi | teamblack
+4599,1921,1921,1894,1921,m,us,12.760508301556836,0.000109471838277,0,1,"Nathan, Robert,",Autumn,teamred | chirandom
+4655,1922,1922,1875,1922,m,us,13.253663148197145,0.962488485746,1,1,"Burroughs, Edgar Rice,",The chessmen of Mars,chiscifi | stew | teamblack
+4730,1922,1922,1868,1922,f,us,11.787576464284752,0.0015654549277,0,1,"Sampson, Emma Speed,",The shorn lamb,chirandom | teamblack
+4748,1922,1922,1877,1922,m,us,12.433058680333959,0.985258584667,0,1,"Traprock, Walter E.",My northern exposure,chirandom | teamblack
+coo.31924013525971,1908,1908,1855,1908,m,uk,13.381184352643084,0.00502838015578,0,1,"Moore, Frank Frankfort,",An amateur adventuress,teamred | random
+coo.31924051019580,1912,1912,1859,1912,m,uk,13.64482092763171,0.982564961477,1,1,"Doyle, Arthur Conan,",The lost world,teamred | stew | anatscifi
+dul1.ark+=13960=t16m3xm4f,1922,1922,1872,1922,f,uk,13.703713337871076,0.986852133217,1,1,"Hamilton, Cicely,",Theodore savage,teamred | femscifi | anatscifi
+dul1.ark+=13960=t1qf9cr59,1906,1906,1851,1906,m,uk,15.051131346528766,0.626949369637,1,1,"Ford, Douglas Morey.",A time of terror,locscifi | stew | teamblack
+dul1.ark+=13960=t3dz0xh78,1880,1880,1836,1880,m,uk,19.461840221770622,0.99986199023,1,1,"Greg, Percy,",Across the zodiac,locscifi | teamblack | anatscifi
+dul1.ark+=13960=t3zs3df24,1888,1888,1833,1888,m,us,14.821106551112745,0.998497314255,1,1,"De Mille, James,",A strange manuscript foun,locscifi | teamblack | anatscifi
+dul1.ark+=13960=t66401k8k,1888,1888,1850,1888,m,us,16.94967105893193,0.995589362227,1,1,"Bellamy, Edward,","Looking backward, 2000-18",teamred | stew | locscifi | anatscifi
+dul1.ark+=13960=t80k32x0x,1899,1899,1866,1899,m,uk,12.877032787126284,0.999241182101,1,1,"Wells, H. G.",When the sleeper wakes,teamred | locscifi
+dul1.ark+=13960=t95723c7j,1872,1897,1842,1872,m,fr,16.43629947732159,0.999949472467,1,1,"Flammarion, Camille,",Lumen,stew | teamblack | anatscifi
+dul1.ark+=13960=t98637h6g,1895,1895,1866,1895,m,uk,13.727512595113732,0.995717974877,1,1,"Wells, H. G.",The time machine;,teamred | stew | locscifi | anatscifi
+EllisSteamManPrairies1868,1868,1880,1840,1868,m,us,16.33148567331561,0.986718362271,1,1,"Ellis, Edward S.",The Steam Man of the Prairies,stew | teamblack | anatscifi
+inu.30000042750632,1901,1901,1865,1901,f,au,15.450395861285811,0.110413929095,1,1,"Ling, M. A. Moore Bentley",A woman of Mars,teamred | femscifi
+inu.30000118528748,1913,1913,0,1913,m,uk,15.865377449595806,0.20229297167,0,1,"Knight, Arthur Lee.",Told in the Indian twilig,teamred | random
+LindsayVoyageToArcturus1920,1920,1920,1876,1920,m,uk,12.936716134756544,0.929830375326,1,1,"Lindsay, David,",Voyage To Arcturus,teamred | chifantasy | stew | anatscifi
+mdp.39015000541717,1885,1885,1839,1885,m,uk,25.45931543854763,0.994576620695,0,1,"Pater, Walter,",Marius the Epicurean,teamred | random
+mdp.39015001553547,1912,1915,1876,1912,m,us,13.681614520694488,0.97290402359,1,1,"London, Jack,",The scarlet plague,stew | teamblack | anatscifi
+mdp.39015004307362,1870,1873,1828,1870,m,fr,14.706082066322459,0.993687345015,1,1,"Verne, Jules,",Twenty thousand leagues u,teamred | anatscifi
+mdp.39015007007282,1889,1889,1834,1889,m,us,16.560190351599854,0.999518976835,1,1,"Stockton, Frank Richard,",The great war syndicate,teamred | anatscifi
+mdp.39015010330341,1877,1877,1822,1877,f,uk,19.070649311394334,0.988462634986,1,1,"Cobbe, Frances Power,",The age of science,teamred | stew | femscifi
+mdp.39015030365178,1903,1904,1842,1903,m,fr,17.008341808410073,0.57569465822,0,1,"Lafargue, Paul,",The sale of an appetite,teamblack | random
+mdp.39015031235545,1920,1920,1861,1920,m,uk,13.427813489381641,0.00776499276533,0,1,"Hewlett, Maurice,",The light heart,teamred | random
+mdp.39015031332862,1913,1913,1873,1913,m,uk,13.668843711988323,0.878920274342,1,1,"Beresford, J. D.",Goslings,teamred | anatscifi
+mdp.39015059642994,1886,1903,1850,1886,m,uk,15.702833202603358,0.732525327851,1,1,"Stevenson, Robert Louis,",Strange case of Dr. Jekyl,teamred | stew | anatscifi | pbgothic
+mdp.39015062658789,1881,1881,1844,1881,f,us,18.033912493786435,2.50755250729e-05,0,1,"Sidney, Margaret,",Five little Peppers and h,teamblack | random
+mdp.39015063941135,1907,1907,1850,1907,f,us,15.956637857705239,0.404264724411,0,1,"Murfree, Mary Noailles,",The windfall;,teamred | random
+mdp.39015063949229,1894,1894,1862,1894,m,uk,13.062884146810083,0.0248558409422,0,1,"Scott, Hugh Stowell,",With edged tools;,teamblack | random
+mdp.39015066036578,1889,1896,1835,1889,m,us,15.518650775010194,0.455160246482,1,1,"Twain, Mark,",A Connecticut Yankee in K,stew | teamblack | anatscifi
+mdp.39015078569723,1880,1880,1836,1880,m,uk,16.80306930489657,0.339668651938,1,1,"Greg, Percy,",Across the zodiac,teamred | anatscifi
+njp.32101013621246,1887,1906,1841,1887,m,uk,21.2678696477483,0.298356589689,1,1,"Hudson, W. H.",A crystal age,teamred | anatscifi
+njp.32101021206436,1901,1901,1866,1901,m,uk,12.609045809391421,0.999347286666,1,1,"Wells, H. G.",The first men in the moon,locscifi | teamblack | anatscifi
+njp.32101063580995,1903,1903,1866,1903,m,us,16.55414279309388,0.118707548251,0,1,"Isham, Frederic Stewart,",Under the rose,teamred | random
+njp.32101067641678,1878,1878,1812,1878,m,ge,13.881683189988054,0.000449382328626,0,1,"Auerbach, Berthold,",Landolin,teamred | random
+njp.32101068138443,1892,1892,1851,1892,m,us,15.848283272717136,0.999255283622,1,1,"Bradshaw, William R.",The goddess of Atvatabar,locscifi | teamblack
+nnc1.cu01664417,1900,1917,1869,1900,m,us,14.38580552918027,0.00327340127703,0,1,"Tarkington, Booth,",Monsieur Beaucaire,teamblack | random
+nyp.33433039680552,1890,1890,1831,1890,m,us,15.88657155226521,0.991584096684,1,1,"Donnelly, Ignatius,",C?sar's column,teamred | anatscifi
+nyp.33433074818778,1880,1880,1844,1880,m,us,18.775285255677108,0.99380399008,1,1,"Cowan, Frank,",Revi-Lona,locscifi | teamblack
+nyp.33433074850870,1904,1904,1870,1904,m,uk,13.660645425733172,0.99714793615,1,1,"Harris-Burland, J. B.",The Princess Thora,teamred | locscifi
+nyp.33433074850961,1905,1905,0,1905,m,us,17.578778187757248,0.0788217347055,1,1,"Harper, Vincent.",The mortgage on the brain,stew | teamblack | anatscifi
+nyp.33433074857248,1905,1909,1879,1905,m,uk,13.197069047880069,0.0114535343975,0,1,"Gibbon, Perceval,",Salvator,teamblack | random
+nyp.33433074864889,1888,1888,1836,1888,m,uk,15.77742383920451,0.155371684873,0,1,"Goodman, E. J.",Too curious,teamred | random | supernatural
+nyp.33433074866413,1898,1908,1865,1898,m,uk,14.281603356743275,0.166856173881,0,1,"Kipling, Rudyard,",The day's work,teamred | random
+nyp.33433074870282,1907,1907,1861,1907,m,uk,14.569422944386913,0.00253974291222,0,1,"Hewlett, Maurice,",The stooping lady,teamred | random
+nyp.33433074880075,1871,1871,1837,1871,f,uk,17.755305999208254,0.000358225407552,0,1,"Marryat, Florence,",Her lord and master,teamblack | random
+nyp.33433074897426,1896,1913,1864,1896,m,uk,15.671741812778,0.00376335956188,0,1,"Merrick, Leonard,",This stage of fools,teamred | random
+nyp.33433074926712,1920,1920,1867,1920,m,uk,15.07488882262774,0.0192685905128,0,1,"Benson, E. F.","""Queen Lucia""",teamred | random
+nyp.33433074939723,1888,1888,1836,1888,m,uk,14.757639363480635,0.916502268925,1,1,"Besant, Walter,",The inner house,stew | teamblack | anatscifi
+nyp.33433074954656,1902,1902,0,1902,m,us,15.968508737582304,0.502806647823,1,1,"Owen, Harle Oren.",Welsh rarebit tales,teamred | locscifi
+nyp.33433075727168,1893,1893,1866,1893,m,uk,14.049661985166782,0.971369017834,1,1,"Fawcett, E. Douglas",Hartmann the anarchist,teamblack | anatscifi
+nyp.33433075737753,1890,1891,1848,1890,m,ah,14.124968258189693,0.0208312457791,0,1,"Franzos, Karl Emil,",Judith Trachtenberg,teamred | random
+nyp.33433075746812,1920,1920,1892,1920,m,uk,13.874406559055794,0.59837140167,1,1,"Shanks, Edward,",The people of the ruins,stew | teamblack | anatscifi
+nyp.33433075746895,1909,1911,1851,1909,m,us,15.943418897216182,0.999345866746,1,1,"Serviss, Garrett Putman,",A Columbus of space,locscifi | teamblack | anatscifi
+nyp.33433075761720,1888,1888,1838,1888,m,uk,13.165255748012028,0.406573122035,0,1,"Farjeon, B. L.",Miser Farebrother,teamblack | random
+nyp.33433075766463,1908,1908,1867,1908,f,uk,15.6726858838771,0.00584811990881,0,1,"Perrin, Alice,",The stronger claim,teamred | random
+nyp.33433075818611,1876,1878,1842,1876,f,fr,15.915895144373636,0.00636095110023,0,1,"Gr?ville, Henry,",Marrying off a daughter,teamred | random
+nyp.33433075827018,1893,1894,1842,1893,m,fr,19.836321191185647,0.999997314733,1,1,"Flammarion, Camille,",Omega: the last days of t,teamblack | anatscifi
+nyp.33433075843544,1892,1892,1833,1892,m,fr,16.58579126396519,0.00061397115928,0,1,"Theuriet, Andr?,",A young man of the period,teamred | random
+nyp.33433076024060,1900,1900,1858,1900,m,us,15.724938974274588,0.994603418656,1,1,"Osborne, Duffield,",The secret of the crater,teamred | stew | locscifi
+nyp.33433076056781,1891,1891,0,1891,m,,12.488963842880882,0.755866319903,1,1,"Ward, Herbert Dickinson,",A republic without a pres,locscifi | stew | teamblack
+nyp.33433076060874,1865,1865,1801,1865,m,us,17.62134938239269,0.317410913512,0,1,"Murdoch, David.",The Royalist's daughter a,teamred | random
+nyp.33433079897819,1892,1892,1842,1892,m,us,14.566401321254007,0.456238475906,0,1,"Bierce, Ambrose,",The monk and the hangman',teamblack | random
+nyp.33433082173273,1894,1894,1864,1894,m,us,17.769917704618226,0.676501867696,1,1,"Astor, John Jacob,",A journey in other worlds,stew | teamblack | anatscifi
+uc1.31822033251729,1922,1922,1883,1922,m,au,16.07876655198399,0.00266314955276,0,1,"Forrest, Michael D",Father Justin,teamred | random
+uc1.32106001959946,1904,1904,1866,1904,m,uk,13.07700789346146,0.854545103633,1,1,"Wells, H. G.",The food of the gods and ,locscifi | teamblack | anatscifi
+uc1.32106002123104,1922,1922,1885,1922,m,us,15.12117870001603,0.00212363704185,0,1,"Lewis, Sinclair,",Babbitt,teamred | random
+uc1.b117774,1886,1887,1828,1886,m,fr,13.960121853634707,0.99552390933,1,1,"Verne, Jules,",The clipper of the clouds,teamred | locscifi | anatscifi
+uc1.b244810,1898,1898,1865,1898,m,uk,16.550140003627526,0.941361084888,1,1,"Shiel, M. P.",The yellow danger,teamblack | anatscifi
+uc1.b249543,1898,1898,1831,1898,f,uk,14.63856081556585,0.00533141548309,0,1,"Barr, Amelia Edith Huddle",The lost silver of Briffa,teamblack | random
+uc1.b3324205,1906,1913,1867,1906,m,uk,12.690829541625128,0.0298400748417,0,1,"Cullum, Ridgwell,",The night-riders;,teamblack | random
+uc1.b3578701,1880,1880,1836,1880,m,uk,17.66598768422174,0.844178044474,1,1,"Greg, Percy,",Across the zodiac,locscifi | teamblack | anatscifi
+uc1.b3578887,1897,1897,1859,1897,f,us,15.132337434884315,0.968410996821,1,1,"Wait, Frona Eunice,",Yermah the Dorado,teamred | femscifi
+uc1.b4095602,1913,1913,1873,1913,m,uk,12.397371263965143,0.0247198667365,0,1,"Ford, Ford Madox,",Mr. Fleight,teamblack | random
+uc2.ark+=13960=t0js9hc64,1887,1887,1883,1887,f,us,14.882249344975822,0.000202465926526,0,1,"Clarke, Rebecca Sophia,",Drones' honey,teamblack | random
+uc2.ark+=13960=t0xp6w75n,1912,1912,1878,1912,m,us,24.7756638981461,0.227426530927,0,1,"Rose, William Ganson,",Putting Marshville on the,teamblack | random
+uc2.ark+=13960=t10p0xs0f,1908,1908,1883,1908,m,us,15.210971439510534,0.191161788862,1,1,"Harding, Ellison.",The woman who vowed,locscifi | teamblack
+uc2.ark+=13960=t17m0b23x,1895,1895,0,1895,m,,13.146724012009559,0.0809138592313,1,1,"Besant, Walter,",Beyond the dreams of avar,teamred | stew | locscifi
+uc2.ark+=13960=t1dj5cf2j,1886,1920,1853,1886,m,fr,14.896109021426508,0.162834974137,0,1,"Lema?tre, Jules,",Serenus and other stories,teamred | random
+uc2.ark+=13960=t2794143s,1912,1917,1875,1912,m,us,16.43514102186682,0.999104060942,1,1,"Burroughs, Edgar Rice,",A princess of Mars,teamred | anatscifi
+uc2.ark+=13960=t3pv6dr2h,1911,1911,1880,1911,m,us,13.38574900135049,0.0758966757343,0,1,"Pearson, Edmund Lester,",The librarian at play,teamblack | random
+uc2.ark+=13960=t45q4sn3p,1893,1894,1857,1893,m,uk,16.870786465755035,0.972872877709,1,1,"Griffith, George Chetwynd",The angel of the revoluti,teamblack | anatscifi
+uc2.ark+=13960=t48p64044,1894,1894,1832,1894,m,uk,15.543165514807814,0.0103006518526,0,1,"Henty, G. A.",When London burned,teamblack | random
+uc2.ark+=13960=t4bn9zk9h,1887,1888,1847,1887,m,us,13.123678364155232,0.038690324785,0,1,"Fawcett, Edgar,",Olivia Delaplaine,teamred | random
+uc2.ark+=13960=t5db7zr5v,1879,1879,1839,1879,m,us,14.642201804934656,0.0615857447618,0,1,"Adams, Robert Chamblet,","On board the ""Rocket""",teamblack | random
+uc2.ark+=13960=t6251m863,1871,1871,1838,1871,m,uk,14.183747045074622,0.0212492080389,0,1,"Farjeon, B. L.",Joshua Marvel,teamblack | random
+uc2.ark+=13960=t7hq41f5s,1909,1909,1858,1909,m,uk,13.505874345753341,0.0124541264171,0,1,"Ayscough, John,",A Roman tragedy and other,teamblack | random
+uc2.ark+=13960=t7tm74c51,1904,1904,1870,1904,m,us,15.858615627766648,0.696959159093,0,1,"Orcutt, William Dana,",Robert Cavelier,teamred | random
+uc2.ark+=13960=t9668pw05,1894,1894,1833,1894,m,fr,14.803982793022577,0.00671956901361,0,1,"Theuriet, Andr?,",The Abb? Daniel,teamblack | random
+uc2.ark+=13960=t9s17v81t,1909,1909,1852,1909,m,us,14.606295412430548,0.000109077331248,0,1,"Egan, Maurice Francis,",The wiles of Sexton Magin,teamblack | random
+uiuo.ark+=13960=t0ft97228,1876,1876,1830,1876,m,uk,15.010461942817285,0.00149247351515,0,1,"Robinson, Frederick Willi",As long as she lived,teamred | random
+uiuo.ark+=13960=t48p6974b,1868,1868,1813,1868,m,uk,16.087251604467006,0.0361490901653,0,1,"Capes, J. M.",The mosaic-worker's daugh,teamblack | random
+uiuo.ark+=13960=t58d0ds3h,1868,1868,0,1868,m,uk,14.064689314289812,7.8096943968e-05,0,1,"Knight, Legh.",Tonic bitters,teamred | random
+uiuo.ark+=13960=t7cr65585,1886,1886,1855,1886,f,uk,15.847218017849682,0.846075053564,1,1,"Corelli, Marie,",A romance of two worlds,locscifi | teamred | femscifi
+uiuo.ark+=13960=t9474zg09,1883,1883,1829,1883,m,uk,19.400586059400442,0.0182691583383,0,1,"Oliphant, Laurence,",Altiora Peto,teamred | random
+uva.x000380956,1865,1874,1828,1865,m,fr,15.975833941623586,0.99798343025,1,1,"Verne, Jules,",From the Earth to the Moo,teamred | stew | anatscifi
+uva.x000459624,1897,1897,1840,1897,m,uk,14.793695858628631,0.027083504216,0,1,"Hardy, Thomas,",The well-beloved;,teamblack | random
+uva.x000674483,1888,1888,1851,1888,f,uk,15.037266330566567,0.196192624787,0,1,"Ward, Humphry,",Robert Elsmere,teamblack | random
+uva.x000676502,1899,1899,1846,1899,m,us,11.557112770105094,0.0397833512647,0,1,"Thornton, Marcellus Eugen","My ""budie"" and I",teamred | random
+uva.x030223689,1871,1871,1803,1871,m,uk,19.684316602488575,0.998009856028,1,1,"Lytton, Edward Bulwer Lyt",The coming race,teamblack | anatscifi
+uva.x030743237,1880,1880,1838,1880,m,us,15.878532969074973,0.00193381371887,0,1,"Scudder, Horace Elisha,",Doings of the Bodley fami,teamblack | random

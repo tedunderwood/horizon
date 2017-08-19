@@ -1,0 +1,427 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,author,title,genretags
+10008,1923,1923,1875,1923,m,us,12.753028573764876,0.979524152636,1,1,"Burroughs, Edgar Rice,",Pellucidar,chiscifi | stew | teamred
+10053,1928,1928,1875,1928,m,us,13.993864060792692,0.978944650219,1,1,"Burroughs, Edgar Rice,",The master mind of Mars,chiscifi | teamblack
+10083,1930,1930,1875,1930,m,us,14.59300849767979,0.991949830547,1,1,"Burroughs, Edgar Rice,",Tarzan at the earth's cor,chiscifi | chifantasy | teamred
+10086,1930,1930,1862,1930,m,us,13.65525017629752,0.368045868006,0,1,"Stratemeyer, Edward,",With Taylor on the Rio Gr,chirandom | teamblack
+10090,1931,1931,1887,1931,m,us,10.966917073011846,0.999451392518,1,1,"Cummings, Ray,",Brigands of the moon,chiscifi | teamblack
+10096,1931,1931,1884,1931,m,us,12.686190967434923,0.972798635833,1,1,"Merritt, Abraham,",Face in the abyss,chiscifi | teamred
+10181,1946,1946,1905,1946,f,us,12.022415406300103,0.911557391811,1,1,"Rand, Ayn,",Anthem,chiscifi | teamred
+10202,1950,1950,1909,1950,m,us,13.19390350885388,0.0297811211445,0,1,"Castor, Henry,",The year of the Spaniard,chirandom | teamred
+10235,1925,1925,1875,1925,m,us,12.704924523264463,0.664412229335,1,1,"Burroughs, Edgar Rice,",The moon men,chiscifi | stew | teamblack
+10269,1927,1927,1876,1927,f,us,11.606560230966023,0.0828275992015,0,1,"Glaspell, Susan,",A jury of her peers,chirandom | teamred | chimyst
+10270,1927,1927,1865,1927,f,us,12.352483130842243,0.040394798417,0,1,"Hill, Grace Livingston,",Job's niece,chirandom | teamblack
+10301,1929,1929,1875,1929,m,us,13.972075284564227,0.942226049356,1,1,"Burroughs, Edgar Rice,",Tanar of Pellucidar,chiscifi | stew | teamred
+10302,1929,1929,1875,1929,m,us,13.540898759202483,0.860627259046,1,1,"Burroughs, Edgar Rice,",The monster men,chiscifi | stew | teamred
+10310,1929,1929,1891,1929,m,us,13.416188875680884,0.995537352372,1,1,"Kline, Otis Adelbert,",The planet of peril,chiscifi | stew | teamblack
+10312,1929,1929,1885,1929,m,us,15.533388096208158,0.0118491379478,0,1,"Lewis, Sinclair,",Dodsworth,chirandom | teamblack
+10336,1930,1930,1891,1930,m,us,15.17521984756884,0.99933216752,1,1,"Kline, Otis Adelbert,",Maza of the moon,chiscifi | stew | teamred
+10337,1930,1930,1891,1930,m,us,13.923613856297479,0.996663906867,1,1,"Kline, Otis Adelbert,",The prince of peril,chiscifi | teamblack
+10353,1931,1931,1865,1931,f,us,13.416108652587878,0.00806916793452,0,1,"Hill, Grace Livingston,",The chance of a lifetime,chirandom | teamred
+10355,1931,1931,1896,1931,m,us,11.705205792217711,0.930164440393,1,1,"Leinster, Murray,",Murder madness,chiscifi | teamblack
+10357,1931,1931,1884,1931,m,us,12.687421658258257,0.972815262652,1,1,"Merritt, Abraham,",The face in the abyss,chiscifi | chifantasy | teamblack
+10361,1931,1931,1895,1931,m,us,13.11816130109724,0.625741008282,1,1,"Schuyler, George S.",Black no more,chiscifi | teamblack
+10362,1931,1931,1892,1931,m,us,11.791761684442562,0.279594923296,1,1,"Smith, Thorne,",The night life of the god,chiscifi | chifantasy | teamblack
+10377,1932,1932,1896,1932,m,us,11.009967563188155,0.00539237241796,0,1,"Dos Passos, John,",1919,chirandom | teamred
+10476,1935,1935,1885,1935,m,us,16.85492821458102,0.28943788098,1,1,"Lewis, Sinclair,",It can't happen here,chiscifi | teamred
+10526,1937,1937,1866,1937,m,us,13.495206493755008,0.995373735912,1,1,"Pseudoman, Akkad,",Zero to eighty,chiscifi | chirandom | teamblack
+10531,1937,1937,1902,1937,m,us,10.462682101355872,0.0531024580493,0,1,"Steinbeck, John,",Of mice and men,chirandom | teamred
+10542,1938,1938,1875,1938,m,us,12.59475790726507,0.33489166049,1,1,"Burroughs, Edgar Rice,",The lad and the lion,chiscifi | teamred
+10645,1941,1941,1884,1941,m,us,13.051396688450172,0.999727789193,1,1,"Merritt, Abraham,",The metal monster,chiscifi | stew | teamred
+10679,1942,1942,1884,1942,m,us,11.726379573831798,0.561626230977,1,1,"Merritt, Abraham,",Burn: witch: burn!,chiscifi | stew | teamred | chimyst
+10690,1942,1942,1876,1942,f,us,12.453874992994349,0.0721325676037,0,1,"Rinehart, Mary Roberts,",The door,chirandom | teamred | chimyst
+10733,1944,1944,1915,1944,f,us,10.641923482009876,0.0324581114708,0,1,"Brackett, Leigh,",No good from a corpse,chirandom | teamred | chimyst
+10736,1944,1944,1875,1944,m,us,13.110785777626788,0.940044917456,1,1,"Burroughs, Edgar Rice,",Land of terror,chiscifi | chifantasy | teamred
+10761,1944,1944,1905,1944,f,us,10.383677182194212,0.00249101974035,0,1,"Walker, Mildred",Winter wheat,chirandom | teamred
+10793,1945,1945,1874,1945,f,us,17.54665134480735,0.108094884854,0,1,"Stein, Gertrude,",Wars I have seen,chirandom | teamred
+10803,1946,1946,1903,1946,m,us,12.278526825391747,0.0592069146893,0,1,"Busch, Niven,",Day of the conquerors,chirandom | teamblack
+10808,1946,1946,1887,1946,m,us,10.850265659086698,0.996280898675,1,1,"Cummings, Ray,",The shadow girl,chiscifi | teamblack
+10827,1946,1946,1898,1946,m,us,12.034152670252487,0.633077817098,1,1,"Sherman, Harold M.",The green man,chiscifi | stew | teamblack
+10829,1946,1946,1883,1946,,us,12.189152787414256,0.996653075404,1,1,"Taine, John,",The time stream,chiscifi | stew | teamred
+10832,1946,1946,0,1946,,us,13.470082105981064,0.999220274886,1,1,"Van Vogt, A. E. 1912-  (A",Slan,chiscifi | stew | teamblack
+10834,1946,1946,1903,1946,m,us,12.89808713920296,0.99697826815,1,1,"Wellman, Manly Wade,",The solar invasion,chiscifi | teamred
+10835,1946,1946,1909,1946,f,us,14.096753978414565,0.00653635387995,0,1,"Welty, Eudora,",Delta Wedding,chirandom | teamblack
+10838,1947,1947,1906,1947,m,au,12.755305701900989,0.134181861621,0,1,"Blunden, Godfrey",A Room on the Route,chirandom | teamblack
+10853,1947,1947,0,1947,m,us,11.405495564891563,0.953438849025,1,1,"Heinlein, Robert A.",Rocket ship Galileo,chiscifi | chirandom | teamred
+10862,1947,1947,1906,1947,m,us,11.827022877636372,0.154930161403,0,1,"Myers, John Myers,",The wild Yazoo,chirandom | teamred
+10874,1947,1947,1883,1947,,us,12.835299835123967,0.97113305384,1,1,"Taine, John,",The forbidden garden,chiscifi | teamred
+10911,1948,1948,0,1948,m,us,12.101839737036792,0.160669132911,0,1,"Queen, Ellery,",Ten days' wonder,teamblack | det100 | stew | chimyst | cozy | chirandom
+10916,1948,1948,1904,1948,m,us,11.972488796113094,0.966141848852,0,1,"Skinner, B. F.",Walden Two,chirandom | chiutopia | teamblack
+10917,1948,1948,1890,1948,m,us,14.889579779362608,0.999946350238,1,1,"Smith, E. E.",Skylark three,chiscifi | teamred
+10922,1948,1948,1897,1948,m,us,11.702914854192429,0.283263580332,0,1,"Wilder, Thornton,",The ides of March,chirandom | teamred
+10923,1948,1948,1908,1948,m,us,12.445077913483109,0.939297274616,1,1,"Williamson, Jack,",Darker than you think,chiscifi | chifantasy | chihorror | teamblack
+10954,1949,1949,1905,1949,m,us,12.382240558653695,0.156203573634,0,1,"Palmer, Stuart,",Four lost ladies,chirandom | teamblack | chimyst
+10968,1949,1949,1896,1949,m,us,12.76713145123696,0.994458144732,1,1,"Zagat, Arthur Leo,",Seven out of time,chiscifi | teamblack
+10970,1950,1950,1920,1950,m,us,12.546683017522659,0.989836594784,1,1,"Asimov, Isaac,",I: robot,chiscifi | stew | teamblack
+10986,1950,1950,1914,1950,m,us,17.75454145346203,0.0750476859499,0,1,"Fast, Howard,",The proud and the free,chirandom | teamblack
+11004,1950,1950,1909,1950,m,us,11.48094391640569,0.991827693464,1,1,"Phillips, Rog,",Worlds within,chiscifi | stew | chifantasy | teamred
+11007,1950,1950,1904,1950,f,us,12.547438847869607,0.0627882985539,0,1,"Seton, Anya,",Foxfire,chirandom | teamblack
+11013,1950,1950,1912,1950,m,us,12.287371369656078,0.713231452138,1,1,"Van Vogt, A. E. 1912-2000",The house that stood stil,chiscifi | chirandom | teamblack
+11018,1923,1923,1866,1923,m,uk,11.301575751494534,0.959466362538,1,1,"Wells, H. G.",Men like gods,chiscifi | stew | teamred
+11030,1927,1927,1882,1927,f,uk,17.369762410660023,0.0700629644148,0,1,"Woolf, Virginia,",To the lighthouse,chirandom | teamblack
+11043,1932,1932,1894,1932,m,uk,12.865054236557011,0.773902245213,1,1,"Huxley, Aldous,",Brave new world,chiscifi | chiutopia | teamblack
+11044,1932,1932,1894,1932,m,uk,13.80331763850907,0.0748381724453,0,1,"Morgan, Charles,",The fountain,chirandom | teamred
+11074,1942,1942,1898,1942,m,uk,14.537500687863846,0.932567532809,0,1,"Lewis, C. S.",The Screwtape letters,chirandom | chifantasy | teamblack
+11081,1944,1944,1882,1944,m,uk,10.988569614219802,0.036606817857,0,1,"Joyce, James,",Stephen hero,chirandom | teamred
+11096,1949,1949,1903,1949,m,uk,13.370826302545225,0.90865307961,1,1,"Orwell, George,",Nineteen eighty-four,chiscifi | teamblack
+11098,1950,1950,1919,1950,f,uk,14.770426442953555,0.0413000360987,0,1,"Lessing, Doris,",The grass is singing,stew | chirandom | teamred | chimyst
+11156,1925,1925,1862,1925,m,uk,12.920154834786734,0.114177003275,0,1,"Phillpotts, Eden,",A voice from the dark,stew | chirandom | det100 | teamblack
+11191,1927,1927,1875,1927,m,uk,13.19781652347118,0.0572760054745,0,1,"Buchan, John,",Witch wood,chirandom | chifantasy | teamblack
+11226,1928,1928,1873,1928,m,au,13.414894097916306,0.869668360701,1,1,"Cox, Erle,",Out of the silence,chiscifi | teamblack
+11234,1928,1928,1888,1928,m,uk,14.683786574926263,0.0643485612971,0,1,"Knox, Ronald Arbuthnott,",The footsteps at the lock,chirandom | det100 | teamred
+11242,1928,1928,1874,1928,m,uk,12.897736280413536,0.833966246733,1,1,"Wright, S. Fowler,",The island of Captain Spa,chiscifi | chifantasy | teamred
+11274,1901,1929,1865,1901,m,uk,26.63508405584425,0.673524884791,1,1,"Shiel, M. P.",The purple cloud,chiscifi | chifantasy | teamblack
+11277,1929,1929,1875,1929,m,uk,11.930151726687306,0.0315306173728,0,1,"Wallace, Edgar,",The lone house mystery,stew | chirandom | teamblack | chimyst
+11298,1930,1930,1882,1930,m,au,15.504811194674193,0.0634854411145,0,1,"Manning, Frederic,",Her privates: we,chirandom | teamblack
+11305,1930,1930,1886,1930,m,uk,15.807213592749667,0.999981932781,1,1,"Stapledon, Olaf,",Last and first men,chiscifi | stew | teamred
+11316,1931,1931,1882,1931,m,uk,13.62848302699404,0.200663168102,0,1,"Armstrong, Martin,",The romantic adventures o,chirandom | teamblack
+11323,1931,1931,1880,1931,m,uk,12.472625104177311,0.0248627043057,0,1,"Connington, J. J.",The boathouse riddle,chirandom | teamblack | chimyst
+11349,1931,1931,1886,1931,m,uk,13.7856672984674,0.630440762479,0,1,"Williams, Charles,",Many dimensions,chirandom | teamblack
+11364,1932,1932,1909,1932,f,uk,12.052262008304899,0.000161125691563,0,1,"Evans, Margiad,",Country dance,chirandom | teamred
+11383,1932,1932,1899,1932,m,uk,11.667734527339945,0.0151282647246,0,1,"Shute, Nevil,",Lonely road,chirandom | teamred
+11385,1932,1932,1886,1932,m,uk,16.087758651066157,0.998343337498,1,1,"Stapledon, Olaf,",Last men in London,chiscifi | teamred
+11396,1933,1933,1879,1933,f,au,11.973116871905223,0.113727259575,0,1,"Franklin, Miles,",Bring the monkey,chirandom | teamred | chimyst
+11469,1935,1935,1891,1935,m,au,11.452983100794771,0.0879890068465,0,1,"McKinney, J. P,",Crucible,chirandom | teamred
+11519,1937,1937,1904,1937,f,uk,11.69800155371878,0.077876249421,0,1,"Allingham, Margery,",Dancers in mourning,cozy | chirandom | teamred | chimyst
+11535,1937,1937,1899,1937,m,uk,14.484500671700705,0.130719183295,0,1,"Linklater, Eric,",Juan in China,chirandom | teamred
+11552,1937,1937,1866,1937,m,uk,12.29748384071896,0.982074083758,1,1,"Wells, H. G.",Star-begotten,chiscifi | teamred
+11575,1938,1938,1906,1938,f,nz,15.194256101470458,0.0139195384279,0,1,"Hyde, Robin,",The godwits fly,chirandom | teamred
+11584,1938,1938,1894,1938,m,uk,15.228001142452587,0.109388732334,1,1,"Priestley, J. B.",The doomsday men,chiscifi | teamred
+11591,1938,1938,1874,1938,m,uk,15.550880841516845,0.982725785138,1,1,"Wright, S. Fowler,",The adventure of Wyndham ,chiscifi | stew | chirandom | chiutopia | teamblack
+11592,1939,1939,1916,1939,m,us,10.237188169885409,0.106199104784,0,1,"Allan, Ted,",This time a better earth,chirandom | teamred
+11675,1941,1941,1890,1941,f,uk,11.379108481283465,0.080853417743,0,1,"Christie, Agatha,",N or M?,cozy | chirandom | teamblack | chimyst
+11711,1942,1942,1886,1942,m,uk,14.749895844631572,0.999943356673,1,1,"Stapledon, Olaf,",Darkness and the light,chiscifi | teamred
+11730,1943,1943,1895,1943,f,nz,11.913987057889482,0.0924959469855,0,1,"Marsh, Ngaio,",Colour scheme,cozy | chirandom | teamred | chimyst
+11778,1945,1945,1898,1945,m,uk,12.221340284663912,0.503267643628,1,1,"Lewis, C. S.",That hideous strength,chiscifi | chifantasy | teamblack
+11803,1946,1946,1899,1946,m,uk,13.25861276668492,0.439642705055,0,1,"Forester, C. S.",Lord Hornblower,chirandom | teamblack
+11809,1946,1946,1905,1946,m,uk,12.953975460945745,0.227123040384,0,1,"Koestler, Arthur,",Thieves in the night,chirandom | teamblack
+11829,1947,1947,1895,1947,m,uk,13.73874807153274,0.0163094892196,0,1,"Hartley, L. P.",Eustace and Hilda,chirandom | teamblack
+11836,1947,1947,1897,1947,f,uk,11.477349075802708,0.00897135448107,0,1,"Robins, Denise,",More than love,chirandom | teamred
+11877,1949,1949,1890,1949,f,uk,11.2719937725816,0.0489054277321,0,1,"Christie, Agatha,",Crooked house,cozy | chirandom | teamred | chimyst
+11882,1949,1949,0,1949,,uk,12.537659569406221,0.0196694967335,0,1,"Ferrars, E. X,",The March Hare murders,chirandom | teamred | chimyst
+11896,1949,1949,1878,1949,f,uk,11.841217100817135,0.00887447934156,0,1,"Wentworth, Patricia,",The Catherine-wheel,chirandom | teamred
+11900,1949,1949,1874,1949,m,uk,16.464575730695387,0.996926722551,1,1,"Wright, S. Fowler,",The Amphibians,chiscifi | teamred
+11927,1950,1950,1886,1950,m,uk,14.258575887008732,0.422752166894,1,1,"Stapledon, Olaf,",A man divided,chiscifi | teamred
+11932,1950,1950,1878,1950,f,uk,11.72911633166814,0.00685585909896,0,1,"Wentworth, Patricia,",Through the wall,chirandom | teamblack | chimyst
+20002,1951,1951,1920,1951,m,us,12.438942428457521,0.955452464785,1,1,"Asimov, Isaac,",Foundation,chiscifi | teamred
+20021,1951,1951,1916,1951,m,us,11.288106041152586,0.972018566217,1,1,"MacDonald, John D.",Wine of the dreamers,chiscifi | stew | teamblack
+20026,1951,1951,1910,1951,m,us,13.157851965245033,0.901334459231,1,1,"Merwin, Sam,",The house of many worlds,chiscifi | chirandom | teamred
+20041,1951,1951,1902,1951,m,us,13.030306785474002,0.886526255758,1,1,"Wylie, Philip,",The disappearance,chiscifi | stew | teamred
+20044,1952,1952,1920,1952,m,us,12.975748416452278,0.91265760581,1,1,"Asimov, Isaac,",Foundation and empire,chiscifi | stew | chirandom | teamblack
+20065,1952,1952,1915,1952,m,us,10.787528837699918,0.958462544991,1,1,"Jones, Raymond F.",Son of the stars,chiscifi | teamblack
+20070,1952,1952,1914,1952,m,us,12.042319390842641,0.0270973402182,0,1,"Malamud, Bernard",The natural,chirandom | teamblack
+20075,1952,1952,1908,1952,m,us,10.535373681301458,0.120618692643,0,1,"Powell, Richard,",A shot in the dark,chirandom | teamblack | chimyst
+20078,1952,1952,1918,1952,m,us,9.876644591273832,0.0851171627402,0,1,"Spillane, Mickey,",Kiss me: deadly,hardboiled | stew | chirandom | teamblack | chimyst
+20079,1952,1952,1922,1952,m,us,13.834171952491188,0.467313603851,1,1,"Vonnegut, Kurt,",Player piano,chiscifi | stew | chirandom | teamblack
+20083,1953,1953,1920,1953,m,us,13.034514875843332,0.969740601124,1,1,"Asimov, Isaac,",Second foundation,chiscifi | stew | chirandom | teamred
+20088,1953,1953,1920,1953,m,us,12.477692385036287,0.696250710405,1,1,"Bradbury, Ray,",Fahrenheit 451,chiscifi | stew | teamblack
+20089,1953,1953,1906,1953,m,us,11.814125320198078,0.730968820351,1,1,"Brown, Fredric,",The lights in the sky are,chiscifi | stew | chirandom | teamred
+20102,1953,1953,1905,1953,f,us,10.446816759410861,0.024317855703,0,1,"Lasswell, Mary,",Tooner Schooner,chirandom | teamred
+20106,1953,1953,1916,1953,m,us,11.464792733111404,0.934500836592,1,1,"Lowndes, Robert W,",Mystery of the third mine,chiscifi | teamred
+20114,1953,1953,1909,1953,m,us,11.921486009219294,0.823256685297,1,1,"Pangborn, Edgar,",West of the sun,chiscifi | stew | chirandom | teamblack
+20133,1954,1954,1915,1954,m,us,11.672846961648032,0.984743357297,1,1,"Del Rey, Lester,",Step to the stars,chiscifi | teamblack
+20136,1954,1954,1916,1954,m,us,14.637754650255225,0.0578019295214,0,1,"Foote, Shelby,",Jordan County,chirandom | teamred
+20139,1954,1954,0,1954,m,us,10.611728007807384,0.566835608996,1,1,"Heinlein, Robert A.",The star beast,chiscifi | stew | teamblack
+20151,1954,1954,1912,1954,m,us,11.179102222905447,0.0563028709856,0,1,"Manfred, Frederick Feikem",Lord Grizzly,chirandom | teamred
+20152,1954,1954,1926,1954,m,us,11.72877341687999,0.798057525122,1,1,"Matheson, Richard,",I am legend,chiscifi | pbgothic | chihorror | teamred
+20163,1954,1954,1916,1954,m,us,10.26550951171134,0.0674953756329,0,1,"Robbins, Harold,",Never leave me,chirandom | teamblack
+20194,1955,1955,1912,1955,f,us,14.084388473191284,0.02747911313,0,1,"McCarthy, Mary",A charmed life,chirandom | teamred
+20222,1956,1956,1915,1956,m,us,11.688007103285106,0.994848536961,1,1,"Del Rey, Lester,",Mission to the moon,chiscifi | teamblack
+20233,1956,1956,1907,1956,m,us,11.42250088597779,0.444915106739,1,1,"Heinlein, Robert A.",Double star,chiscifi | chirandom | teamred
+20240,1956,1956,1916,1956,m,us,10.440790621742275,0.0196675891556,0,1,"MacDonald, John D.",You live once,chirandom | teamblack
+20270,1957,1957,1928,1957,m,us,12.337953795141683,0.986513656577,1,1,"Dick, Philip K,",Eye in the sky,chiscifi | chirandom | teamblack
+20290,1957,1957,1897,1957,f,us,14.656569712212525,0.048224329548,0,1,"Malvern, Gladys,",My lady: my love,chirandom | teamblack
+20293,1957,1957,1911,1957,f,us,10.939477362719186,0.649462874262,1,1,"Moore, C. L.",Doomsday morning,chiscifi | teamred
+20335,1958,1958,1907,1958,f,us,12.26344940185984,0.0432914098916,0,1,"MacInnes, Helen,",North from Rome,chirandom | teamblack
+20350,1958,1958,1912,1958,m,us,15.22002140075332,0.0374692381181,0,1,"Taylor, Robert Lewis,",The travels of Jaimie McP,chirandom | teamred
+20352,1958,1958,1932,1958,m,us,14.059487289403368,0.109936331589,0,1,"Updike, John,",The poorhouse fair,chirandom | teamblack
+20370,1959,1959,1905,1959,m,us,10.741489653342779,0.983465331839,1,1,"Gantz, Kenneth Franklin,",Not in solitude,chiscifi | teamred
+20374,1959,1959,1907,1959,m,us,11.653193298412084,0.706093694338,1,1,"Heinlein, Robert A.",Starship troopers,chiscifi | stew | teamblack
+20380,1959,1959,0,1959,f,us,11.599268071144577,0.0323203483377,0,1,"Kirkland, Elithe Hamilton",Love is a wild assault,chirandom | teamblack
+20390,1959,1959,1903,1959,f,us,14.518786682194005,0.242409394268,0,1,"Nin, Anais,",Children of the albatross,chirandom | teamred
+20427,1960,1960,1928,1960,m,us,12.719358267885088,0.936563016022,1,1,"Sheckley, Robert,",Store of infinity,chiscifi | teamblack
+20428,1960,1960,1926,1960,m,us,13.722804802056213,0.117232514029,0,1,"Sigal, Clancy,",Weekend in Dinlock,chirandom | teamblack
+20450,1961,1961,1920,1961,m,us,11.80969037731036,0.981840300314,1,1,"Galouye, Daniel F,",Dark universe,chiscifi | stew | teamred
+20471,1961,1961,1916,1961,m,us,10.65924938404149,0.106357007808,0,1,"Robbins, Harold,",The carpetbaggers,chirandom | teamred
+20474,1961,1961,1886,1961,m,us,11.616133627909681,0.0253088842907,0,1,"Stout, Rex,",The final deduction,chirandom | teamblack | chimyst
+20480,1962,1962,1920,1962,m,us,14.257702856041108,0.56711200292,1,1,"Bradbury, Ray,",Something wicked this way,chiscifi | chihorror | teamblack
+20481,1962,1962,1914,1962,m,us,9.986243661212397,0.957987199723,0,1,"Burroughs, William S.",The ticket that exploded,chirandom | teamblack
+20485,1962,1962,1906,1962,m,us,12.716681956735169,0.965514640634,1,1,"Clifton, Mark,",When they come from space,chiscifi | teamblack
+20496,1962,1962,1927,1962,m,us,12.113726233335052,0.970394543007,1,1,"Garrett, Randall,",Unwise child,chiscifi | stew | teamred
+20505,1962,1962,1918,1962,f,us,12.049519603173101,0.720736478389,1,1,"L'Engle, Madeleine,",A wrinkle in time,chiscifi | chifantasy | teamblack
+20526,1962,1962,1886,1962,m,us,11.813264470083439,0.0332047138213,0,1,"Stout, Rex,",Gambit,chirandom | teamblack | chimyst
+20533,1963,1963,1900,1963,f,us,14.524694463849094,0.034097886885,0,1,"Caldwell, Taylor,",Grandmother and the pries,chirandom | teamblack
+20544,1963,1963,1922,1963,m,us,30.236592692962834,0.00987235871505,0,1,"Kerouac, Jack,",Visions of Gerard,chirandom | teamblack
+20563,1963,1963,1922,1963,m,us,12.142319049606959,0.177030550176,1,1,"Vonnegut, Kurt,",Cat's Cradle,chiscifi | teamblack
+20572,1964,1964,1914,1964,m,us,10.444701684574193,0.991150473742,1,1,"Burroughs, William S.",Nova Express,chiscifi | teamblack
+20573,1964,1964,1922,1964,m,us,13.072844806049718,0.993065273492,1,1,"Clement, Hal,",Close to critical,chiscifi | teamblack
+20582,1964,1964,1914,1964,m,us,15.060535194174463,0.259849581882,0,1,"Fast, Howard,",Agrippa's daughter,chirandom | teamblack
+20592,1964,1964,1932,1964,m,us,12.239945753894226,0.0350815909851,0,1,"Kim, Richard E.",The martyred,chirandom | teamred
+20620,1965,1965,0,1965,m,guyana,12.394191703600992,0.00656768382138,0,1,"Braithwaite, E. R.  (Edwa",Choice of straws,chirandom | teamblack
+20632,1965,1965,1928,1965,m,us,13.658212595025592,0.0925841992584,0,1,"Friedman, Sanford,",Totempole,chirandom | teamblack
+20642,1965,1965,1916,1965,m,us,11.485153872623817,0.134971031507,0,1,"MacDonald, John D.",A deadly shade of gold,chirandom | teamred | chimyst
+20648,1965,1965,1925,1965,m,us,11.624412395966996,0.843798362223,0,1,"Moore, Robin,",The green berets,chirandom | teamblack
+20655,1965,1965,1919,1965,m,us,11.27953994539926,0.991135329477,1,1,"Raphael, Rick,",Code three,chiscifi | stew | teamred
+20665,1965,1965,1903,1965,m,us,13.107498585836051,0.183691380153,0,1,"Traver, Robert,",Laughing whitefish,chirandom | teamblack
+20673,1966,1966,1920,1966,m,us,12.493181015567517,0.996259388008,1,1,"Asimov, Isaac,",Fantastic voyage,chiscifi | stew | teamred
+20677,1966,1966,1922,1966,m,us,11.853268485695017,0.0168814016364,0,1,"Capps, Benjamin,",A woman of the people,chirandom | teamred
+20683,1966,1966,1942,1966,m,us,11.93920038025621,0.971168585548,1,1,"Delany, Samuel R,",Babel-17,chiscifi | teamred
+20684,1966,1966,1928,1966,m,us,12.54105411461638,0.889023747001,1,1,"Dick, Philip K,",Now wait for last year,chiscifi | chirandom | teamblack
+20694,1966,1966,0,1966,m,us,11.94130930263335,0.985223299268,1,1,"Herbert, Frank,",The eyes of Heisenberg,chiscifi | teamred
+20709,1966,1966,1937,1966,m,us,15.240382912846714,0.483879027697,0,1,"Pynchon, Thomas,",The crying of lot 49,chirandom | teamblack
+20712,1966,1966,1911,1966,m,us,11.933174115957076,0.98693539347,1,1,"Schmitz, James H.",The witches of Karres,chiscifi | teamred
+20723,1966,1966,1937,1966,m,us,11.912994558095116,0.508780933071,1,1,"Zelazny, Roger,",This immortal,chiscifi | chifantasy | teamblack
+20727,1967,1967,1913,1967,f,us,11.658519667058398,0.014094466277,0,1,"Braun, Lilian Jackson,",The cat who ate Danish mo,chirandom | teamblack | chimyst
+20750,1967,1967,1895,1967,m,us,12.11010239536413,0.0238343181948,0,1,"McNichols, Charles Longstreth,",Crazy weather,chirandom | teamred
+20794,1968,1968,1927,1968,f,us,12.53329502967638,0.641090942518,0,1,"Peters, Elizabeth,",The jackal's head,chirandom | teamblack
+20819,1969,1969,1923,1969,m,us,13.619937147376982,0.69078358531,1,1,"Davidson, Avram,",The phoenix and the mirro,chiscifi | teamblack
+20820,1969,1969,1936,1969,f,us,12.888747365041702,0.0186983824745,0,1,"Davis, Gwen,",The pretenders,chirandom | teamred
+20821,1969,1969,1928,1969,m,us,12.541677063156508,0.971845419677,1,1,"Dick, Philip K,",Galactic pot-healer,chiscifi | teamred
+20837,1969,1969,1899,1969,m,us,18.61740322506837,0.217774007174,0,1,"Nabokov, Vladimir Vladimi",Ada,chirandom | teamblack
+20842,1969,1969,1903,1969,m,us,11.493890264773295,0.0307329642611,0,1,"Pentecost, Hugh,",Girl watcher's funeral,stew | chirandom | teamblack | chimyst
+20866,1970,1970,1926,1970,m,us,12.029526297633108,0.992114788772,1,1,"Anderson, Poul,",Tau zero,chiscifi | chirandom | teamblack
+20898,1970,1970,1944,1970,f,us,13.327915728888563,0.773639283511,1,1,"Kurtz, Katherine,",Deryni rising,chiscifi | chifantasy | teamblack
+20899,1970,1970,1908,1970,m,us,11.64462728949048,0.0308739926392,0,1,"L'Amour, Louis,",Galloway,chirandom | teamred
+20919,1970,1970,1935,1970,m,us,13.168141967578437,0.970863690041,1,1,"Silverberg, Robert,",Downward to the earth,chiscifi | teamblack
+20956,1971,1971,0,1971,m,us,15.185115476811442,0.98288748524,1,1,"Geissler, Ludwig A,",Looking beyond,chiscifi | stew | chiutopia | teamred
+20961,1971,1971,1941,1971,m,us,12.096419630966947,0.96240046899,1,1,"Hjortsberg, William,",Gray matters,chiscifi | teamred
+21028,1972,1972,1921,1972,f,us,11.874192675409109,0.00826964859488,0,1,"Highsmith, Patricia,",A dog's ransom,crime | chirandom | teamred
+21035,1972,1972,1929,1972,m,us,12.622300541495088,0.0248888155991,1,1,"Levin, Ira,",The Stepford wives,chiscifi | chihorror | teamblack
+21043,1972,1972,1943,1972,m,us,15.081186295237364,0.165603894362,0,1,"Millhauser, Steven,",Edwin Mullhouse,chirandom | teamred
+21079,1973,1973,1914,1973,m,us,13.788210409101106,0.488342674232,0,1,"Berryman, John,",Recovery,chirandom | teamred
+21088,1973,1973,1916,1973,f,us,11.193435419697948,0.00634566887061,0,1,"Davis, Dorothy Salisbury,",The little brothers,chirandom | teamblack | chimyst
+21094,1973,1973,1933,1973,m,us,16.05682644343186,0.61161919899,0,1,"Gardner, John,",Jason and Medeia,chirandom | teamred | chifantasy
+21104,1959,1973,1909,1959,m,us,11.810909465905297,0.0341113054313,0,1,"Himes, Chester B.",The crazy kill,hardboiled | chirandom | teamred | chimyst
+21114,1973,1973,1916,1973,m,us,11.243890946045802,0.146214272699,0,1,"MacDonald, John D.",The scarlet ruse,chirandom | teamred | chimyst
+21116,1973,1973,1939,1973,m,us,13.754685240165582,0.277303563863,1,1,"Malzberg, Barry N,",Herovit's world,chiscifi | chirandom | teamblack
+21126,1973,1973,1936,1973,f,us,11.100331965853867,0.0138311172888,0,1,"Piercy, Marge,",Small changes,chirandom | teamred
+21142,1973,1973,1945,1973,m,us,12.264167300285756,0.644748784429,0,1,"Spencer, Scott,",Last night at the brain t,chirandom | teamblack
+21147,1973,1973,1922,1973,m,us,12.320094977617632,0.475618870601,1,1,"Vonnegut, Kurt,",Breakfast of Champions,chiscifi | teamred
+21187,1974,1974,1929,1974,f,us,13.622298594426846,0.62484388669,1,1,"Le Guin, Ursula K.",The Dispossessed,chiscifi | chiutopia | teamred
+21221,1974,1974,1933,1974,m,us,13.926036409553213,0.450771811654,0,1,"Stark, Richard,",Butcher's moon,crime | chirandom | teamblack
+21286,1975,1975,1935,1975,m,us,13.830997729843887,0.893377030989,1,1,"Silverberg, Robert,",The stochastic man,chiscifi | stew | teamblack
+21288,1975,1975,1944,1975,m,us,13.19785836810815,0.765700553491,0,1,"Stasheff, Christopher,",The warlock in spite of h,chirandom | chifantasy | teamblack
+21304,1976,1976,1947,1976,f,us,11.232034718870043,0.890481429526,1,1,"Butler, Octavia E,",Patternmaster,chiscifi | chifantasy | teamred
+21330,1976,1976,1929,1976,m,us,11.492189992168232,0.0272316343204,0,1,"Jenkins, Dan,",Limo,chirandom | teamred
+21335,1976,1976,1908,1976,m,us,12.859834062755079,0.265575363155,0,1,"L'Amour, Louis,",To the Far Blue Mountains,chirandom | teamblack
+21351,1976,1976,1938,1976,m,us,10.505717615445107,0.993134671076,1,1,"Niven, Larry,",A world out of time,chiscifi | teamblack
+21355,1976,1976,1936,1976,f,us,11.539003729144529,0.166354885965,1,1,"Piercy, Marge,",Woman on the edge of time,chiscifi | chiutopia | teamred
+21412,1977,1977,1928,1977,m,us,12.81409114308729,0.560823806245,1,1,"Dick, Philip K,",A scanner darkly,chiscifi | teamblack
+21417,1977,1977,1947,1977,m,us,12.072380429718482,0.980432627965,1,1,"Donaldson, Stephen R,",The power that preserves,chiscifi | stew | chirandom | chifantasy | teamblack
+21423,1977,1977,1946,1977,m,us,12.241129730420411,0.995361990546,1,1,"Foster, Alan Dean,",The end of the matter,chiscifi | chirandom | teamred
+21443,1977,1977,1910,1977,m,us,14.918922954149586,0.638651643363,1,1,"Leiber, Fritz,",Our lady of darkness,chiscifi | chifantasy | teamred
+21453,1977,1977,0,1977,f,us,11.958745475330792,0.07986923439,0,1,"Michaels, Fern,",Captive passions,chirandom | teamblack
+21473,1977,1977,1937,1977,m,us,10.895903126474934,0.107400758891,0,1,"Segal, Erich,",Oliver's story,chirandom | teamred
+21488,1978,1978,1927,1978,m,us,12.605758181376002,0.088961643812,0,1,"Adler, Warren,",The Casanova embrace,chirandom | teamblack
+21494,1978,1978,1939,1978,m,us,12.746302917757589,0.0502033402607,0,1,"Bayer, William,",Tangier,chirandom | teamblack
+21500,1978,1978,1932,1978,m,us,11.407120174329854,0.95574055465,1,1,"Bova, Ben,",Colony,chiscifi | stew | teamred
+21501,1978,1978,1945,1978,m,us,11.212617778447985,0.167529765257,0,1,"Brown, Wesley,",Tragic magic,chirandom | teamred
+21552,1978,1978,1946,1978,m,us,12.652733393916357,0.970251463634,1,1,"Lustbader, Eric,",Shallows of night,chiscifi | teamred
+21579,1978,1978,1943,1978,m,us,13.310672380013543,0.0169923535805,0,1,"Swift, Edward,",Splendora,chirandom | teamred
+21603,1979,1979,1950,1979,f,us,10.697316754103959,0.215786305932,0,1,"Braverman, Kate,",Lithium for Medea,chirandom | teamblack
+21607,1979,1979,1935,1979,m,us,12.077366764270899,0.809797975275,0,1,"Cline, C. Terry,",Cross current,chirandom | teamblack
+21611,1979,1979,1923,1979,m,us,12.457185976124949,0.961342875821,1,1,"Dickson, Gordon R,",Masters of Everon,chiscifi | stew | teamblack
+21620,1979,1979,1926,1979,m,us,11.344975590924708,0.150512657834,0,1,"Gordon, Noah,",The Jerusalem diamond,chirandom | teamred
+21631,1979,1979,1947,1979,m,us,11.374184672146125,0.167470380545,1,1,"King, Stephen,",The dead zone,chiscifi | stew | chihorror | teamblack
+21670,1979,1979,0,1979,m,us,12.523741298772025,0.873746057375,1,1,"Schulman, J. Neil 1953-",Alongside night,chiscifi | teamblack
+21672,1979,1979,1944,1979,m,us,12.70513191016625,0.932104503041,1,1,"Stasheff, Christopher,",A wizard in Bedlam,chiscifi | chifantasy | teamred
+21685,1979,1979,1945,1979,m,us,13.08749625689766,0.998915284304,1,1,"Zebrowski, George,",Macrolife,chiscifi | stew | teamred
+21734,1980,1980,1927,1980,m,us,11.726561432001535,0.398183966273,0,1,"Herzog, Arthur,",Aries rising,chirandom | teamred
+21739,1980,1980,1932,1980,m,us,11.132892628923111,0.132113106712,0,1,"Jakes, John,",The Americans,chirandom | teamblack
+21749,1980,1980,1938,1980,m,us,12.017409364651854,0.584883551891,1,1,"Kurland, Michael,",The last President,chiscifi | teamred
+21851,1981,1981,1934,1981,m,us,12.252573813684034,0.37131405985,0,1,"Jones, Robert F.",Slade's glacier,chirandom | teamred
+21864,1981,1981,1931,1981,f,us,11.807180818716486,0.937519528391,1,1,"May, Julian,",The many-colored land,chiscifi | stew | teamred
+21866,1981,1981,1948,1981,f,us,12.11313573549055,0.961987535814,1,1,"McIntyre, Vonda N,",The entropy effect,chiscifi | teamred
+21876,1981,1981,1938,1981,m,us,11.293970021675882,0.841069657517,1,1,"Niven, Larry,",Dream Park,chiscifi | teamblack
+21877,1981,1981,1938,1981,m,us,11.090030228033731,0.828990004378,1,1,"Niven, Larry,",Oath of fealty,chiscifi | stew | teamred
+21905,1981,1981,1947,1981,m,us,11.661221340568995,0.997166021815,1,1,"Vardeman, Robert E,",The Klingon gambit,chiscifi | stew | chirandom | teamred
+21929,1982,1982,1945,1982,m,us,13.825061912410625,0.867403777853,1,1,"Bishop, Michael,",No enemy but time,chiscifi | teamblack
+21967,1982,1982,1911,1982,m,us,10.900324897594288,0.96326834808,1,1,"Hubbard, L. Ron,",Battlefield earth,chiscifi | chirandom | teamred
+21981,1982,1982,1938,1982,f,us,12.637535706767048,0.640800788021,1,1,"Lorrah, Jean,",Channel's destiny,chiscifi | stew | teamblack
+22054,1983,1983,1926,1983,m,us,12.19738942886242,0.408224993803,0,1,"Coldsmith, Don,",Follow the wind,chirandom | teamblack
+22073,1983,1983,1946,1983,m,us,12.078461555515299,0.976529953617,1,1,"Foster, Alan Dean,",For love of mother-not,chiscifi | stew | chirandom | teamred
+22097,1983,1983,1922,1983,f,us,12.185518989297282,0.138388433287,0,1,"MacLeod, Charlotte,",Something the cat dragged,stew | chirandom | teamred | chimyst
+22103,1983,1983,1931,1983,f,us,11.949491099445705,0.889029240207,1,1,"May, Julian,",The nonborn king,chiscifi | teamblack
+22107,1983,1983,1934,1983,f,us,11.76152009697655,0.011833647391,0,1,"Meade, Marion,",Sybille,chirandom | teamblack
+22133,1983,1983,1941,1983,f,us,13.190961833999365,0.0673194239288,0,1,"Spellman, Cathy Cash,",So many partings,chirandom | teamred
+22168,1984,1984,1942,1984,f,us,11.498330388656498,0.742972694892,1,1,"Cherryh, C. J,",Chanur's venture,chiscifi | chifantasy | teamred
+22193,1984,1984,1948,1984,m,us,12.3005408672817,0.660413425492,1,1,"Gibson, William",Neuromancer,chiscifi | stew | pbgothic | teamred
+22305,1985,1985,1941,1985,m,us,11.98113002342319,0.934870898473,1,1,"Benford, Gregory,",Artifact,chiscifi | teamblack
+22325,1985,1985,1968,1985,m,us,12.229783022876571,0.0373128027001,0,1,"Collins, Max Allan,",A shroud for Aquarius,chirandom | teamred | chimyst
+22332,1985,1985,1928,1985,m,us,11.691855990562468,0.0183175872729,0,1,"Dick, Philip K,",Puttering about in a smal,chirandom | teamblack
+22340,1985,1985,1947,1985,m,us,12.232098500779873,0.88319960749,1,1,"Effinger, George Alec,",The nick of time,chiscifi | stew | chirandom | teamblack
+22488,1986,1986,1923,1986,m,us,12.714901015103928,0.990628571505,1,1,"Dickson, Gordon R,",The forever man,chiscifi | teamred
+22498,1986,1986,1946,1986,m,us,10.833586853556831,0.976463028069,1,1,"Foster, Alan Dean,",Into the out of,chiscifi | stew | chihorror | teamred
+22623,1987,1987,0,1987,f,us,13.366466718971017,0.946473955497,1,1,"Bonanno, Margaret Wander,",Strangers from the sky,chiscifi | stew | teamblack
+22676,1987,1987,1932,1987,m,us,12.383456955643798,0.00994289862015,0,1,"Flynn, Robert,",Wanderer Springs,chirandom | teamred
+22678,1987,1987,1944,1987,m,us,11.212621609849853,0.0125179914642,0,1,"Friedman, Kinky,",A case of Lone Star,chirandom | teamred | chimyst
+22685,1987,1987,0,1987,m,us,12.819639595259236,0.06659159797,0,1,"Guild, Nicholas,",The Assyrian,chirandom | teamblack
+22692,1987,1987,1953,1987,m,us,11.846379524020861,0.0740089222264,0,1,"Hiaasen, Carl,",Double whammy,chirandom | teamred | chimyst
+22723,1987,1987,1933,1987,m,us,10.788888771702812,0.0400013655466,0,1,"Logue, John,",Boats against the current,chirandom | teamblack
+22732,1987,1987,1926,1987,f,us,12.981461220671854,0.0125081300516,0,1,"McCaffrey, Anne,",The lady,chirandom | teamred
+22783,1987,1987,1943,1987,f,us,11.513762158121427,0.00838548704996,0,1,"Spencer, LaVyrle,",The gamble,chirandom | teamred
+22787,1987,1987,1943,1987,m,us,11.862203834499136,0.0409332030725,0,1,"Swift, Edward,",A place with promise,chirandom | teamred
+22803,1987,1987,1953,1987,m,us,11.773907693949468,0.983310425947,1,1,"Williams, Walter Jon,",Voice of the whirlwind,chiscifi | chirandom | teamblack
+22878,1988,1988,1933,1988,f,us,16.915297030096642,0.583944181479,1,1,"Engh, M. J,",Wheel of the winds,chiscifi | teamred
+22894,1988,1988,1945,1988,m,us,11.68893225056757,0.0651708314696,0,1,"Grissom, Ken,",Drop-off,stew | chirandom | teamblack | chimyst
+22960,1988,1988,1954,1988,m,us,12.317993056918533,0.514301522381,1,1,"Rosenberg, Joel,",Not for glory,chiscifi | chifantasy | teamred
+23059,1989,1989,1940,1989,m,us,11.36879597582968,0.542539425315,1,1,"Cook, Robin,",Mutation,chiscifi | stew | chihorror | teamred
+23075,1989,1989,0,1989,f,us,11.472662593607081,0.144551366044,0,1,"Dunlap, Susan,",Pious deception,stew | chirandom | teamred | chimyst
+23092,1989,1989,1937,1989,m,us,13.48892981540367,0.0709840136524,0,1,"Goldsborough, Robert,",The last coincidence,chirandom | teamblack | chimyst
+23117,1989,1989,1950,1989,m,us,11.514448336336004,0.965039779334,1,1,"Jeter, K. W,",Farewell horizontal,chiscifi | teamred
+23139,1989,1989,1936,1989,m,us,12.035972000179179,0.421730912035,0,1,"McMurtry, Larry,",Some can whistle,chirandom | teamblack
+23165,1989,1989,1952,1989,m,us,14.517692392211142,0.356180755245,1,1,"Powers, Tim,",The stress of her regard,chiscifi | chifantasy | teamred
+23191,1989,1989,1931,1989,m,us,11.86876709600786,0.844216370974,1,1,"Shatner, William,",TekWar,chiscifi | teamred | chimyst
+23231,1989,1989,1954,1989,m,us,11.657118456379171,0.965708980762,1,1,"Weinstein, Howard,",Power hungry,chiscifi | stew | chirandom | teamblack
+23267,1990,1990,1949,1990,f,us,12.017792516108946,0.916389003145,1,1,"Bujold, Lois McMaster,",The vor game,chiscifi
+23334,1990,1990,1936,1990,m,us,12.949055428837925,0.150013615158,0,1,"Greenburg, Dan,",Exes,chirandom
+23375,1990,1990,0,1990,,us,12.786177882410723,0.94341626701,1,1,"McCaffrey, Anne,",Pegasus in flight,chiscifi
+23474,1953,1953,1900,1953,f,uk,13.028589674640996,0.0805289663949,0,1,"Goudge, Elizabeth,",The heart of the family,chirandom | teamred
+23487,1957,1957,1915,1957,m,uk,11.679624834965564,0.998951815881,1,1,"Hoyle, Fred,",The black cloud,chiscifi | teamblack
+23507,1962,1962,1894,1962,m,uk,13.362431511329536,0.641203636526,1,1,"Huxley, Aldous,",Island,chiscifi | chiutopia | teamred
+23514,1964,1964,1905,1964,m,uk,13.948264205411727,0.0198287364186,0,1,"Snow, C. P.",Corridors of power,chirandom | teamblack
+23537,1970,1970,1912,1970,m,au,12.699445098232358,0.022379221771,0,1,"White, Patrick,",The vivisector,chirandom | teamred
+23601,1987,1987,1954,1987,f,uk,11.933733789503389,0.0286594475553,0,1,"Gregory, Philippa,",Wideacre,chirandom | teamred
+23703,1991,1991,1916,1991,m,us,15.252185658430278,0.0365674770469,0,1,"Murray, Albert,",The spyglass tree,chirandom
+23764,1992,1992,1951,1992,m,us,12.261014372567036,0.101300476917,0,1,"Card, Orson Scott,",Lost boys,chirandom
+23822,1992,1992,1926,1992,f,us,12.955008471642929,0.843394221604,1,1,"McCaffrey, Anne,",Crystal line,chiscifi
+23825,1992,1992,1952,1992,m,us,11.654657307016814,0.120351857473,0,1,"McCammon, Robert R,",Boy's life,chirandom
+23838,1992,1992,1938,1992,m,us,11.578351377434306,0.977339551439,1,1,"Niven, Larry,",The California voodoo game,chiscifi | chimyst
+23867,1992,1992,1947,1992,m,us,11.988572358080487,0.799985128451,1,1,"Varley, John,",Steel beach,chiscifi
+24001,1994,1994,1941,1994,m,us,11.312787717468595,0.989606333193,1,1,"Benford, Gregory,",Furious gulf,chiscifi
+24091,1994,1994,1963,1994,f,us,10.347881405425465,0.00667189441528,0,1,"Patchett, Ann,",Taft,chirandom
+24094,1994,1994,1953,1994,f,us,12.79580905268798,0.0393649642199,0,1,"Pelletier, Cathie,",A marriage made at Woodstock,chirandom
+24491,1997,1997,1952,1997,f,us,13.868328204618944,0.156815483535,0,1,"Gabaldon, Diana,",Drums of autumn,chifantasy | chirandom
+24593,1997,1997,1932,1997,m,us,15.775615351791785,0.377208504796,1,1,"Updike, John,",Toward the end of time,chiscifi
+24651,1998,1998,1969,1998,f,us,12.459501721201008,0.0306220596927,0,1,"Danticat, Edwidge,",The farming of bones,chirandom
+24690,1998,1998,1960,1998,f,us,11.784375436301623,0.27438101594,1,1,"Hopkinson, Nalo,",Brown girl in the ring,chiscifi | chirandom
+24800,1998,1998,1951,1998,m,us,12.696980633314451,0.958562307585,1,1,"Zahn, Timothy,",Vision of the future,chiscifi
+24816,1999,1999,1948,1999,f,us,11.4166367868631,0.0170014594184,0,1,"Berg, Elizabeth,",Until the real thing comes along,chirandom
+24835,1999,1999,1954,1999,m,us,11.013707554333076,0.567499927249,0,1,"Child, Lee,",Tripwire,chirandom
+25357,1992,1992,1945,1992,f,us,12.253054440684451,0.181209550311,0,1,"Willis, Connie,",Doomsday book,chirandom
+25362,1993,1993,1920,1993,m,us,12.446049472758123,0.902338714601,1,1,"Asimov, Isaac,",Forward the foundation,chiscifi
+25429,1993,1993,1964,1993,m,us,9.951087461713675,0.0223888845509,0,1,"Watkins, Paul,",The promise of light,chirandom
+25445,1994,1994,0,1994,m,us,11.831751837290783,0.13754323572,0,1,"Block, Lawrence,",A long line of dead men,chirandom
+25470,1994,1994,0,1994,f,us,13.375424829875522,0.0134372699186,0,1,"Edgarian, Carol,",Rise the Euphrates,chirandom
+25519,1994,1994,1935,1994,m,us,12.687009187192979,0.822197735879,1,1,"Silverberg, Robert,",Hot sky at midnight,chiscifi
+25530,1994,1994,1957,1994,m,us,13.409438027840261,0.873685337498,1,1,"Wolverton, Dave,",The courtship of Princess Leia,chiscifi
+25535,1995,1995,1962,1995,m,us,12.797922671524253,0.996582739465,1,1,"Anderson, Kevin J.",Darksaber,chiscifi
+25578,1995,1995,1951,1995,f,us,14.20408522529174,0.986133311155,1,1,"Hambly, Barbara,",Children of the Jedi,chiscifi | chirandom
+25606,1995,1995,1942,1995,f,us,22.286719219616305,0.353460862667,0,1,"Reich, Tova,",The Jewish war,chirandom
+25620,1995,1995,0,1995,f,us,12.346725214468181,0.0174617144161,0,1,"Shigekuni, Julie,",A bridge between us,chirandom
+25987,1999,1999,1942,1999,m,us,12.207378115695738,0.889801523893,1,1,"Crichton, Michael,",Timeline,chiscifi
+4528,1921,1921,1875,1921,m,us,13.24755508762602,0.333119513776,1,1,"Burroughs, Edgar Rice,",The mucker,chiscifi | teamblack
+4599,1921,1921,1894,1921,m,us,12.760508301556836,0.00455010393648,0,1,"Nathan, Robert,",Autumn,chirandom | teamred
+4655,1922,1922,1875,1922,m,us,13.253663148197145,0.922188481194,1,1,"Burroughs, Edgar Rice,",The chessmen of Mars,chiscifi | stew | teamblack
+4708,1922,1922,1868,1922,m,us,11.693109587992701,0.125827345522,0,1,"Masters, Edgar Lee,",Children of the market pl,chirandom | teamred
+4730,1922,1922,1868,1922,f,us,11.787576464284752,0.0052796009523,0,1,"Sampson, Emma Speed,",The shorn lamb,chirandom | teamblack
+coo.31924013525971,1908,1908,1855,1908,m,uk,13.381184352643084,0.010251798137,0,1,"Moore, Frank Frankfort,",An amateur adventuress,random | teamred
+coo.31924051019580,1912,1912,1859,1912,m,uk,13.64482092763171,0.908021462825,1,1,"Doyle, Arthur Conan,",The lost world,anatscifi | stew | teamred
+Derleth1948,1948,1948,1909,1948,m,us,13.040049022344872,0.562805705552,1,1,"Derleth, August,",Two stories by Derleth,chiscifi | pbgothic | teamred
+dul1.ark+=13960=t16m3xm4f,1922,1922,1872,1922,f,uk,13.703713337871076,0.846512618909,1,1,"Hamilton, Cicely,",Theodore savage,femscifi | anatscifi | teamred
+dul1.ark+=13960=t1qf9cr59,1906,1906,1851,1906,m,uk,15.051131346528766,0.779490213151,1,1,"Ford, Douglas Morey.",A time of terror,locscifi | stew | teamblack
+dul1.ark+=13960=t3dz0xh78,1880,1880,1836,1880,m,uk,19.461840221770622,0.997095081168,1,1,"Greg, Percy,",Across the zodiac,anatscifi | locscifi | teamblack
+dul1.ark+=13960=t3zs3df24,1888,1888,1833,1888,m,us,14.821106551112745,0.988010874902,1,1,"De Mille, James,",A strange manuscript foun,anatscifi | locscifi | teamblack
+dul1.ark+=13960=t41r7h934,1826,1833,1797,1826,f,uk,20.02792412682166,0.694146171693,1,1,"Shelley, Mary Wollstonecr",The last man,femscifi | stew | teamblack
+dul1.ark+=13960=t66401k8k,1888,1888,1850,1888,m,us,16.94967105893193,0.979977014336,1,1,"Bellamy, Edward,","Looking backward, 2000-18",anatscifi | locscifi | stew | teamred
+dul1.ark+=13960=t80k32x0x,1899,1899,1866,1899,m,uk,12.877032787126284,0.990862954909,1,1,"Wells, H. G.",When the sleeper wakes,locscifi | teamred
+dul1.ark+=13960=t95723c7j,1872,1897,1842,1872,m,fr,16.43629947732159,0.999420579087,1,1,"Flammarion, Camille,",Lumen,anatscifi | stew | teamblack
+dul1.ark+=13960=t98637h6g,1895,1895,1866,1895,m,uk,13.727512595113732,0.994568912688,1,1,"Wells, H. G.",The time machine;,anatscifi | locscifi | stew | teamred
+EllisSteamManPrairies1868,1868,1880,1840,1868,m,us,16.33148567331561,0.940144676403,1,1,"Ellis, Edward S.",The Steam Man of the Prairies,anatscifi | stew | teamblack
+hvd.32044014279723,1827,1828,1807,1827,f,uk,21.556734523089847,0.825726249887,1,1,"Loudon, Jane",The mummy!,femscifi | stew | teamred
+inu.30000042750632,1901,1901,1865,1901,f,au,15.450395861285811,0.553335508569,1,1,"Ling, M. A. Moore Bentley",A woman of Mars,femscifi | teamred
+inu.30000118528748,1913,1913,0,1913,m,uk,15.865377449595806,0.166230931638,0,1,"Knight, Arthur Lee.",Told in the Indian twilig,random | teamred
+LindsayVoyageToArcturus1920,1920,1920,1876,1920,m,uk,12.936716134756544,0.974739068971,1,1,"Lindsay, David,",Voyage To Arcturus,anatscifi | stew | chifantasy | teamred
+mdp.39015000541717,1885,1885,1839,1885,m,uk,25.45931543854763,0.928970337043,0,1,"Pater, Walter,",Marius the Epicurean,random | teamred
+mdp.39015001553547,1912,1915,1876,1912,m,us,13.681614520694488,0.949755137249,1,1,"London, Jack,",The scarlet plague,anatscifi | stew | teamblack
+mdp.39015004200997,1818,1891,1797,1818,f,uk,17.41334240889707,0.291827617549,1,1,"Shelley, Mary Wollstonecr",Frankenstein,stangothic | stew | teamred | femscifi
+mdp.39015004307362,1870,1873,1828,1870,m,fr,14.706082066322459,0.976990253413,1,1,"Verne, Jules,",Twenty thousand leagues u,anatscifi | teamred
+mdp.39015007007282,1889,1889,1834,1889,m,us,16.560190351599854,0.996544216333,1,1,"Stockton, Frank Richard,",The great war syndicate,anatscifi | teamred
+mdp.39015010330341,1877,1877,1822,1877,f,uk,19.070649311394334,0.998023677504,1,1,"Cobbe, Frances Power,",The age of science,femscifi | stew | teamred
+mdp.39015030365178,1903,1904,1842,1903,m,fr,17.008341808410073,0.258456322689,0,1,"Lafargue, Paul,",The sale of an appetite,random | teamblack
+mdp.39015031235545,1920,1920,1861,1920,m,uk,13.427813489381641,0.0188995463018,0,1,"Hewlett, Maurice,",The light heart,random | teamred
+mdp.39015031332862,1913,1913,1873,1913,m,uk,13.668843711988323,0.592795925771,1,1,"Beresford, J. D.",Goslings,anatscifi | teamred
+mdp.39015051156498,1826,1826,1798,1826,m,uk,24.052540584639956,0.311640467218,0,1,"Banim, John,",Tales,random | teamred
+mdp.39015059642994,1886,1903,1850,1886,m,uk,15.702833202603358,0.358585950863,1,1,"Stevenson, Robert Louis,",Strange case of Dr. Jekyl,anatscifi | stew | pbgothic | teamred
+mdp.39015062658789,1881,1881,1844,1881,f,us,18.033912493786435,0.0288088932016,0,1,"Sidney, Margaret,",Five little Peppers and h,random | teamblack
+mdp.39015063941135,1907,1907,1850,1907,f,us,15.956637857705239,0.293860098588,0,1,"Murfree, Mary Noailles,",The windfall;,random | teamred
+mdp.39015063949229,1894,1894,1862,1894,m,uk,13.062884146810083,0.0530944907161,0,1,"Scott, Hugh Stowell,",With edged tools;,random | teamblack
+mdp.39015066036578,1889,1896,1835,1889,m,us,15.518650775010194,0.359205750011,1,1,"Twain, Mark,",A Connecticut Yankee in K,anatscifi | stew | teamblack
+mdp.39015078569723,1880,1880,1836,1880,m,uk,16.80306930489657,0.313206927571,1,1,"Greg, Percy,",Across the zodiac,anatscifi | teamred
+njp.32101013621246,1887,1906,1841,1887,m,uk,21.2678696477483,0.430096579885,1,1,"Hudson, W. H.",A crystal age,anatscifi | teamred
+njp.32101021206436,1901,1901,1866,1901,m,uk,12.609045809391421,0.997092476002,1,1,"Wells, H. G.",The first men in the moon,anatscifi | locscifi | teamblack
+njp.32101063580995,1903,1903,1866,1903,m,us,16.55414279309388,0.148042943377,0,1,"Isham, Frederic Stewart,",Under the rose,random | teamred
+njp.32101067641678,1878,1878,1812,1878,m,ge,13.881683189988054,0.0122196927779,0,1,"Auerbach, Berthold,",Landolin,random | teamred
+njp.32101067645505,1836,1836,1772,1836,f,us,18.17988039381436,0.0161857336914,1,1,"Griffith, Mary,","Camperdown, or, News from",locscifi | teamblack
+njp.32101068138443,1892,1892,1851,1892,m,us,15.848283272717136,0.986740615904,1,1,"Bradshaw, William R.",The goddess of Atvatabar,locscifi | teamblack
+nnc1.cu01664417,1900,1917,1869,1900,m,us,14.38580552918027,0.01173431987,0,1,"Tarkington, Booth,",Monsieur Beaucaire,random | teamblack
+nyp.33433039680552,1890,1890,1831,1890,m,us,15.88657155226521,0.961068637909,1,1,"Donnelly, Ignatius,",C?sar's column,anatscifi | teamred
+nyp.33433074818778,1880,1880,1844,1880,m,us,18.775285255677108,0.982213064693,1,1,"Cowan, Frank,",Revi-Lona,locscifi | teamblack
+nyp.33433074850870,1904,1904,1870,1904,m,uk,13.660645425733172,0.78752879351,1,1,"Harris-Burland, J. B.",The Princess Thora,locscifi | teamred
+nyp.33433074850961,1905,1905,0,1905,m,us,17.578778187757248,0.16978832822,1,1,"Harper, Vincent.",The mortgage on the brain,anatscifi | stew | teamblack
+nyp.33433074857248,1905,1909,1879,1905,m,uk,13.197069047880069,0.0315837107923,0,1,"Gibbon, Perceval,",Salvator,random | teamblack
+nyp.33433074864889,1888,1888,1836,1888,m,uk,15.77742383920451,0.13933174904,0,1,"Goodman, E. J.",Too curious,random | supernatural | teamred
+nyp.33433074866413,1898,1908,1865,1898,m,uk,14.281603356743275,0.12450786236,0,1,"Kipling, Rudyard,",The day's work,random | teamred
+nyp.33433074870282,1907,1907,1861,1907,m,uk,14.569422944386913,0.0132359329165,0,1,"Hewlett, Maurice,",The stooping lady,random | teamred
+nyp.33433074878889,1837,1837,1797,1837,m,uk,19.538112804929117,0.0436612966269,0,1,"Lover, Samuel,",Rory O'More,random | teamblack
+nyp.33433074880075,1871,1871,1837,1871,f,uk,17.755305999208254,0.00876352012928,0,1,"Marryat, Florence,",Her lord and master,random | teamblack
+nyp.33433074897426,1896,1913,1864,1896,m,uk,15.671741812778,0.024815618102,0,1,"Merrick, Leonard,",This stage of fools,random | teamred
+nyp.33433074926712,1920,1920,1867,1920,m,uk,15.07488882262774,0.0283430458216,0,1,"Benson, E. F.","""Queen Lucia""",random | teamred
+nyp.33433074939723,1888,1888,1836,1888,m,uk,14.757639363480635,0.694752169748,1,1,"Besant, Walter,",The inner house,anatscifi | stew | teamblack
+nyp.33433074954656,1902,1902,0,1902,m,us,15.968508737582304,0.409947980233,1,1,"Owen, Harle Oren.",Welsh rarebit tales,locscifi | teamred
+nyp.33433074955331,1777,1777,0,1777,f,uk,19.153016333942332,0.0103301753224,0,1,Henrietta.,Letters from Henrietta to,random | teamblack
+nyp.33433075727168,1893,1893,1866,1893,m,uk,14.049661985166782,0.940752938314,1,1,"Fawcett, E. Douglas",Hartmann the anarchist,anatscifi | teamblack
+nyp.33433075737753,1890,1891,1848,1890,m,ah,14.124968258189693,0.0334972882126,0,1,"Franzos, Karl Emil,",Judith Trachtenberg,random | teamred
+nyp.33433075746812,1920,1920,1892,1920,m,uk,13.874406559055794,0.779405881405,1,1,"Shanks, Edward,",The people of the ruins,anatscifi | stew | teamblack
+nyp.33433075746895,1909,1911,1851,1909,m,us,15.943418897216182,0.996914396519,1,1,"Serviss, Garrett Putman,",A Columbus of space,anatscifi | locscifi | teamblack
+nyp.33433075761720,1888,1888,1838,1888,m,uk,13.165255748012028,0.0127882968808,0,1,"Farjeon, B. L.",Miser Farebrother,random | teamblack
+nyp.33433075766463,1908,1908,1867,1908,f,uk,15.6726858838771,0.0194938179587,0,1,"Perrin, Alice,",The stronger claim,random | teamred
+nyp.33433075768253,1826,1826,1785,1826,m,uk,27.578316275487875,0.78207307085,0,1,"Wilkins, George,",The convert,random | teamblack
+nyp.33433075818611,1876,1878,1842,1876,f,fr,15.915895144373636,0.0360840184475,0,1,"Gr?ville, Henry,",Marrying off a daughter,random | teamred
+nyp.33433075827018,1893,1894,1842,1893,m,fr,19.836321191185647,0.999960111092,1,1,"Flammarion, Camille,",Omega: the last days of t,anatscifi | teamblack
+nyp.33433075843544,1892,1892,1833,1892,m,fr,16.58579126396519,0.00690936060663,0,1,"Theuriet, Andr?,",A young man of the period,random | teamred
+nyp.33433076024060,1900,1900,1858,1900,m,us,15.724938974274588,0.97266066892,1,1,"Osborne, Duffield,",The secret of the crater,locscifi | stew | teamred
+nyp.33433076056781,1891,1891,0,1891,m,,12.488963842880882,0.799774465445,1,1,"Ward, Herbert Dickinson,",A republic without a pres,locscifi | stew | teamblack
+nyp.33433076060874,1865,1865,1801,1865,m,us,17.62134938239269,0.088813834435,0,1,"Murdoch, David.",The Royalist's daughter a,random | teamred
+nyp.33433079897819,1892,1892,1842,1892,m,us,14.566401321254007,0.163708491203,0,1,"Bierce, Ambrose,",The monk and the hangman',random | teamblack
+nyp.33433081958500,1771,1802,1740,1771,m,fr,17.31879699469686,0.793768688506,1,1,"Mercier, Louis-S?bastien,",Memoirs of the year two t,anatscifi | teamblack
+nyp.33433082173273,1894,1894,1864,1894,m,us,17.769917704618226,0.898558512784,1,1,"Astor, John Jacob,",A journey in other worlds,anatscifi | stew | teamblack
+uc1.31822033251729,1922,1922,1883,1922,m,au,16.07876655198399,0.0120439325527,0,1,"Forrest, Michael D",Father Justin,random | teamred
+uc1.32106001959946,1904,1904,1866,1904,m,uk,13.07700789346146,0.921868851034,1,1,"Wells, H. G.",The food of the gods and ,anatscifi | locscifi | teamblack
+uc1.32106002123104,1922,1922,1885,1922,m,us,15.12117870001603,0.0325247259223,0,1,"Lewis, Sinclair,",Babbitt,random | teamred
+uc1.b117774,1886,1887,1828,1886,m,fr,13.960121853634707,0.966842811525,1,1,"Verne, Jules,",The clipper of the clouds,anatscifi | locscifi | teamred
+uc1.b244810,1898,1898,1865,1898,m,uk,16.550140003627526,0.668514756368,1,1,"Shiel, M. P.",The yellow danger,anatscifi | teamblack
+uc1.b249543,1898,1898,1831,1898,f,uk,14.63856081556585,0.00352873850744,0,1,"Barr, Amelia Edith Huddle",The lost silver of Briffa,random | teamblack
+uc1.b287473,1818,1818,1769,1818,f,uk,17.0322080119189,0.00678626166658,0,1,"Opie, Amelia Alderson,",New tales,random | teamblack
+uc1.b3290572,1827,1827,1765,1827,m,uk,21.628090560111342,0.135024227764,0,1,"Ward, R. Plumer",De Vere,random | teamblack
+uc1.b3324205,1906,1913,1867,1906,m,uk,12.690829541625128,0.140919086933,0,1,"Cullum, Ridgwell,",The night-riders;,random | teamblack
+uc1.b3578701,1880,1880,1836,1880,m,uk,17.66598768422174,0.738470011503,1,1,"Greg, Percy,",Across the zodiac,anatscifi | locscifi | teamblack
+uc1.b3578887,1897,1897,1859,1897,f,us,15.132337434884315,0.804364327453,1,1,"Wait, Frona Eunice,",Yermah the Dorado,femscifi | teamred
+uc1.b4095602,1913,1913,1873,1913,m,uk,12.397371263965143,0.150914943182,0,1,"Ford, Ford Madox,",Mr. Fleight,random | teamblack
+uc2.ark+=13960=t0js9hc64,1887,1887,1883,1887,f,us,14.882249344975822,0.0115625651848,0,1,"Clarke, Rebecca Sophia,",Drones' honey,random | teamblack
+uc2.ark+=13960=t0xp6w75n,1912,1912,1878,1912,m,us,24.7756638981461,0.330869942912,0,1,"Rose, William Ganson,",Putting Marshville on the,random | teamblack
+uc2.ark+=13960=t10p0xs0f,1908,1908,1883,1908,m,us,15.210971439510534,0.133892420586,1,1,"Harding, Ellison.",The woman who vowed,locscifi | teamblack
+uc2.ark+=13960=t17m0b23x,1895,1895,0,1895,m,,13.146724012009559,0.0421706397855,1,1,"Besant, Walter,",Beyond the dreams of avar,locscifi | stew | teamred
+uc2.ark+=13960=t1dj5cf2j,1886,1920,1853,1886,m,fr,14.896109021426508,0.036418395805,0,1,"Lema?tre, Jules,",Serenus and other stories,random | teamred
+uc2.ark+=13960=t2794143s,1912,1917,1875,1912,m,us,16.43514102186682,0.980572485272,1,1,"Burroughs, Edgar Rice,",A princess of Mars,anatscifi | teamred
+uc2.ark+=13960=t40r9p16h,1909,1909,1862,1909,m,uk,15.265251138759186,0.126655550459,0,1,"Newbolt, Henry John,",The new June,random | teamblack
+uc2.ark+=13960=t45q4sn3p,1893,1894,1857,1893,m,uk,16.870786465755035,0.783335517006,1,1,"Griffith, George Chetwynd",The angel of the revoluti,anatscifi | teamblack
+uc2.ark+=13960=t48p64044,1894,1894,1832,1894,m,uk,15.543165514807814,0.0881715364027,0,1,"Henty, G. A.",When London burned,random | teamblack
+uc2.ark+=13960=t4bn9zk9h,1887,1888,1847,1887,m,us,13.123678364155232,0.0965251547215,0,1,"Fawcett, Edgar,",Olivia Delaplaine,random | teamred
+uc2.ark+=13960=t5db7zr5v,1879,1879,1839,1879,m,us,14.642201804934656,0.107268502905,0,1,"Adams, Robert Chamblet,","On board the ""Rocket""",random | teamblack
+uc2.ark+=13960=t5v69m62h,1911,1911,1870,1911,m,nz,15.910180003852462,0.0594167278299,0,1,"Cowan, James,",The adventures of Kimble ,random | teamred
+uc2.ark+=13960=t6251m863,1871,1871,1838,1871,m,uk,14.183747045074622,0.0324739943354,0,1,"Farjeon, B. L.",Joshua Marvel,random | teamblack
+uc2.ark+=13960=t7tm74c51,1904,1904,1870,1904,m,us,15.858615627766648,0.399777347403,0,1,"Orcutt, William Dana,",Robert Cavelier,random | teamred
+uc2.ark+=13960=t9668pw05,1894,1894,1833,1894,m,fr,14.803982793022577,0.00441026173083,0,1,"Theuriet, Andr?,",The Abb? Daniel,random | teamblack
+uc2.ark+=13960=t9s17v81t,1909,1909,1852,1909,m,us,14.606295412430548,0.00822751001602,0,1,"Egan, Maurice Francis,",The wiles of Sexton Magin,random | teamblack
+uiuo.ark+=13960=t0ft97228,1876,1876,1830,1876,m,uk,15.010461942817285,0.026089712458,0,1,"Robinson, Frederick Willi",As long as she lived,random | teamred
+uiuo.ark+=13960=t48p6974b,1868,1868,1813,1868,m,uk,16.087251604467006,0.375117552785,0,1,"Capes, J. M.",The mosaic-worker's daugh,random | teamblack
+uiuo.ark+=13960=t58d0ds3h,1868,1868,0,1868,m,uk,14.064689314289812,0.0150276140203,0,1,"Knight, Legh.",Tonic bitters,random | teamred
+uiuo.ark+=13960=t7cr65585,1886,1886,1855,1886,f,uk,15.847218017849682,0.862608580896,1,1,"Corelli, Marie,",A romance of two worlds,femscifi | locscifi | teamred
+uiuo.ark+=13960=t8x92v101,1826,1826,0,1826,f,uk,20.64320607565035,0.678566248957,1,1,"Shelley, Mary Wollstonecr",The last man,femscifi | teamred
+uiuo.ark+=13960=t9474zg09,1883,1883,1829,1883,m,uk,19.400586059400442,0.0493983314599,0,1,"Oliphant, Laurence,",Altiora Peto,random | teamred
+uva.x000380956,1865,1874,1828,1865,m,fr,15.975833941623586,0.988856617267,1,1,"Verne, Jules,",From the Earth to the Moo,anatscifi | stew | teamred
+uva.x000459624,1897,1897,1840,1897,m,uk,14.793695858628631,0.0588998659625,0,1,"Hardy, Thomas,",The well-beloved;,random | teamblack
+uva.x000674483,1888,1888,1851,1888,f,uk,15.037266330566567,0.110641787653,0,1,"Ward, Humphry,",Robert Elsmere,random | teamblack
+uva.x000676502,1899,1899,1846,1899,m,us,11.557112770105094,0.0586704115153,0,1,"Thornton, Marcellus Eugen","My ""budie"" and I",random | teamred
+uva.x030223689,1871,1871,1803,1871,m,uk,19.684316602488575,0.996561807562,1,1,"Lytton, Edward Bulwer Lyt",The coming race,anatscifi | teamblack
+uva.x030743237,1880,1880,1838,1880,m,us,15.878532969074973,0.027479850305,0,1,"Scudder, Horace Elisha,",Doings of the Bodley fami,random | teamblack

@@ -1,0 +1,61 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+10086,1930,1930,1862,1930,m,us,13.65525017629752,0.13159467876,0,1,"Stratemeyer, Edward,",With Taylor on the Rio Gr,chirandom | teamblack
+10151,1940,1940,1863,1940,f,us,13.649988274885743,0.239373212672,0,1,"Atkinson, Eleanor,",Greyfriars Bobby,teamred | chirandom
+10265,1926,1926,1888,1926,m,us,13.433137275153209,0.715732999601,1,1,"Van Dine, S. S",The Benson murder case,teamred | det100 | cozy
+10312,1929,1929,1885,1929,m,us,15.533388096208158,0.212591820029,0,1,"Lewis, Sinclair,",Dodsworth,chirandom | teamblack
+10330,1930,1930,1894,1930,m,us,11.645265810808217,0.808298329049,1,1,"Hammett, Dashiell,",The Maltese falcon,chimyst | teamblack | hardboiled | det100
+10353,1931,1931,1865,1931,f,us,13.416108652587878,0.409357358835,0,1,"Hill, Grace Livingston,",The chance of a lifetime,teamred | chirandom
+10359,1931,1931,0,1931,m,us,12.195839675462446,0.764758776946,1,1,"Queen, Ellery,",The Dutch shoe mystery,chimyst | teamred | det100 | cozy
+10661,1942,1942,1899,1942,f,us,12.376692937127313,0.723443992452,1,1,"Eberhart, Mignon Good",Wolf in man's clothing,teamblack | det100 | cozy
+10700,1943,1943,1892,1943,m,us,11.209879922447415,0.574171544991,1,1,"Cain, James M.",Double indemnity,chimyst | teamred | hardboiled
+10723,1943,1943,0,1943,m,us,12.564855112154246,0.65934896567,1,1,"Queen, Ellery,",There was an old woman,chimyst | teamred | stew | det100 | cozy
+10761,1944,1944,1905,1944,f,us,10.383677182194212,0.236784917593,0,1,"Walker, Mildred",Winter wheat,teamred | chirandom
+10778,1945,1945,1904,1945,f,us,10.316994590239599,0.448660979218,1,1,"Hughes, Dorothy B. 1904-",Dread journey,chimyst | teamblack | hardboiled
+10793,1945,1945,1874,1945,f,us,17.54665134480735,0.167257464783,0,1,"Stein, Gertrude,",Wars I have seen,teamred | chirandom
+10803,1946,1946,1903,1946,m,us,12.278526825391747,0.345719882331,0,1,"Busch, Niven,",Day of the conquerors,chirandom | teamblack
+10828,1946,1946,1886,1946,m,us,12.198030310407232,0.659760031112,1,1,"Stout, Rex,",The silent speaker,chimyst | teamred | stew | det100 | cozy
+10889,1939,1948,1888,1939,m,us,10.174234325368138,0.774816240461,1,1,"Chandler, Raymond,",The big sleep,chimyst | teamblack | hardboiled | det100
+10911,1948,1948,0,1948,m,us,12.101839737036792,0.626158303249,1,1,"Queen, Ellery,",Ten days' wonder,teamblack | chimyst | chirandom | det100 | cozy | stew
+10922,1948,1948,1897,1948,m,us,11.702914854192429,0.150554941482,0,1,"Wilder, Thornton,",The ides of March,teamred | chirandom
+10962,1949,1949,1886,1949,m,us,12.010535237847078,0.63424272651,1,1,"Stout, Rex,",The second confession,chimyst | teamred | stew | det100 | cozy
+11013,1950,1950,1912,1950,m,us,12.287371369656078,0.669378071473,0,1,"Van Vogt, A. E. 1912-2000",The house that stood stil,chiscifi | chirandom | teamblack
+11022,1925,1925,1873,1925,m,uk,12.139289032824253,0.380913417319,0,1,"Ford, Ford Madox,",No more parades,teamred | chirandom
+11073,1942,1942,1897,1942,m,uk,12.622539165910672,0.465550881508,0,1,"Knight, Eric,",Sam Small flies again (Th,chirandom | teamblack
+11074,1942,1942,1898,1942,m,uk,14.537500687863846,0.115703971683,0,1,"Lewis, C. S.",The Screwtape letters,chirandom | chifantasy | teamblack
+11081,1944,1944,1882,1944,m,uk,10.988569614219802,0.291245366521,0,1,"Joyce, James,",Stephen hero,teamred | chirandom
+11100,1929,1929,1894,1929,m,us,11.08167691874698,0.788741670523,1,1,"Hammett, Dashiell,",Red Harvest,chimyst | teamblack | hardboiled | det100
+11101,1940,1940,1888,1940,m,us,10.050637121731016,0.756001380194,1,1,"Chandler, Raymond,",Farewell My Lovely,stew | teamblack | hardboiled | det100
+11141,1925,1925,1890,1925,f,uk,12.530093441465384,0.609884622102,1,1,"Christie, Agatha,",Poirot investigates,chirandom | teamblack | det100 | cozy
+11156,1925,1925,1862,1925,m,uk,12.920154834786734,0.399783570016,0,1,"Phillpotts, Eden,",A voice from the dark,stew | chirandom | teamblack | det100
+11234,1928,1928,1888,1928,m,uk,14.683786574926263,0.548171664331,0,1,"Knox, Ronald Arbuthnott,",The footsteps at the lock,teamred | chirandom | det100
+11255,1929,1929,1890,1929,f,uk,11.618408350989299,0.64300747941,1,1,"Christie, Agatha,",The Seven dials mystery,chimyst | teamred | cozy
+11298,1930,1930,1882,1930,m,au,15.504811194674193,0.248143348143,0,1,"Manning, Frederic,",Her privates: we,chirandom | teamblack
+11302,1930,1930,1893,1930,f,uk,14.09715466300553,0.526916481376,1,1,"Sayers, Dorothy L.",Strong poison,chimyst | teamblack | cozy
+11462,1935,1935,1902,1935,f,uk,14.480148873729584,0.411290014454,0,1,"Heyer, Georgette,",Regency buck,chirandom | teamblack
+11468,1935,1935,1895,1935,f,nz,11.665005220584018,0.759933210537,1,1,"Marsh, Ngaio,",The nursing home murder,chimyst | chirandom | teamblack | cozy
+11519,1937,1937,1904,1937,f,uk,11.69800155371878,0.557603807201,1,1,"Allingham, Margery,",Dancers in mourning,chimyst | teamred | chirandom | cozy
+11535,1937,1937,1899,1937,m,uk,14.484500671700705,0.201208939974,0,1,"Linklater, Eric,",Juan in China,teamred | chirandom
+11592,1939,1939,1916,1939,m,us,10.237188169885409,0.432921609891,0,1,"Allan, Ted,",This time a better earth,teamred | chirandom
+11664,1940,1940,1899,1940,m,uk,10.92357914961354,0.426311435086,0,1,"Shute, Nevil,",Landfall,chirandom | teamblack
+11675,1941,1941,1890,1941,f,uk,11.379108481283465,0.543733110755,1,1,"Christie, Agatha,",N or M?,chimyst | chirandom | teamblack | cozy
+11681,1941,1941,1902,1941,f,uk,15.92087977734285,0.421551013629,0,1,"Heyer, Georgette,",Faro's daughter,teamred | chirandom
+11703,1942,1942,1890,1942,f,uk,11.215346025098112,0.507157797669,1,1,"Christie, Agatha,",Five little pigs,chimyst | stew | chirandom | teamblack | cozy
+11709,1942,1942,1895,1942,f,nz,12.476617804888825,0.70318152504,1,1,"Marsh, Ngaio,",A man lay dead,chimyst | chirandom | teamblack | cozy
+11724,1943,1943,1905,1943,m,uk,14.253092339660487,0.311788213078,0,1,"Green, Henry,",Caught,chirandom | teamblack
+11730,1943,1943,1895,1943,f,nz,11.913987057889482,0.530091091294,1,1,"Marsh, Ngaio,",Colour scheme,chimyst | teamred | chirandom | cozy
+11877,1949,1949,1890,1949,f,uk,11.2719937725816,0.605743841826,1,1,"Christie, Agatha,",Crooked house,chimyst | teamred | chirandom | cozy
+11896,1949,1949,1878,1949,f,uk,11.841217100817135,0.66344744655,0,1,"Wentworth, Patricia,",The Catherine-wheel,teamred | chirandom
+20026,1951,1951,1910,1951,m,us,13.157851965245033,0.441655785603,0,1,"Merwin, Sam,",The house of many worlds,chiscifi | teamred | chirandom
+20032,1951,1951,1918,1951,m,us,9.733593812612078,0.695747885982,1,1,"Spillane, Mickey,",The big kill,chimyst | teamred | hardboiled
+20078,1952,1952,1918,1952,m,us,9.876644591273832,0.700806085674,1,1,"Spillane, Mickey,",Kiss me: deadly,chimyst | stew | chirandom | teamblack | hardboiled
+20079,1952,1952,1922,1952,m,us,13.834171952491188,0.449086902583,0,1,"Vonnegut, Kurt,",Player piano,chiscifi | chirandom | teamblack | stew
+20380,1959,1959,0,1959,f,us,11.599268071144577,0.222466790227,0,1,"Kirkland, Elithe Hamilton",Love is a wild assault,chirandom | teamblack
+20661,1965,1965,1921,1965,f,us,12.03755064047797,0.428377040645,0,1,"Spencer, Elizabeth,",The voice at the back doo,chirandom | teamblack
+20899,1970,1970,1908,1970,m,us,11.64462728949048,0.334809832747,0,1,"L'Amour, Louis,",Galloway,teamred | chirandom
+20922,1970,1970,1918,1970,m,us,10.581687208939705,0.662677716532,1,1,"Spillane, Mickey,",Survival Zero,chimyst | stew | teamblack | hardboiled
+21104,1959,1973,1909,1959,m,us,11.810909465905297,0.642448681184,1,1,"Himes, Chester B.",The crazy kill,chimyst | teamred | chirandom | hardboiled
+23468,1952,1952,1904,1952,f,uk,12.026879688316466,0.506052169003,1,1,"Allingham, Margery,",The tiger in the smoke,chimyst | teamred | cozy
+23474,1953,1953,1900,1953,f,uk,13.028589674640996,0.195986605618,0,1,"Goudge, Elizabeth,",The heart of the family,teamred | chirandom
+23516,1965,1965,1904,1965,f,uk,11.06937172121497,0.524941358345,1,1,"Allingham, Margery,",The mind readers,chimyst | stew | teamblack | cozy
+4463,1920,1920,1868,1920,f,us,14.019732177901702,0.267520219215,0,1,"Martin, Helen Reimensnyder,",The schoolmaster of Hessville,teamred | chirandom
+nyp.33433074970710,1920,1920,1890,1920,f,uk,12.75417390767824,0.626533316465,1,1,"Christie, Agatha,",The mysterious affair at ,teamblack | det100 | cozy

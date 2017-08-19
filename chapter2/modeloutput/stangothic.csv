@@ -1,0 +1,43 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+dul1.ark+=13960=t0tq6sw6t,1807,1807,0,1807,f,uk,20.688285200864364,0.128242861288,0,1,"Bayfield, E. G.,",A winter in Bath,teamred | random
+dul1.ark+=13960=t3dz14r97,1807,1807,0,1807,f,uk,18.15714041183823,0.152626561585,0,1,"Bayfield, E. G.,",A winter in Bath,teamred | random
+hvd.hwkdax,1803,1803,1757,1803,f,uk,16.645972103151564,0.711242852217,0,1,"Lee, Harriet,",Canterbury tales,teamred | random
+mdp.39015004200997,1818,1891,1797,1818,f,uk,17.41334240889707,0.696115344984,1,1,"Shelley, Mary Wollstonecr",Frankenstein,stew | teamred | stangothic | femscifi
+mdp.39015023189999,1800,1801,1756,1800,f,uk,15.772267517803249,0.286380082181,0,1,"Hamilton, Elizabeth,",Memoirs of modern philosophers,teamred | random
+mdp.39015030996832,1834,1878,1805,1834,m,uk,16.33030857891397,0.309020336857,1,1,"Ainsworth, William Harris",Rookwood,newgate | teamred | stangothic
+mdp.39015033367668,1791,1791,1729,1791,f,uk,13.47609439449749,0.0269257478875,1,1,"Reeve, Clara,",The school for widows,teamblack | stangothic
+mdp.39015059372105,1823,1823,1794,1823,m,uk,21.60112619692414,0.203309042086,0,1,"Lockhart, J. G.",Reginald Dalton,teamblack | random
+mdp.39015063556271,1818,1818,1769,1818,f,uk,16.527140503334078,0.164676436532,0,1,"Opie, Amelia Alderson,",New tales,teamred | random
+njp.32101013133523,1813,1813,1763,1813,f,uk,23.763211868815038,0.134053553266,1,1,"Roche, Regina Maria,",The monastery of St. Columb;,teamred | stangothic
+njp.32101066479765,1791,1791,1742,1791,m,uk,23.400712984806464,0.115292466422,0,1,"Combe, William,",The devil upon two sticks,teamblack | random
+njp.32101068177094,1801,1803,1774,1801,m,uk,17.221994950253755,0.134222926233,0,1,"Du Bois, Edward,",Old Nick;,teamred | random
+njp.32101068177102,1801,1803,1774,1801,m,uk,17.490169277364615,0.237689416715,0,1,"Du Bois, Edward,",Old Nick;,teamred | random
+nyp.33433051569915,1800,1803,1766,1800,m,ru,12.150633207952811,0.770124811368,0,1,"Karamzin, Nikola? Mikha?lovich,",Russian tales,teamred | random
+nyp.33433067303937,1807,1807,1763,1807,f,uk,18.420722748480017,0.322565873051,1,1,"Roche, Regina Maria,","The discarded son; or, Haunt of the banditti",teamred | stangothic
+nyp.33433074915970,1809,1809,1745,1809,f,uk,17.170615831709345,0.0308617072358,0,1,"More, Hannah,",C?lebs in search of a wife,teamred | random
+nyp.33433074951611,1803,1803,1780,1803,f,uk,21.196793852688227,0.89221620261,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic
+nyp.33433074954979,1802,1802,0,1802,f,uk,17.98406459281913,0.258789910675,0,1,"Cullen, Margaret.",Home,teamred | random
+uc1.$b522186,1806,1806,1746,1806,f,fr,14.200932550131371,0.0110201017012,0,1,"Genlis, St?phanie F?licit?,",Madame de Maintenon,teamred | random
+uc1.b248234,1803,1803,0,1803,,,19.933113929885646,0.328535124735,0,1,Anonymous7,"Barbara Markham; or, The profligate requited;",teamblack | random
+uc1.b250120,1803,1803,0,1803,,,18.109450362053344,0.22766370983,0,1,Anonymous0,Letters of Miss Riversdale,teamblack | random
+uc1.b254212,1821,1821,0,1821,f,uk,16.63161042887587,0.409778961716,0,1,"Varty-Smith, Augusta A.",Matthew Tindale,teamred | random
+uc1.b287473,1818,1818,1769,1818,f,uk,17.0322080119189,0.169276820111,0,1,"Opie, Amelia Alderson,",New tales,teamblack | random
+uc2.ark+=13960=t4wh2p202,1834,1834,0,1834,m,us,19.876307352843746,0.206355358745,0,1,"White, James,",Some passages in the life of Sir Frizzle Pumpkin,teamblack | random
+uiuo.ark+=13960=t00z7jj1c,1823,1823,1788,1823,m,uk,16.203255302287975,0.842837793872,1,1,"Gaspey, Thomas,","Other times; or, the monks of Leadenhall",teamblack | stangothic
+uiuo.ark+=13960=t09w1328x,1813,1813,0,1813,f,uk,23.41108734505332,0.273852590744,0,1,"Parker, Emma.",Aretas,teamblack | random
+uiuo.ark+=13960=t0ns19n7m,1801,1801,1852,1801,m,uk,18.917878682369647,0.82335940814,1,1,"Moore, George,",Grasville Abbey,teamblack | stangothic
+uiuo.ark+=13960=t18k7vt5k,1807,1807,0,1807,m,uk,19.455953898340113,0.935591797297,1,1,"Mortimer, Edward,",The friar Hildargo,teamred | stangothic
+uiuo.ark+=13960=t1gh9v49g,1803,1807,1780,1803,f,uk,24.340671938919836,0.842113933177,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic | stew
+uiuo.ark+=13960=t1ng5958h,1823,1823,0,1823,f,uk,22.24554446392802,0.605487506407,1,1,"Sullivan, Mary Ann.","Owen Castle, or, Which is the heroine?",teamred | stangothic
+uiuo.ark+=13960=t2988vx2b,1802,1802,0,1802,m,uk,25.2903657401278,0.863834326901,1,1,"Melville, Theodore.","The white knight, or, The monastery of Morne",teamblack | stangothic
+uiuo.ark+=13960=t3jw90j80,1818,1818,1778,1818,f,uk,22.408283940260166,0.725438213895,1,1,"Porter, Anna Maria,",The fast of St. Magdalen,teamblack | stangothic
+uiuo.ark+=13960=t3xs6cp6m,1803,1803,1770,1803,f,uk,19.048141151854363,0.502117693928,1,1,"Young, Mary Julia.","Right and wrong; or, The kinsmen of Naples",stew | teamred | stangothic
+uiuo.ark+=13960=t5z615j7x,1812,1812,0,1812,f,uk,22.84130953643269,0.935139640661,1,1,"Stanhope, Louisa Sidney.",The confessional of Valombre,stew | teamred | stangothic
+uiuo.ark+=13960=t6251zn27,1810,1810,1780,1810,f,uk,34.4263709816507,0.782572610043,1,1,"Cuthbertson, Catherine.",Forest of Montalbano,teamblack | stangothic
+uiuo.ark+=13960=t6xw4rw1j,1803,1803,1780,1803,f,uk,24.803958403861312,0.932389863017,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic
+uiuo.ark+=13960=t7br98r5d,1810,1810,0,1810,f,uk,23.423453443243556,0.292123403912,0,1,Anonymous6,"The adulteress ; or, anecdotes of two noble families",teamblack | random
+uiuo.ark+=13960=t86h4xr9x,1806,1806,0,1806,f,,19.735005678738215,0.905385142011,1,1,"Frances, Sophia L.","Vivonio, or, The hour of retribution",teamblack | stangothic | stew
+uiuo.ark+=13960=t8nc69j1b,1803,1803,1780,1803,f,uk,24.731544470104794,0.887622843484,1,1,"Cuthbertson, Catherine.",Romance of the Pyrenees,teamblack | stangothic
+uiuo.ark+=13960=t8w95tz11,1803,1803,1772,1803,m,uk,18.415920482292368,0.753828255196,1,1,"Walker, George,",Don Raphael,teamred | stangothic
+uiuo.ark+=13960=t95723s7x,1812,1812,0,1812,f,uk,19.885446122055765,0.147362939742,0,1,"Byron, Medora Gordon.",The Englishman,teamblack | random
+uiuo.ark+=13960=t9f481w8n,1809,1809,0,1809,f,uk,22.899411839022402,0.845991235565,1,1,"Frances, Sophia L.","Angelo Guicciardini, or, The bandit of the Alps",teamred | stangothic

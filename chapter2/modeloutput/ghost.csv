@@ -1,0 +1,55 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+4599,1921,1921,1894,1921,m,us,12.760508301556836,0.163948037019,0,1,"Nathan, Robert,",Autumn,teamred | chirandom
+4605,1921,1921,1888,1921,f,us,15.375917442506148,0.134053306416,0,1,"Putnam, Nina Wilcox,",West Broadway,teamred | chirandom
+4690,1922,1922,1857,1922,m,us,14.392842598768683,0.122199416935,0,1,"Hough, Emerson,",The young Alaskans on the,teamred | chirandom
+4708,1922,1922,1868,1922,m,us,11.693109587992701,0.111851583466,0,1,"Masters, Edgar Lee,",Children of the market pl,teamred | chirandom
+4748,1922,1922,1877,1922,m,us,12.433058680333959,0.581000929383,0,1,"Traprock, Walter E.",My northern exposure,chirandom | teamblack
+ien.35556027278860,1912,1912,0,1912,m,,18.19741138223138,0.824601105778,1,1,"Gowans, Adam L.",Famous ghost-stories by E,teamblack | locghost
+inu.30000042783591,1887,1887,0,1887,,,15.451007217001608,0.857473116821,1,1,Anonymous3,Dreamland and ghostland,teamblack | locghost
+inu.39000005852087,1914,1914,0,1914,m,,14.922486564166489,0.985182784836,1,1,"Seymour, St. John D.",True Irish ghost stories,teamred | locghost
+mdp.39015005108595,1921,1921,0,1921,m,,19.917513921355486,0.926222430427,1,1,"Rhys, Ernest,",The haunters & the haunte,teamred | locghost
+mdp.39015012876820,1890,1890,0,1890,,,14.399808405432749,0.725644829082,1,1,AnonymousGhost2,Modern ghosts,stew | teamblack | locghost
+mdp.39015051156498,1826,1826,1798,1826,m,uk,24.052540584639956,0.645752996279,0,1,"Banim, John,",Tales,teamred | random
+mdp.39015062473205,1922,1922,1893,1922,m,us,13.477956302855716,0.276371057029,0,1,"Marquand, John P.",The unspeakable gentleman,teamred | random
+mdp.39015066083661,1890,1890,0,1890,,,14.473569224610895,0.732086471603,1,1,AnonymousGhost2,Modern ghosts;,teamblack | locghost
+mdp.39076002621501,1905,1905,1812,1905,m,uk,16.570301159928064,0.643870534749,1,1,"Dickens, Charles,",A Christmas carol in pros,teamred | locghost
+mdp.39076002657265,1913,1913,0,1913,f,,11.590044295153247,0.201637877756,1,1,"Aldridge, Janet.",The Meadow-Brook girls un,teamred | locghost
+njp.32101067301786,1922,1922,0,1922,m,,16.064218988021175,0.867048013036,1,1,"Munford, George Frederick",Ghosts and legends of Sou,stew | teamblack | locghost
+njp.32101076806486,1898,1898,0,1898,m,,13.734260707699935,0.715245853599,1,1,"Le Braz, Anatole,",Dealings with the dead;,teamblack | locghost
+nnc1.0022035958,1888,1888,0,1888,,,18.871024437266396,0.864990252732,1,1,AnonymousGhost,Weird tid-bits,teamred | stew | locghost
+nnc1.0040976017,1888,1888,0,1888,,,20.161876305562828,0.811144551686,1,1,AnonymousGhost,Weird tid-bits,stew | teamblack | locghost
+nnc1.0040976025,1888,1888,0,1888,,,19.4816699144605,0.846001088467,1,1,AnonymousGhost,Weird tid-bits,teamblack | locghost
+nnc1.0111708131,1888,1888,0,1888,,,19.127611902455236,0.868190843456,1,1,AnonymousGhost,Weird tid-bits,stew | teamblack | locghost
+nnc1.0113307762,1888,1888,0,1888,,,21.777921620782664,0.834985997608,1,1,AnonymousGhost,Weird tid-bits,teamred | locghost
+nyp.33433068179559,1918,1918,0,1918,m,,15.311898749715809,0.828175339089,1,1,"French, Joseph Lewis,","Great ghost stories, sele",stew | teamblack | locghost
+nyp.33433068179716,1906,1906,0,1906,f,,15.640227711320776,0.841239168529,1,1,"Buckingham, Emma May.",Modern ghost stories,teamred | stew | locghost
+nyp.33433074857248,1905,1909,1879,1905,m,uk,13.197069047880069,0.166175535469,0,1,"Gibbon, Perceval,",Salvator,teamblack | random
+nyp.33433074863782,1848,1859,1824,1848,f,uk,18.922021729609245,0.325861919102,0,1,"Kavanagh, Julia,",Madeleine,teamblack | random
+nyp.33433074864889,1888,1888,1836,1888,m,uk,15.77742383920451,0.495602659595,0,1,"Goodman, E. J.",Too curious,teamred | random | supernatural
+nyp.33433074866413,1898,1908,1865,1898,m,uk,14.281603356743275,0.225386922669,0,1,"Kipling, Rudyard,",The day's work,teamred | random
+nyp.33433075732655,1921,1921,0,1921,,,16.08957618623242,0.621961862839,1,1,AnonymousGhost3,Humorous ghost stories,teamred | stew | locghost
+nyp.33433075737753,1890,1891,1848,1890,m,ah,14.124968258189693,0.281654288412,0,1,"Franzos, Karl Emil,",Judith Trachtenberg,teamred | random
+nyp.33433075761720,1888,1888,1838,1888,m,uk,13.165255748012028,0.445534971725,0,1,"Farjeon, B. L.",Miser Farebrother,teamblack | random
+nyp.33433079897819,1892,1892,1842,1892,m,us,14.566401321254007,0.68199338831,0,1,"Bierce, Ambrose,",The monk and the hangman',teamblack | random
+nyp.33433082251855,1919,1919,1857,1919,f,us,12.834311683964826,0.177629966024,0,1,"Atherton, Gertrude Frankl",Transplanted;,teamred | random
+nyp.33433082485636,1918,1918,1885,1918,m,us,13.806960675408982,0.475644394318,0,1,"Hunt, Edward Eyre,",Tales from a famished lan,teamred | random
+nyp.33433082514187,1848,1848,0,1848,m,,20.484686388630255,0.922446911532,1,1,"St. Clair, Henry.","Tales of terror; or, The ",teamred | stew | locghost
+uc1.31822033251729,1922,1922,1883,1922,m,au,16.07876655198399,0.0712722604087,0,1,"Forrest, Michael D",Father Justin,teamred | random
+uc1.b249543,1898,1898,1831,1898,f,uk,14.63856081556585,0.132269954212,0,1,"Barr, Amelia Edith Huddle",The lost silver of Briffa,teamblack | random
+uc1.b3324205,1906,1913,1867,1906,m,uk,12.690829541625128,0.329904565309,0,1,"Cullum, Ridgwell,",The night-riders;,teamblack | random
+uc1.b4103074,1904,1904,0,1904,m,uk,14.610302086060038,0.692318885828,1,1,"Baring-Gould, S.",A book of ghosts,teamred | stew | locghost
+uc2.ark+=13960=t0js9hc64,1887,1887,1883,1887,f,us,14.882249344975822,0.163550148512,0,1,"Clarke, Rebecca Sophia,",Drones' honey,teamblack | random
+uc2.ark+=13960=t0xp6w75n,1912,1912,1878,1912,m,us,24.7756638981461,0.114442995321,0,1,"Rose, William Ganson,",Putting Marshville on the,teamblack | random
+uc2.ark+=13960=t1bk18j97,1914,1914,1871,1914,m,uk,12.372775373407212,0.281865088632,0,1,"Bell, J. J.",The misadventures of Jose,teamblack | random
+uc2.ark+=13960=t1dj5cf2j,1886,1920,1853,1886,m,fr,14.896109021426508,0.481075798372,0,1,"Lema?tre, Jules,",Serenus and other stories,teamred | random
+uc2.ark+=13960=t23b5ww6x,1922,1922,0,1922,m,,13.62987830914225,0.772543683199,1,1,"French, Joseph Lewis,",Masterpieces of mystery,locdetmyst | teamblack | locghost
+uc2.ark+=13960=t4bn9zk9h,1887,1888,1847,1887,m,us,13.123678364155232,0.309203747351,0,1,"Fawcett, Edgar,",Olivia Delaplaine,teamred | random
+uc2.ark+=13960=t5x63bm4w,1913,1913,1872,1913,f,us,15.349552151741605,0.135281760057,0,1,"Daviess, Maria Thompson.",The tinder-box,teamblack | random
+uc2.ark+=13960=t70v8bj6k,1922,1922,0,1922,m,,15.526054490139002,0.718588448013,1,1,"French, Joseph Lewis,",Masterpieces of mystery,locdetmyst | teamblack | locghost
+uc2.ark+=13960=t7np1xq4d,1919,1919,0,1919,m,,16.300164918037048,0.704955300923,1,1,"Pease, Howard,",Border ghost stories,stew | teamblack | locghost
+uc2.ark+=13960=t7tm74c51,1904,1904,1870,1904,m,us,15.858615627766648,0.288263183861,0,1,"Orcutt, William Dana,",Robert Cavelier,teamred | random
+uc2.ark+=13960=t93776z9n,1922,1922,0,1922,m,,15.8459195018097,0.72519222948,1,1,"French, Joseph Lewis,",Masterpieces of mystery,stew | locdetmyst | teamblack | locghost
+uc2.ark+=13960=t9c53g45j,1922,1922,0,1922,m,,13.627396873636151,0.542339181473,1,1,"French, Joseph Lewis,",Masterpieces of mystery,locdetmyst | teamblack | locghost
+umn.31951002081141q,1826,1826,0,1826,,uk,20.793386247902397,0.765048097616,1,1,Anonymous2,Legends of terror!,teamred | stew | locghost
+uva.x000674483,1888,1888,1851,1888,f,uk,15.037266330566567,0.383700970555,0,1,"Ward, Humphry,",Robert Elsmere,teamblack | random
+wu.89069113231,1898,1898,1862,1898,m,us,15.630051887951238,0.437820831567,1,1,"Bangs, John Kendrick,",Ghosts I have met and som,teamred | stew | locghost

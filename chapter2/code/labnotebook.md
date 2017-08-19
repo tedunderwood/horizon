@@ -7,18 +7,18 @@ When I run
 
 I get:
 
-(18, 8)
-5600 1
+(21, 3)
+4100 0.006
 Beginning multiprocessing.
 Multiprocessing concluded.
 
-True positives 189
-True negatives 198
-False positives 15
-False negatives 24
-F1 : 0.906474820143885
-0.9084507042253521 0.908450704225
-If we divide the dataset with a horizontal line at 0.5, accuracy is:  0.908450704225
+True positives 186
+True negatives 200
+False positives 13
+False negatives 27
+F1 : 0.9029126213592233
+0.9061032863849765 0.906103286385
+If we divide the dataset with a horizontal line at 0.5, accuracy is:  0.906103286385
 
 When I run
 

@@ -1,0 +1,21 @@
+volid,dateused,pubdate,birthdate,firstpub,gender,nation,allwords,logistic,realclass,trainflag,trainsize,author,title,genretags
+10086,1930,1930,1862,1930,m,us,13.65525017629752,0.0674628077376,0,1,"Stratemeyer, Edward,",With Taylor on the Rio Gr,chirandom | teamblack
+10312,1929,1929,1885,1929,m,us,15.533388096208158,0.187285869919,0,1,"Lewis, Sinclair,",Dodsworth,chirandom | teamblack
+10330,1930,1930,1894,1930,m,us,11.645265810808217,0.840019130827,1,1,"Hammett, Dashiell,",The Maltese falcon,chimyst | teamblack | hardboiled | det100
+10700,1943,1943,1892,1943,m,us,11.209879922447415,0.591880075391,1,1,"Cain, James M.",Double indemnity,chimyst | teamred | hardboiled
+10778,1945,1945,1904,1945,f,us,10.316994590239599,0.311026572856,1,1,"Hughes, Dorothy B. 1904-",Dread journey,chimyst | teamblack | hardboiled
+10793,1945,1945,1874,1945,f,us,17.54665134480735,0.0281456448442,0,1,"Stein, Gertrude,",Wars I have seen,teamred | chirandom
+10889,1939,1948,1888,1939,m,us,10.174234325368138,0.899419045804,1,1,"Chandler, Raymond,",The big sleep,chimyst | teamblack | hardboiled | det100
+11100,1929,1929,1894,1929,m,us,11.08167691874698,0.870476893159,1,1,"Hammett, Dashiell,",Red Harvest,chimyst | teamblack | hardboiled | det100
+11101,1940,1940,1888,1940,m,us,10.050637121731016,0.851786565004,1,1,"Chandler, Raymond,",Farewell My Lovely,stew | teamblack | hardboiled | det100
+11592,1939,1939,1916,1939,m,us,10.237188169885409,0.373684217955,0,1,"Allan, Ted,",This time a better earth,teamred | chirandom
+11664,1940,1940,1899,1940,m,uk,10.92357914961354,0.194046792395,0,1,"Shute, Nevil,",Landfall,chirandom | teamblack
+11724,1943,1943,1905,1943,m,uk,14.253092339660487,0.213868486094,0,1,"Green, Henry,",Caught,chirandom | teamblack
+20026,1951,1951,1910,1951,m,us,13.157851965245033,0.190551696158,0,1,"Merwin, Sam,",The house of many worlds,chiscifi | teamred | chirandom
+20032,1951,1951,1918,1951,m,us,9.733593812612078,0.885453105395,1,1,"Spillane, Mickey,",The big kill,chimyst | teamred | hardboiled
+20078,1952,1952,1918,1952,m,us,9.876644591273832,0.860647978325,1,1,"Spillane, Mickey,",Kiss me: deadly,chimyst | stew | chirandom | teamblack | hardboiled
+20079,1952,1952,1922,1952,m,us,13.834171952491188,0.288728571942,0,1,"Vonnegut, Kurt,",Player piano,chiscifi | chirandom | teamblack | stew
+20390,1959,1959,1903,1959,f,us,14.518786682194005,0.0578690517051,0,1,"Nin, Anais,",Children of the albatross,teamred | chirandom
+20899,1970,1970,1908,1970,m,us,11.64462728949048,0.499760381656,0,1,"L'Amour, Louis,",Galloway,teamred | chirandom
+20922,1970,1970,1918,1970,m,us,10.581687208939705,0.780925026358,1,1,"Spillane, Mickey,",Survival Zero,chimyst | stew | teamblack | hardboiled
+21104,1959,1973,1909,1959,m,us,11.810909465905297,0.838650495308,1,1,"Himes, Chester B.",The crazy kill,chimyst | teamred | chirandom | hardboiled

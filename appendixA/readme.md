@@ -1,7 +1,7 @@
 Appendix A : Data and reproducibility
 =====================================
 
-This folder contains code used to count words, and a draft of Appendix A, but this readme file is also a good place to start thinking about the gritty details of reproducing workflows in *The Curved Horizon of Literary History.*
+This folder contains code used to count words, and a draft of Appendix A, but this readme file is also a good place to start thinking about the gritty details of reproducing workflows in *Distant Horizons.*
 
 Goals
 -----

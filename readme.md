@@ -1,11 +1,9 @@
-The Curved Horizon of Literary History
-======================================
+Distant Horizons: Digital Evidence and Literary Change
+=================================================================
 
-Research related to the book manuscript, *The Curved Horizon of Literary History* (Underwood, 2017).
+Code and data supporting the book manuscript, *Distant Horizons* (Ted Underwood, forthcoming from the University of Chicago Press in Spring 2019).
 
-The manuscript is now under review, and reviewers are also invited to inspect this repository. But note that I'm still working quite actively on the repository, and in particular, still testing that things run when this is cloned on a fresh machine. I would not be at all surprised to hear that there are loose ends here.
-
-The code and data needed to reproduce claims and figures in a given chapter are saved in the chapter folders. I would also draw readers' attention to the folder for appendix A, which contains general reflections on the limits of reproducibility in this repo.
+Most of the code and data for this project has been organized by chapter, so for many inquiries, a particular chapter folder may be the place to start. I would also draw readers' attention to the folder for appendix A, which contains general reflections on the level of error to be expected, and the limits of reproducibility in this repository.
 
 [chapter1](https://github.com/tedunderwood/horizon/tree/master/chapter1)
 --------

@@ -17,7 +17,7 @@ from scipy.stats import pearsonr
 
 dictionary = set()
 
-with open('../lexicons/MainDictionary.txt', encoding = 'utf-8') as f:
+with open('../../lexicons/MainDictionary.txt', encoding = 'utf-8') as f:
     reader = csv.reader(f, delimiter = '\t')
     for row in reader:
         word = row[0]
@@ -35,7 +35,7 @@ suffixes = dict()
 suffixes['verb'] = ['s', 'es', 'ed', 'd', 'ing']
 suffixes['noun'] = ['s', 'es']
 
-with open('../lexicons/inquirerbasic.csv', encoding = 'utf-8') as f:
+with open('../../lexicons/inquirerbasic.csv', encoding = 'utf-8') as f:
     reader = csv.DictReader(f)
     fields = reader.fieldnames[2:-2]
     for field in fields:
@@ -140,7 +140,7 @@ dateresults.sort()
 # http://www.wjh.harvard.edu/~inquirer/homecat.htm
 
 short2long = dict()
-with open('../lexicons/long_inquirer_names.csv', encoding = 'utf-8') as f:
+with open('../../lexicons/long_inquirer_names.csv', encoding = 'utf-8') as f:
     reader = csv.DictReader(f)
     for row in reader:
         short2long[row['short_name']] = row['long_name']

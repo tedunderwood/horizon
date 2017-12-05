@@ -35,11 +35,6 @@ def get_wordcounts(directoryname, extension, set2get):
                 if len(fields) < 2 or len(fields) > 2:
                     continue
 
-                if fields[1] == 'frequency' or type(fields[1]) == str:
-                    continue
-                    # this ensures that we skip the header
-                    # if one exists
-
                 else:
                     word = fields[0]
                     count = int(fields[1])

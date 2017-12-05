@@ -31,8 +31,15 @@ def get_wordcounts(directoryname, extension, set2get):
         with open(path, encoding = 'utf-8') as f:
             for line in f:
                 fields = line.strip().split()
+
                 if len(fields) < 2 or len(fields) > 2:
                     continue
+
+                if fields[1] == 'frequency' or type(fields[1]) == str:
+                    continue
+                    # this ensures that we skip the header
+                    # if one exists
+
                 else:
                     word = fields[0]
                     count = int(fields[1])
@@ -69,6 +76,7 @@ def get_wordfreqs(directoryname, extension, set2get):
         with open(path, encoding = 'utf-8') as f:
             for idx, line in enumerate(f):
                 fields = line.strip().split()
+
                 if len(fields) < 2 or len(fields) > 2:
                     continue
                 else:

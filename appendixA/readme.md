@@ -20,6 +20,13 @@ There are also some things I can't guarantee.
 1. The original texts are often in copyright, or covered by other IP contracts, so I can't share readable texts.
 2. I don't intend to provide "tools," designed to be useful in other research projects. This is just code that I actually used in the process of answering a particular set of questions.
 3. I also, frankly, can't even guarantee that everything is going to run in a simple push-button way. I've tried to make paths relative to the repo, but I may not have always succeeded; you might have to edit some things before they run.
+4. Where predictive modeling is concerned, I can't guarantee that it will run *quickly.* Some of the modeling code took me an afternoon to run on a 12-core desktop. If you're running those elements of the workflow on a laptop, it could take a day, and you'll have a warm laptop.
+
+Error
+-----
+The data and metadata in this repository contain many errors. When you're studying patterns across thousands of volumes, it is not possible to correct every OCR error. When you're studying hundreds of thousands of volumes, it's not even possible to guarantee that dates of publication are 100% correct. Library metadata is simply not 100% correct.
+
+So the approach I have taken in this project is almost never to eliminate error. Instead I usually measure the level of error, assess how it varies across the timeline, and provide some indication of how much that variation would change my results. In several chapters these calculations are gathered in a subfolder called **error.** I would encourage critics to adopt an analogous approach; simply pointing to a list of errors in the metadata will prove nothing.
 
 Dependencies
 ------------

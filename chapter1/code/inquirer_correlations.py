@@ -132,10 +132,26 @@ for field in fields:
 logresults.sort()
 dateresults.sort()
 
+# Now we load a dictionary that translates some of the short, opaque
+# terms used in the General Inquirer into phrases that are a little
+# more illuminating. Are these "translations" debatable? Yes.
+# But I have tried to base them on the descriptions at
+# http://www.wjh.harvard.edu/~inquirer/homecat.htm
+
+short2long = dict()
+with open('../lexicons/long_inquirer_names.csv', encoding = 'utf-8') as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        short2long[row['short_name']] = row['long_name']
+
 print('Printing the correlations of General Inquirer categories')
 print('with the predicted probabilities of being fiction in allsubset2.csv:')
 print()
-print(logresults)
+for prob, n in logresults:
+    if n in short2long:
+        n = short2long[n]
+    print(n+ '\t' + str(prob))
+
 
 
 

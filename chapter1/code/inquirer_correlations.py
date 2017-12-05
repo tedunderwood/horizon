@@ -107,8 +107,6 @@ for field in fields:
 
 wordcounts = filecab.get_wordcounts(sourcedir, '.tsv', docs)
 
-metapath = '../metadata/allgenremeta.csv'
-
 for i, doc in enumerate(docs):
     ctcat = Counter()
     allcats = 0
@@ -122,6 +120,9 @@ for i, doc in enumerate(docs):
 
 logresults = []
 dateresults = []
+
+# I compute correlations with date but don't print them;
+# this is vestigial from EDA.
 
 for field in fields:
     l = pearsonr(logistic, categories[field])[0]

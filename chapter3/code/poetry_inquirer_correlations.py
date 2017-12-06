@@ -85,7 +85,7 @@ docs = []
 logistic = []
 dates = []
 
-with open('../modeloutput/fullfiction.results.csv', encoding = 'utf-8') as f:
+with open('../modeloutput/fullpoetry.results.csv', encoding = 'utf-8') as f:
     reader = csv.DictReader(f)
     for row in reader:
         genre = row['realclass']
@@ -143,7 +143,7 @@ with open('../../lexicons/long_inquirer_names.csv', encoding = 'utf-8') as f:
         short2long[row['short_name']] = row['long_name']
 
 print('Printing the correlations of General Inquirer categories')
-print('with the predicted probabilities of being fiction in fullfiction.results.csv:')
+print('with the predicted probabilities of being fiction in fullpoetry.results.csv:')
 print()
 for prob, n in logresults:
     if n in short2long:

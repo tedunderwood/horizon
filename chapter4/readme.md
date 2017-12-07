@@ -3,12 +3,12 @@ Chapter Four
 
 "Metamorphoses of gender."
 
+This chapter uses a lot of voluminous data that couldn't fit in the repository. For the early figures based on predictive models, you will usually need to unpack [**data_for_chapter4a.tar.gz**](https://www.dropbox.com/s/tut72d5ghx8tmz9/data_for_chapter4a.zip?dl=0), which should produce a folder named **sourcefiles**. For the later figures based on more direct counting, unpack [**data_for_chapter4b.tar.gz**](https://www.dropbox.com/s/amz2pds7v4b0oq3/data_for_chapter4b.zip?dl=0), which should produce a folder called **data**. All of this is derived data; if you want to actually work from original texts, you would need to use my metadata to request files from HathiTrust, and analyze them using [BookNLP.](https://github.com/dbamman/book-nlp)
+
 figures
 --------
 
 Most of the figures were produced by a script in **rplots.** I'm not going to list the specific R script in each case, because the naming convention is transparent. E.g., figure 4.1 was produced by **rplots/C4Fig1accuracybydecade.R**
-
-Instead I indicate the data source used by the script, and scripts that produced it, so you can trace the thread back to its source. In most cases this will require unpacking a file not included here; this chapter uses a lot of voluminous data that couldn't fit in the repository. For the early figures based on predictive models, you will usually need to unpack **data_for_chapter4a.tar.gz** and put it in the empty **sourcefiles** folder. For the later figures based on more directc counting, unpack **data_for_chapter4b.tar.gz** and putting it in the empty **data** folder. The data_for_chapter_4c is not used directly to make figures, but if you wanted to reproduce things from something closer to scratch, you would unpack that.
 
 **Figure 4.1** The data here is created originally by **train_models/reproduce_character_models.py**; select the "decade_grid" option. This will produce a file called **dataforR/decadegrid.tsv.** To condense that into a data frame that can be used for plotting, you need to run **plot_scripts/get_decade_optimums.py.**
 

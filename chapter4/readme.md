@@ -5,6 +5,10 @@ Chapter Four
 
 This chapter uses a lot of voluminous data that couldn't fit in the repository. For the early figures based on predictive models, you will usually need to unpack [**data_for_chapter4a.zip**](https://www.dropbox.com/s/tut72d5ghx8tmz9/data_for_chapter4a.zip?dl=0), which should produce a folder named **sourcefiles** (100MB zipped, 300MB unzipped). For the later figures based on more direct counting, unpack [**data_for_chapter4b.zip**](https://www.dropbox.com/s/amz2pds7v4b0oq3/data_for_chapter4b.zip?dl=0), which should produce a folder called **data** (1.4 GB zipped, 4 unzipped). All of this is derived data; if you want to actually work from original texts, you would need to use my metadata to request files from HathiTrust, and analyze them using [BookNLP.](https://github.com/dbamman/book-nlp)
 
+error
+-----
+A brief description of possible sources of error.
+
 figures
 --------
 

@@ -9,6 +9,10 @@ notebooks
 ---------
 Some of the reasoning in this chapter--especially tables 3.2 and 3.3--may be easiest to follow in these Jupyter notebooks. For a richer account of the process that produced sales estimates, see other Jupyter notebooks in the **salesdata** subfolder.
 
+error
+-----
+There is no separate **error** folder in this chapter, but I recommend consulting the comparisons between differently-balanced models at the end of [notebooks/chapter3main.ipynb,](https://github.com/tedunderwood/horizon/blob/master/chapter3/notebooks/chapter3main.ipynb) and/or the reasoning about missing data in [salesdata/empiricalbayessales.ipynb](https://github.com/tedunderwood/horizon/blob/master/chapter3/salesdata/empiricalbayessales.ipynb).
+
 figures
 -------
 

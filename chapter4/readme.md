@@ -28,7 +28,7 @@ Most of the figures were produced by a script in **rplots.** I'm not going to li
 
 If you want to understand the underlying data,
 ----------------------------------------------
-The most complete derived data (that we can legally share) are tabular representations of the words associated with individual characters: character_table_18c19c.tsv and character_table_post1900.tsv. At 4GB total, these are too big for this repository are made available instead as data_for_chapter4c.tar.gz/
+The most complete derived data (that we can legally share) are tabular representations of the words associated with individual characters: character_table_18c19c.tsv and character_table_post1900.tsv. At 4GB total, these are too big for this repository and will be made available instead in the Dataverse for the *Cultural Analytics* article, "The Transformation of Gender in English-Language Fiction." (link TKA)
 
 Much of the analysis of publishing trends in the second part of the article can be reproduced using **filtered_fiction_metadata.csv** in the **metadata** subdirectory. The scripts to reproduce that analysis are under **/plot_scripts**.
 

@@ -7,7 +7,7 @@ In order to run the **reproduce** scripts in chapter3/code, you would first need
 
 notebooks
 ---------
-Some of the reasoning in this chapter--especially tables 3.2 and 3.3--may be easiest to follow in these Jupyter notebooks. For a richer account of the process that produced sales estimates, see other Jupyter notebooks in the **salesdata* subfolder.
+Some of the reasoning in this chapter--especially tables 3.2 and 3.3--may be easiest to follow in these Jupyter notebooks. For a richer account of the process that produced sales estimates, see other Jupyter notebooks in the **salesdata** subfolder.
 
 figures
 -------

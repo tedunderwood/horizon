@@ -5,6 +5,10 @@ Chapter One
 
 To understand how to reproduce a given figure, use the key below. If you want to reproduce the last stage of analysis and visualization, you can do that using code and data provided here. To reproduce everything from volume-level wordcounts, you'll need to unzip [data_for_chapter1.tar.gz](https://www.dropbox.com/s/p1puwvelgt9ch86/data_for_chapter1.tar.gz?dl=0) and put it in chapter1/sourcefiles. To reproduce everything from raw texts, you'll need to contact HathiTrust.
 
+error
+-----
+Assessment of error, and of its effects on models, is contained in this folder.
+
 Figure 1.1
 -----------
 Created by rplots/C1Fig1colors.R. This immediately uses plotdata/colorfic.csv. If you want to recreate that summary from the original volumes, read code/createcolorfic.py for the needed data.

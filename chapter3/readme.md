@@ -3,7 +3,11 @@ Chapter Three
 
 "The Long Arc of Prestige."
 
-In order to run the **reproduce** scripts in chapter3/code, you would first need to unzip [data_for_chapter3.tar.gz](https://www.dropbox.com/s/urlo2292g3ueozl/data_for_chapter3.tar.gz?dl=0) inside the chapter3/sourcefiles folder.
+In order to run the **reproduce** scripts in chapter3/code, you would first need to unzip [data_for_chapter3.tar.gz](https://www.dropbox.com/s/urlo2292g3ueozl/data_for_chapter3.tar.gz?dl=0) and use that data to replace the chapter3/sourcefiles folder.
+
+notebooks
+---------
+Some of the reasoning in this chapter--especially tables 3.2 and 3.3--may be easiest to follow in these Jupyter notebooks. For a richer account of the process that produced sales estimates, see other Jupyter notebooks in the **salesdata* subfolder.
 
 figures
 -------

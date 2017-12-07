@@ -4,7 +4,7 @@ library(dplyr)
 
 this.dir <- dirname(parent.frame(2)$ofile)
 setwd(this.dir)
-l <- read.csv('../plotdata/allsubset2.csv')
+l <- read.csv('../plotdata/the900.csv')
 
 reviewd <- as.factor(l$realclass)
 levels(reviewd) <- c('not', 'rev')
@@ -19,9 +19,9 @@ p <- ggplot(l, aes(x = dateused, y = logistic, color = reviewed, shape = reviewe
   scale_color_manual(name = 'actually\n', values = c('gray60', 'black'),
                      guide = guide_legend(keyheight = 3,  label.vjust = -0.4, override.aes = list(linetype = 0, fill = NA, size = 3))) + 
   theme(text = element_text(size = 24)) + scale_size(guide = FALSE, range = c(1.5,3.5)) +
-  scale_y_continuous('', labels = percent, breaks = c(0.25,0.5,0.75)) + 
+  scale_y_continuous('', labels = percent, breaks = c(0.3, 0.4, 0.5, 0.6, 0.7)) + 
   scale_x_continuous("") + theme_bw() +
-  annotate('text', x = 1700, y = 0.835, label = 'Probability of\nbeing fiction', 
+  annotate('text', x = 1700, y = 0.7, label = 'Probability of\nbeing fiction', 
            hjust = 0, family = 'Baskerville', size = 6.5) +
   theme(text = element_text(size = 24, family = "Baskerville"), panel.border = element_blank()) +
   theme(axis.line = element_line(color = 'black'),

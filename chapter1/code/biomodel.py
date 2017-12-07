@@ -271,16 +271,16 @@ def theninehundred():
 
     sourcefolder = '../sourcefiles/'
     extension = '.tsv'
-    metadatapath = '../metadata/hathigenremeta.csv'
+    metadatapath = '../metadata/the900.csv'
 
-    with open('../modeloutput/theninehundredpredicts.csv', mode = 'w', encoding = 'utf-8') as f:
+    with open('../modeloutput/the900predicts.csv', mode = 'w', encoding = 'utf-8') as f:
         f.write('floor,accuracy,auc\n')
 
 
     for floor in range(1700, 2000, 50):
         ceiling = floor + 50
 
-        modelname = 'theninehundred' + str(floor)
+        modelname = 'the900_' + str(floor)
         outputpath = '../modeloutput/' + modelname + '.csv'
         vocabpath = '../lexicons/' + modelname + '.csv'
 
@@ -334,7 +334,7 @@ def theninehundred():
 
         auc = calculate_auc(allvolumes)
         print(floor, rawaccuracy, auc)
-        with open('../modeloutput/theninehundredpredicts.csv', mode = 'a', encoding = 'utf-8') as f:
+        with open('../modeloutput/the900predicts.csv', mode = 'a', encoding = 'utf-8') as f:
             f.write(str(floor + 25) + ',' + str(rawaccuracy) + ',' + str(auc) + '\n')
 
 def predictecco():

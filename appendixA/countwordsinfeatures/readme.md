@@ -11,5 +11,5 @@ Usage here is not as pretty as tokenizetexts; you'll have to edit the
 
 clause at the end of the script.
 
-BUT before that will work, you'll also need to get [a lot of rulesets from my DataMunging repo,](https://github.com/tedunderwood/DataMunging/tree/master/rulesets) and change the paths in pasefeaturejsons so they point to your local copy of those rules. Sorry.
+BUT before that will work, you'll also need to get [a lot of rulesets from my DataMunging repo,](https://github.com/tedunderwood/DataMunging/tree/master/rulesets) and change the paths in parsefeaturejsons so they point to your local copy of those rules. Sorry.
 

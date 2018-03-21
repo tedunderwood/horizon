@@ -33,3 +33,7 @@ Scripts for visualization.
 sourcefiles
 -----------
 Empty folder. To be filled with files from data_for_chapter2.tar.gz if you want to recreate analyses from raw volume wordcounts. That file is going to be too large to include here and may be linked via Dropbox or figshare.
+
+surprise
+--------
+Scripts used to find the passages of Babel-17 that were most "surprising" to prewar models of science fiction--or to be more precise, passages where there was greatest difference between the generic predictions of prewar and postwar models. This directory relies on research undertaken for an article written after most of the rest of the book was completed, and the models it uses are not the same models used in the rest of the chapter. To more fully understand this part of the argument, I recommend consulting [the context of another repository.](https://github.com/tedunderwood/measureperspective)

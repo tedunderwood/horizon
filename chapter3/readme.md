@@ -20,11 +20,11 @@ figures
 
 **Figure 3.2** is produced by rplots/C3Fig2fictionmodel.R, drawing on a model created by code/reproduce_fictional_prestige.py.
 
-**Figure 3.3** is produced by salesdata/other_visualizations.ipynb, using data developed by other notebooks in salesdata.
+**Figure 3.3** is produced by rplots/C3Fig3salesratio.R, using data produced by salesdata/other_visualizations.ipynb, which in turn uses authordata.csv, produced by salesdata/empiricalbayessales.ipynb.
 
-**Figure 3.4** and **Figure 3.5** are both produced by salesvisualizations.ipynb at the top level of the chapter 3 folder, using data developed in the salesdata subfolder.
+**Figure 3.4** is produced by rplots/C3Fig4victorianfield.R, using pairedwithprestige.csv, produced by salesdata/empiricalbayessales.ipynb.
 
-It's possible that the visualizations currently produced by Jupyter notebooks will need to be replaced by R scripts for consistency across the book.
+**Figure 3.5** is produced by rplots/C3Fig5modernfield.R, using pairedwithprestige.csv, produced by salesdata/empiricalbayessales.ipynb.
 
 subdirectories
 --------------

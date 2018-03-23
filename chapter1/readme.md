@@ -3,7 +3,7 @@ Chapter One
 
 "Do we understand the outlines of literary history?"
 
-To understand how to reproduce a given figure, use the key below. If you want to reproduce the last stage of analysis and visualization, you can do that using code and data provided here. To reproduce everything from volume-level wordcounts, you'll need to unzip [data_for_chapter1.tar.gz](https://www.dropbox.com/s/p1puwvelgt9ch86/data_for_chapter1.tar.gz?dl=0) and put it in chapter1/sourcefiles. To reproduce everything from raw texts, you'll need to contact HathiTrust.
+To understand how to reproduce a given figure, use the key below. If you want to reproduce the last stage of analysis and visualization, you can do that using code and data provided here. To reproduce everything from volume-level wordcounts, you'll need to unzip [data_for_chapter1.tar.gz](http://hdl.handle.net/2142/99554) and put it in chapter1/sourcefiles. To reproduce everything from raw texts, you'll need to contact HathiTrust.
 
 error
 -----

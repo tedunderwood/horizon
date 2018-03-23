@@ -26,7 +26,9 @@ Error
 -----
 The data and metadata in this repository contain many errors. When you're studying patterns across thousands of volumes, it is not possible to correct every OCR error. When you're studying hundreds of thousands of volumes, it's not even possible to guarantee that dates of publication are 100% correct. Library metadata is simply not 100% correct.
 
-So the approach I have taken in this project is almost never to eliminate error. Instead I usually measure the level of error, assess how it varies across the timeline, and provide some indication of how much that variation would change my results. In several chapters these calculations are gathered in a subfolder called **error.** I would encourage critics to adopt an analogous approach; simply pointing to a list of errors in the metadata will prove nothing.
+So the approach I have taken in this project is not to eliminate error. Instead I usually measure the level of error, assess how it varies across the timeline, and provide some indication of how much that variation would change my results. In the repositories for chapters 1 and 4 these calculations are gathered in a subfolder called **error.** 
+
+I would encourage critics of *Distant Horizons* to adopt an analogous approach. Simply pointing to a list of errors in the metadata will prove nothing. (We already know there are thousands of errors.) To demonstrate that the book's conclusions need revising, a critic would ideally measure the level of error, and show that errors are distributed in a way that could have significant consequences for specific conclusions advanced in the book.
 
 Dependencies
 ------------
@@ -68,7 +70,7 @@ The reason for the difference is that chapter 2 worked with some texts from the 
 
 For chapter 4, you'll need to consult [David Bamman's BookNLP itself.](https://github.com/dbamman/book-nlp), and then the chapter4/transform_data folder.
 
-If you want a master list of fiction
+If you want a master list of English-language fiction in HathiTrust
 ----------------------------------
 
 You could check out **pre1923hathifiction.csv** and/or **incopyrighthathifiction.csv** [in the NovelTM metadata repo,](https://github.com/tedunderwood/noveltmmeta) for a very inclusive list of HathiTrust volumes. I didn't use this whole list for anything, but it will give you a sense of the *outer limits* of the library, things that may be missing, etc.
@@ -77,9 +79,10 @@ For a more rigorously filtered and deduplicated list of fiction, try **filtered_
 
 If you want to understand how these lists were produced, try [the report for *Understanding Genre in a Collection of a Million Volumes.*](https://figshare.com/articles/Understanding_Genre_in_a_Collection_of_a_Million_Volumes_Interim_Report/1281251) It says its an interim performance report, but actually it's the final version.
 
-If you want a master list of poetry
+If you want a master list of English-language poetry in HathiTrust
 -----------------------------------
-Still working on getting this up in the repo.
+
+Probably the best thing to consult is [poemeta.csv.zip, in the Understanding Genre project](https://figshare.com/articles/Page_Level_Genre_Metadata_for_English_Language_Volumes_in_HathiTrust_1700_1922/1279201). That list of poetry will stop in 1922, but so does the research on poetry in *Distant Horizons.* Again, this list is meant to trace the outer limits of the poetry collection I drew from in this project; it's not a list that was itself directly used in the research.
 
 
 

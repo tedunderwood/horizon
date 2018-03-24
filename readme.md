@@ -1,6 +1,8 @@
 Distant Horizons: Digital Evidence and Literary Change
 =================================================================
 
+[![DOI](https://zenodo.org/badge/99808675.svg)](https://zenodo.org/badge/latestdoi/99808675)
+
 Code and data supporting the book manuscript, *Distant Horizons* (Ted Underwood, forthcoming from the University of Chicago Press in Spring 2019).
 
 Most of the code and data for this project has been organized by chapter, so for many inquiries, a particular chapter folder may be the place to start. I would also draw readers' attention to the folder for appendix A, which contains general reflections on the level of error to be expected, and the limits of reproducibility in this repository.

@@ -15,11 +15,11 @@ prob.frame = data.frame(test = seq(50, 120, 0.1), prob = probabilities)
 p <- ggplot() + geom_line(data = prob.frame, aes(x = test, y = prob), size = 2, color = 'gray64') +
     geom_point(data = frame, aes(x = test, y = disease), size = 3) + theme_bw() +
   scale_x_continuous('test result') +
-  scale_y_continuous('', breaks = c(0, 0.25, 0.5, 0.75, 1)) + 
-  annotate("text", x = 50, y = 1.12, 
-           label = "Probability of\nhaving disease", hjust = 0, size = 5) +
-  theme(text = element_text(size = 16), panel.border = element_blank()) +
-  theme(axis.line = element_line(color = 'black')) 
+  scale_y_continuous('probability of disease', breaks = c(0, 0.25, 0.5, 0.75, 1)) + 
+  theme(text = element_text(size = 22, family = "Avenir Next Medium"), panel.border = element_blank()) +
+  theme(axis.line = element_line(color = 'black'),
+        axis.title.x = element_text(margin = margin(t = 14)),
+        axis.title.y = element_text(margin = margin(r = 14))) 
 tiff("/Users/tunder/Dropbox/book/appendixB/images/logistic.tiff", height = 6, width = 6, units = 'in', res=400)
 plot(p)
 dev.off()

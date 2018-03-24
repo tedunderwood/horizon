@@ -3,7 +3,7 @@ Chapter Three
 
 "The Long Arc of Prestige."
 
-In order to run the **reproduce** scripts in chapter3/code, you would first need to unzip [data_for_chapter3.tar.gz](https://www.dropbox.com/s/urlo2292g3ueozl/data_for_chapter3.tar.gz?dl=0) and use that data to replace the chapter3/sourcefiles folder.
+In order to run the **reproduce** scripts in chapter3/code, you would first need to unzip [data_for_chapter3.tar.gz](http://hdl.handle.net/2142/99556) and use that data to replace the chapter3/sourcefiles folder.
 
 notebooks
 ---------

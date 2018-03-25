@@ -12,7 +12,7 @@ p <- ggplot(data, aes(x = year)) +
   theme_bw() +
   ggtitle("Ratio of bestsellers by reviewed authors\nto those by random authors") +
   labs(x = '', y = '') +
-  scale_y_continuous(limits = c(0, 10), breaks = c(0, 1, 2.5, 5, 10)) +
+  scale_y_continuous(limits = c(0, 3.2)) +
   theme(text = element_text(size = 18, family = "Avenir Next Medium"), panel.border = element_blank()) +
   theme(axis.line = element_line(color = 'black'), 
         legend.position = 'none',

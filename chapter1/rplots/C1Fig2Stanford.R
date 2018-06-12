@@ -16,9 +16,9 @@ p <- ggplot(causes, aes(x = year, y = hardpct, color = genre, shape = genre)) +
                      guide = guide_legend(keyheight = 3.5,  label.vjust = 0, override.aes= list(size = 3))) + 
   scale_y_continuous('', labels = percent) + 
   scale_x_continuous("") + theme_bw() +
-  annotate('text', x = 1700, y = 0.0755, label = 'Frequency of\nStanford "hard seeds"', 
-           hjust = 0, family = 'Baskerville', size = 6.6) +
-  theme(text = element_text(size = 24, family = "Baskerville"), panel.border = element_blank()) +
+  annotate('text', x = 1700, y = 0.0755, label = 'frequency of\nStanford "hard seeds"', 
+           hjust = 0, family = 'Avenir Next Medium', size = 5) +
+  theme(text = element_text(size = 20, family = "Avenir Next Medium"), panel.border = element_blank()) +
   theme(axis.line = element_line(color = 'black'),
         axis.text = element_text(color = 'black')) +
   scale_shape_discrete(name = "genre\n",

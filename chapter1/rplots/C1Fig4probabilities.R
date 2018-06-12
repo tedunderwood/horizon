@@ -21,9 +21,9 @@ p <- ggplot(l, aes(x = dateused, y = logistic, color = reviewed, shape = reviewe
   theme(text = element_text(size = 24)) + scale_size(guide = FALSE, range = c(1.5,3.5)) +
   scale_y_continuous('', labels = percent, breaks = c(0.3, 0.4, 0.5, 0.6, 0.7)) + 
   scale_x_continuous("") + theme_bw() +
-  annotate('text', x = 1700, y = 0.7, label = 'Probability of\nbeing fiction', 
-           hjust = 0, family = 'Baskerville', size = 6.5) +
-  theme(text = element_text(size = 24, family = "Baskerville"), panel.border = element_blank()) +
+  annotate('text', x = 1700, y = 0.75, label = 'probability of\nbeing fiction', 
+           hjust = 0, family = 'Avenir Next Medium', size = 5) +
+  theme(text = element_text(size = 20, family = "Avenir Next Medium"), panel.border = element_blank()) +
   theme(axis.line = element_line(color = 'black'),
         axis.text = element_text(color = 'black')) +
   scale_shape_discrete(name = "actually\n")

@@ -10,8 +10,8 @@ p <- ggplot(d2, aes(x = as.numeric(center), y = accuracy)) + theme_bw() +
   scale_x_continuous('mean date of volumes modeled', breaks = c(1700, 1750, 1800, 1850, 1900,
                                                   1950, 2000), limits = c(1700, 2000)) +
   theme_bw() +
-  annotate('text', x = 1700, y = 0.99, label = 'Predictive\naccuracy', 
-           hjust = 0, family = "Avenir Next Medium", size = 6) +
+  annotate('text', x = 1700, y = .995, label = 'predictive\naccuracy', 
+           hjust = 0, family = "Avenir Next Medium", size = 5) +
   theme(text = element_text(size = 18, family = "Avenir Next Medium"), panel.border = element_blank()) +
   theme(axis.line = element_line(color = 'black'),
         axis.text = element_text(color = 'black'),

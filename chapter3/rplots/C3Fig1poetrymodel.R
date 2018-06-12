@@ -12,16 +12,14 @@ slope = coef(model)[2]
 line = intercept + (slope * l$pubdate)
 l$reviewed = as.factor(l$realclass)
 levels(l$reviewed) = c('random', 'reviewed')
-p <- ggplot(l, aes(x = pubdate, y = logistic, color = reviewed, shape = reviewed)) + theme_bw() +
+p <- ggplot(l, aes(x = dateused, y = logistic, color = reviewed, shape = reviewed)) + theme_bw() +
   geom_point() + geom_abline(intercept = intercept, slope = slope) + scale_shape_manual(name="actually\n", values = c(1, 17)) + 
   scale_color_manual(name = "actually\n", values = c('gray40', 'gray0')) + 
   theme(text = element_text(size = 16, family = 'Avenir Next Medium')) + 
-  scale_y_continuous('', labels = percent, breaks = c(0.25,0.5,0.75)) + 
-  scale_x_continuous("", breaks = c(1820, 1840, 1860, 1880, 1900, 1920)) +
-  ggtitle('Predicted probability of belonging to reviewed set') +
-  theme(plot.title = element_text(hjust = 0, margin = margin(b = 10), size = 16))
+  scale_y_continuous('probability', labels = percent, breaks = c(0.25,0.5,0.75)) + 
+  scale_x_continuous("", breaks = c(1820, 1840, 1860, 1880, 1900, 1920))
 
-tiff("~/Dropbox/book/chapter3/images/poetrymodel.tiff", height = 6, width = 9, units = 'in', res=400)
+tiff("~/Dropbox/book/chapter3/images/C3Fig1poetrymodel.tiff", height = 6, width = 9, units = 'in', res=400)
 plot(p)
 dev.off()
 plot(p)

@@ -37,12 +37,8 @@ p <- ggplot(moderns, aes(x = percentile, y = prestige, shape = reviewed, color =
   scale_x_continuous(limits = c(0, 1.15), breaks = c(0, 0.25, 0.5, 0.75, 1)) +
   labs(x = 'percentile ranking, sales', y = 'prob. of review in selective venues') +
   theme(text = element_text(size = 18, family = "Avenir Next Medium"), panel.border = element_blank()) +
-  ggtitle('The literary field, 1925-49') +
   theme(axis.line = element_line(color = 'black'), 
-        legend.position = 'none',
-        plot.title = element_text(size = 18),
-        axis.title.x = element_text(margin = margin(t = 14)),
-        axis.title.y = element_text(margin = margin(r = 14)))
+        legend.position = 'none')
 
 tiff("~/Dropbox/book/chapter3/images/C3Fig5modernfield.tiff", height = 6, width = 9, units = 'in', res=400)
 plot(p)

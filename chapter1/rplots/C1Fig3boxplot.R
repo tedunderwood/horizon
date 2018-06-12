@@ -1,18 +1,18 @@
 # boxplot
 
-d2 <- read.csv('/Users/tunder/Dropbox/python/results/biopredictsII.csv')
+d2 <- read.csv('/Users/tunder/Dropbox/book/chapter1/modeloutput/finalbiopredicts.csv')
 library(ggplot2)
 library(scales)
 
-p <- ggplot(d2, aes(x = as.factor(floor), y = accuracy)) + theme_bw() +
-  geom_boxplot(fill = 'gray85') +
+p <- ggplot(d2, aes(x = as.numeric(center), y = accuracy)) + theme_bw() +
+  geom_point(fill = 'gray85', position = position_jitter(height = 0, width = 7), shape = 23, size =2) +
   scale_y_continuous('', labels = percent) +
-  scale_x_discrete('first year in a 30-year span', breaks = c('1700', '1730', '1760', '1790', '1820', '1850', '1880', '1910',
-                                  '1940', '1970')) +
+  scale_x_continuous('mean date of volumes modeled', breaks = c(1700, 1750, 1800, 1850, 1900,
+                                                  1950, 2000), limits = c(1700, 2000)) +
   theme_bw() +
-  annotate('text', x = '1700', y = 0.99, label = 'Predictive\naccuracy', 
-           hjust = 0, family = 'Baskerville', size = 6.8) +
-  theme(text = element_text(size = 24, family = "Baskerville"), panel.border = element_blank()) +
+  annotate('text', x = 1700, y = .995, label = 'predictive\naccuracy', 
+           hjust = 0, family = "Avenir Next Medium", size = 5) +
+  theme(text = element_text(size = 18, family = "Avenir Next Medium"), panel.border = element_blank()) +
   theme(axis.line = element_line(color = 'black'),
         axis.text = element_text(color = 'black'),
         axis.title.x = element_text(margin = margin(t = 14)))

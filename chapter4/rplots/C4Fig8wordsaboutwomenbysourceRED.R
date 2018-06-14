@@ -57,17 +57,19 @@ p <- ggplot(df, aes(x = date, y = womenratio, color = source, shape = source, al
   geom_point() + scale_x_continuous("") + 
   scale_alpha_manual(name = 'source\n', values = c(1, 0.6),
                      guide = guide_legend(keyheight = 2, label.vjust = 0.6)) +
-  scale_colour_manual(name = 'source\n', values = c('black', 'gray40'),
+  scale_colour_manual(name = 'source\n', values = c('red', 'gray40'),
                       guide = guide_legend(keyheight = 2, label.vjust = 0.6)) + 
   scale_shape_manual(name = 'source\n', values = c(17,19), 
                      guide = guide_legend(keyheight = 2, label.vjust = 0.6, 
                                           override.aes = list(size = 2))) +
   scale_y_continuous("", labels=percent, limits = c(0, 0.58)) + theme_bw() +
-  theme(text = element_text(size = 18, family = "Avenir Next Medium"), 
+  ggtitle('Percentage of words used in\ncharacterization that describe women') +
+  theme(text = element_text(size = 16, family = "Avenir Next Medium"), 
         panel.border = element_blank(),
-        axis.line = element_line(color = 'black'))
+        axis.line = element_line(color = 'black'),
+        plot.title = element_text(margin = margin(b = 14), size = 16, lineheight = 1.1))
 
-tiff("../images/C4Fig8wordsabtwomen.tiff", height = 6, width = 9, units = 'in', res=400)
+tiff("../images/C4Fig8wordsabtwomenRED.tiff", height = 6, width = 9, units = 'in', res=400)
 plot(p)
 dev.off()
 plot(p)
